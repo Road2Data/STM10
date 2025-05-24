@@ -3,101 +3,101 @@
 
 ServerEvents.recipes(allthemods => {
   // Dragon Soul
-  allthemods.shaped('allthetweaks:dragon_soul', ['CDA', 'SNI', 'BGE'], {
-    C: 'apothic_enchanting:infused_breath',
-    D: 'occultism:soul_gem',
-    A: 'occultism:spawn_egg/familiar_dragon',
-    S: 'productivetrees:socotra_dragon_sapling',
-    N: ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]'],
-    I: 'allthemodium:piglich_heart_block',
-    B: 'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:soul_lava"}]',
-	  G: 'cataclysm:abyssal_sacrifice',
-    E: 'eternal_starlight:chain_of_souls'
+  // Custom Recipe added 2025.05.22-19:50 CST
+  // Confirmed Functional
+  allthemods.shaped('allthetweaks:dragon_soul', ['CAH', 'MDA', 'BMC'], {
+    A: 'cataclysm:abyssal_sacrifice',
+    B: 'apothic_enchanting:infused_breath',
+    C: 'eternal_starlight:chain_of_souls',
+    D: ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]'],
+    H: 'allthemodium:piglich_heart_block',
+    M: 'rechiseled:netherite_block_meteoric'
   }).id('allthemods:allthetweaks/dragon_soul')
 
  // Improbable Probability Device
- allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGC', 'FDF'], {
-  A: 'mekanism:pellet_antimatter',
-  B: 'ae2:singularity',
-  C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
-  D: 'pneumaticcraft:aerial_interface',
-  F: 'ironfurnaces:million_furnace', 
-  G: 'irons_spellbooks:lightning_upgrade_orb'
+ // Custom Recipe added 2025.05.22-21:44 CST
+ allthemods.shaped('allthetweaks:improbable_probability_device', ['AEA', 'DCD', 'IGI'], {
+  A: 'mekanism:qio_drive_array',
+  C: 'advanced_ae:quantum_core',
+  D: 'mekanism:qio_drive_supermassive',
+  E: 'powah:energy_cell_nitro',
+  G: 'universalgrid:wireless_universal_grid',
+  I: 'silentgear:azure_electrum_block'
   }).id('allthemods:allthetweaks/improbable_probability_device')
 
   // Dimensional Seed Recipe
-  allthemods.shaped('allthetweaks:dimensional_seed', ['ABC', 'DEF', 'GHI'], {
-    A: 'allthecompressed:netherrack_6x',
-    B: 'allthecompressed:dirt_6x',
-    C: 'allthecompressed:obsidian_5x',
-    D: 'allthetweaks:mini_exit',
-    E: 'allthetweaks:mini_nether',
-    F: 'allthetweaks:mini_end',
-    G: 'allthecompressed:end_stone_5x',
-    H: 'allthecompressed:emerald_block_4x',
-    I: 'allthecompressed:diamond_block_4x'
+  // Custom Recipe added 2025.05.22-20:00 CST
+  // Confirmed Functional
+  allthemods.shaped('allthetweaks:dimensional_seed', ['DSN', 'KOH', 'EQC'], {
+    C: 'rftoolspower:dimensionalcell_advanced',
+    D: 'allthecompressed:diamond_block_5x',
+    E: 'allthetweaks:mini_end',
+    H: 'twilightforest:hydra_trophy',
+    K: 'twilightforest:knight_phantom_trophy',
+    N: 'allthetweaks:mini_nether',
+    O: 'allthetweaks:mini_exit',
+    Q: 'twilightforest:snow_queen_trophy',
+    S: 'twilightforest:naga_trophy'
   }).id('allthemods:allthetweaks/dimensional_seed')
 
   // Withers Compass
-  allthemods.shaped('allthetweaks:withers_compass', ['ABC', 'DEF', 'GHI'], {
-    A: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:withered"]',
-    B: 'industrialforegoing:wither_builder',
-    C: 'deeperdarker:heart_of_the_deep',
-    D: 'generatorgalore:netherstar_generator_64x',
-    E: 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]',
-    F: 'mysticalagriculture:witherproof_bricks',
-    G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
-    H: 'ars_nouveau:glyph_wither',
-    I: 'mysticalagradditions:nether_star_crux'
+  // Custom Recipe added 2025.05.22-20:25 CST
+  // Confirmed Functional
+  allthemods.shaped('allthetweaks:withers_compass', ['WHW', 'GRG', 'MSM'], {
+    G: 'generatorgalore:netherstar_generator_8x',
+    H: 'deeperdarker:heart_of_the_deep',
+    M: 'mysticalagriculture:witherproof_bricks',
+    R: 'minecraft:recovery_compass',
+    S: 'mysticalagradditions:nether_star_crux',
+    W: 'ars_nouveau:glyph_wither'
   }).id('allthemods:allthetweaks/withers_compass')
 
   // Philosopher's Fuel
-  allthemods.shaped('allthetweaks:philosophers_fuel', ['ABC', 'DEF', 'GHI'], {
-  A: 'generatorgalore:ender_generator',
-	B: 'ironfurnaces:rainbow_coal'  ,
-	C: 'bigreactors:insanite_block' ,
-	D: Ingredient.of(['modern_industrialization:uranium_fuel_rod_quad','create:blaze_burner']),
-	E: 'mysticalagradditions:insanium_coal_block',
-  F: 'forbidden_arcanus:smelter_prism',
-	G: 'mysticalagriculture:awakened_supremium_ingot_block',
-	H: 'generatorgalore:magmatic_generator_64x',
-  I: 'evilcraft:dark_tank[cyclopscore:fluid_content={amount:16000,id:"justdirethings:refined_t4_fluid_source"}]'
+  // Custom Recipe added 2025.05.22-21:48 CST
+  // Confirmed Functional
+  allthemods.shaped('allthetweaks:philosophers_fuel', ['SES', 'BCB', 'GAG'], {  
+	A: 'mysticalagriculture:awakened_supremium_ingot_block',
+  B: 'create:blaze_burner',
+  C: 'mysticalagradditions:insanium_coal_block',
+  E: 'generatorgalore:ender_generator_8x',
+  G: 'generatorgalore:magmatic_generator_64x',
+  S: 'forbidden_arcanus:smelter_prism'
   }).id('allthemods:allthetweaks/philosophers_fuel')
 
  // Nexium Emitter
- allthemods.shaped('allthetweaks:nexium_emitter', ['A B', ' CF', 'GED'], {
-  A: 'powah:player_transmitter_nitro',
-  B: 'ae2wtlib:wireless_universal_terminal[ae2wtlib:has_ex_pattern_access_terminal={},ae2wtlib:has_pattern_encoding_terminal={},ae2wtlib:has_crafting_terminal={},ae2wtlib:has_pattern_access_terminal={},ae2:stored_energy=6400000.0d]',
-  F: [Item.of('mekanism:module_gravitational_modulating_unit')],
-  D: Ingredient.of(['modern_industrialization:large_advanced_motor',"create:mechanical_arm"]),
-  E: 'immersiveengineering:tesla_coil',
+ // Custom Recipe added 2025.05.22-22:20 CST
+ allthemods.shaped('allthetweaks:nexium_emitter', ['TLD', 'LAE', 'REC'], {
+  A: 'xnet:antenna_dish',
   C: 'advanced_ae:quantum_multi_threader',
-  G: 'aeinfinitybooster:infinity_card'
+  D: 'aeinfinitybooster:dimension_card',
+  E: 'powah:energy_cell_nitro',
+  L: 'mekanism:laser',
+  R: 'aeinfinitybooster:infinity_card',
+  T: 'powah:player_transmitter_nitro'
 }).id('allthemods:allthetweaks/nexium_emitter')
 
 // Oblivion Shard
-allthemods.shaped('allthetweaks:oblivion_shard', ['DAB', 'ECF', 'BGD'], {
+// Tweaked Recipe added 2025.05.22-20:51 CST
+// Confirmed Functional
+allthemods.shaped('allthetweaks:oblivion_shard', ['DAB', 'ECF', 'BAD'], {
   A: 'forbidden_arcanus:eternal_stella',
-  C: 'evilcraft:mace_of_destruction[cyclopscore:fluid_content={amount:4000,id:"evilcraft:blood"}]',
-  B: 'evilcraft:piercing_vengeance_focus',
-  D: 'stevescarts:module_galgadorian_drill',
+  C: 'allthemodium:unobtainium_mace',
+  B: 'ars_elemental:necrotic_focus',
+  D: 'mininggadgets:mininggadget',
   E: 'cataclysm:meat_shredder',
-  G: 'twilightforest:snow_queen_trophy',
   F: 'cataclysm:void_forge'
 }).id('allthemods:allthetweaks/oblivion_shard')
 
 
 // Pulsating Black Hole
-allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
-  A: 'irons_spellbooks:fire_upgrade_orb',
-  B: 'ae2:quantum_ring'  ,
-  C: 'pneumaticcraft:micromissiles' ,
-  D: 'justdirethings:paradoxmachine',
-  E: 'pocketstorage:psu_4',
-  F: 'occultism:stable_wormhole',
-  G: 'rootsclassic:crystal_staff',
-  H: 'industrialforegoing:mycelial_explosive',
-  I: 'evilcraft:lightning_bomb'
+// Custom Recipe added 2025.05.22-20:28 CST
+// Confirmed Functional
+allthemods.shaped('allthetweaks:pulsating_black_hole', ['MSM', 'UPU', 'ASA'], {
+  A: 'allthecompressed:pulsating_alloy_block_4x',
+  M: 'mekanism:pellet_antimatter',
+  P: 'justdirethings:paradoxmachine',
+  S: 'ae2:singularity',
+  U: 'pocketstorage:psu_4'
 }).id('allthemods:pressure/allthetweaks/pulsating_black_hole')
 
   // Creative Essence
