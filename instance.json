@@ -1,0 +1,29 @@
+{
+  "_version": "1",
+  "name": "All the Mods 10 - ATM10",
+  "icon": "icon.png",
+  "created_at": "2025-05-22T23:42:34.814093400Z",
+  "updated_at": "2025-05-22T23:56:24.341030200Z",
+  "last_played": "2025-05-23T03:32:11.614549900Z",
+  "seconds_played": 7586,
+  "modpack": {
+    "platform": "Curseforge",
+    "project_id": 925200,
+    "file_id": 6550790,
+    "locked": false
+  },
+  "game_configuration": {
+    "version": {
+      "release": "1.21.1",
+      "modloaders": [
+        {
+          "type": "Neoforge",
+          "version": "21.1.172"
+        }
+      ]
+    },
+    "global_java_args": true
+  },
+  "mod_sources": null,
+  "notes": ""
+}

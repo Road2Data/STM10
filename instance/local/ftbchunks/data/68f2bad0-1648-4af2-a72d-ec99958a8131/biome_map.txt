@@ -1,0 +1,12 @@
+#556 minecraft:beach
+#3DF biomeswevegone:coconino_meadow
+#3D6 minecraft:cold_ocean
+#4CA minecraft:dripstone_caves
+#6FD regions_unexplored:maple_forest
+#17D biomeswevegone:maple_taiga
+#512 integrateddynamics:meneglin
+#0BC biomeswevegone:orchard
+#5FF minecraft:river
+#48F regions_unexplored:towering_cliffs
+#05C minecraft:windswept_gravelly_hills
+#4C3 minecraft:windswept_hills

@@ -1,0 +1,6 @@
+/give @p apothic_enchanting:infused_breath
+/give @p mininggadgets:mininggadget
+/give @p mysticalagriculture:awakened_supremium_block
+/give @p create:blaze_burner
+/give @p advanced_ae:quantum_multi_threader
+/give @p mekanism:laser_amplifier
