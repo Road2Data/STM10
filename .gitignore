@@ -1,0 +1,6 @@
+mods/
+logs/
+world/
+*.jar
+*.log
+*.tmp
