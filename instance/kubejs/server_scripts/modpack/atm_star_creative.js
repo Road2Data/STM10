@@ -83,25 +83,8 @@ ServerEvents.recipes(allthemods => {
                 F: 'evilcraft:broom[cyclopscore:fluid_content={amount:10000,id:"evilcraft:blood"}]',
     }
 )
-    //Integrated Dynamics
-        
-        allthemods.custom(
-            {
-                type: 'powah:energizing',
-                energy: 2147483647,
-                ingredients: [
-                    Ingredient.of('integrateddynamics:energy_battery').toJson(),
-                    Ingredient.of('integrateddynamics:energy_battery').toJson(),
-                    Ingredient.of('allthetweaks:atm_star').toJson(),
-                    Ingredient.of('integrateddynamics:energy_battery').toJson(),
-                    Ingredient.of('integrateddynamics:energy_battery').toJson()
-                ],
-                result: {
-                    count: 1,
-                    id: 'integrateddynamics:energy_battery_creative'
-                }
-            }
-        ).id('allthemods:energizing/integrateddynamics_energy_battery_creative')
+    //Removed Integrated Dynamics
+
 
     //Iron Jetpacks
 

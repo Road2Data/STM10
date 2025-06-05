@@ -48,7 +48,6 @@
 	chapter.5D045EF1AB73DF70.title: "Basic Power"
 	chapter.5E31DF282998B992.title: "PneumaticCraft"
 	chapter.65A95C2312976E49.title: "The Undergarden"
-	chapter.69299302373C4CBC.title: "Integrated Dynamics"
 	chapter.6AEC23C6D526F362.title: "Eternal Starlight"
 	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
 	chapter.6B13AF321AC831D1.title: "Age of Oil and Blastproof Plates"
@@ -3205,7 +3204,7 @@
 	quest.1FDC8725105D822A.title: "Kitchen Set"
 	quest.1FE052F643401232.quest_desc: ["You will need these to make Backpack Upgrades."]
 	quest.1FE052F643401232.quest_subtitle: "The Base for Upgrades"
-	quest.1FE17B1C7C639F88.quest_desc: ["The Storage Controller allows you to work with multiple storages as if they were one big storage multiblock.\\n\\nThis allows for a very large storage network, which can be combined with mods like Applied Energistics or Integrated Dynamics, as the Storage Controller acts as an in/out point for all storages attached to it.\\n\\nConnecting either can be done by simply putting storages next to Storage Controller or next to others that are already connected to Storage Controller (this works up to 14 blocks away from controller in all directions)."]
+	quest.1FE17B1C7C639F88.quest_desc: ["The Storage Controller allows you to work with multiple storages as if they were one big storage multiblock.\\n\\nThis allows for a very large storage network, which can be combined with mods like Applied Energistics, as the Storage Controller acts as an in/out point for all storages attached to it.\\n\\nConnecting either can be done by simply putting storages next to Storage Controller or next to others that are already connected to Storage Controller (this works up to 14 blocks away from controller in all directions)."]
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5Unobtainium Arcanist Armor"
 	quest.1FE7C52491E7499B.quest_desc: [
@@ -7508,9 +7507,6 @@
 		""
 		"You've still got a ways to go with fluids before you make the &3Nanoprocessor&r tier of circuits"
 	]
-	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics&r (ID) is a logistics mod that can be used for storage, item/power/fluid transfer and more!\\n\\nMenril trees can be found in Meneglin biomes.\\n\\nThese quests will cover some of the basic concepts of the mod, read the guidebook given as a reward for this quest if you want to go further in depth."]
-	quest.499CF9F39CED8899.quest_subtitle: "Growing Menril"
-	quest.499CF9F39CED8899.title: "&bIntegrated Dynamics"
 	quest.49A42093EB18E7EB.quest_desc: ["This semi-conductor will be put to good use in order for our Fusion Reactor to produce a useful byproduct."]
 	quest.49A42093EB18E7EB.quest_subtitle: "Liquid Silicon"
 	quest.49D0B6D3ED3DCCCD.quest_desc: ["&bArcane Crystal Dust&r is pretty simple, just Smelt &bArcane Crystals&r and boom! \\n\\nYou can also use the Clibano Multiblock in order to get a few bits of &bArcane Crystals&r back!"]
@@ -11468,14 +11464,6 @@
 	quest.6DFBF1E46E142EFB.quest_desc: ["This is the boiler. This will power the &lSteam Age&l."]
 	quest.6E04A314CD796254.quest_desc: ["What does every Magic Mod need? Did you say a gun! I hope you said a gun! \\n\\nThe Nobu is a gun, which of course has 3 different firing Modes."]
 	quest.6E04A314CD796254.title: "&5&lNobu"
-	quest.6E05B62A40D5A891.quest_desc: [
-		"&3&lIntegrated Dynamics&r is all about &f&lLogistics&r! It's practically the definition of &lLogistic&r."
-		""
-		"It's all about moving, managing, and storing items. Heck you might not even need the Wrench for it, it's so well designed! Get one just incase though."
-		""
-		"(Least laggy pipe solution, these are recommended)."
-	]
-	quest.6E05B62A40D5A891.title: "&3&lIntegrated Dynamics"
 	quest.6E0624750DF8CD18.quest_desc: ["Can't craft these anymore now you need to upgrade &cNetherite&r to it always. \\nYes, it saves Enchantments and Repairs it!"]
 	quest.6E0624750DF8CD18.title: "&6Allthemodium Tools"
 	quest.6E08D4E6BC3FB99F.quest_desc: ["The &5Deeplings&r are an ancient race of sea monsters who live and guard the &5Sunken City&r. They have their own rankings: Anglers, Brutes, Priests, and Warlocks. \\n\\n&5Deeplings&r are the most basic, only having 13 &4Hearts&r and a Coral Spear. \\n\\n&5Deepling Anglers&r are the next ones, they have 15 &4Hearts&r and hold a Fishing Rod with a &5Lionfish&r attached. The &5Lionfish&r will attack you and give you Poison, they have 6 &4Hearts&r. \\n\\n&5Deepling Brutes&r have 60 &4Hearts&r and hold a Coral Bardiche, which they will use to charge at you in the Water. \\n\\n&5Deepling Warlocks &fand &5Priests&r both have 45 &4Hearts&r and both hold Athame. The &5Priests&r have a ranged attack they can use, while &5Warlocks&r do not!"]
@@ -12101,12 +12089,6 @@
 		""
 		"Replace the Cupronickel Coils on your &aEBF&r with this stuff"
 	]
-	quest.72EA25D05C46D39A.quest_desc: ["&9Integrated Dynamics&r provides a simple power storage system. The Batteries can be combined in a crafting grid to increase the overall storage!"]
-	quest.72EA25D05C46D39A.quest_subtitle: "Batteries Included"
-	quest.72EA25D05C46D39A.title: "&9Integrated Dynamics: &bEnergy Battery"
-	quest.72F57D77C3FB366D.quest_desc: ["Blocks of Crystallized Menril can be crafted into Crystallized Menril Chunks. These chunks are the main crafting ingredient of ID."]
-	quest.72F57D77C3FB366D.quest_subtitle: "The Main Crafting Ingredient"
-	quest.72F57D77C3FB366D.title: "Crystallized Menril Chunks"
 	quest.72FA90C181139957.quest_subtitle: "That's some power!"
 	quest.72FADEAEE2DA03AF.quest_desc: [
 		"The third step is where the newly changed &eSulfur&r will go, Result Pedestal. Once it's reformed it will go here."

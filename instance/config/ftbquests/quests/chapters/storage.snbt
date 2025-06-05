@@ -73,14 +73,6 @@
 			y: -7.0d
 		}
 		{
-			height: 3.0d
-			image: "integrateddynamics:aspect/read/boolean/inventory/full"
-			rotation: 0.0d
-			width: 3.0d
-			x: 0.0d
-			y: 7.0d
-		}
-		{
 			height: 1.0d
 			image: "sophisticatedstorage:item/packing_tape"
 			rotation: 0.0d
@@ -345,27 +337,6 @@
 				}
 			]
 			x: -15.5d
-			y: 0.0d
-		}
-		{
-			hide_dependency_lines: false
-			icon: {
-				id: "integratedterminals:terminal_storage_portable"
-			}
-			id: "5A94A2664BFDD7B9"
-			rewards: [{
-				id: "570FFAC4E65BBF46"
-				type: "xp"
-				xp: 10
-			}]
-			shape: "gear"
-			size: 2.0d
-			tasks: [{
-				id: "51CC9A8E36385400"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:chests)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.0d
 			y: 0.0d
 		}
 		{

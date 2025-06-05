@@ -2057,45 +2057,6 @@
 			dependencies: ["15849165CA8C00F9"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
-			id: "0BCC79C1D002F532"
-			rewards: [
-				{
-					id: "05E813320EB3B10B"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_importer_fluid"
-					}
-					type: "item"
-				}
-				{
-					id: "60A5994CCAE48A62"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_interface_fluid"
-					}
-					type: "item"
-				}
-				{
-					id: "68143020E5192D56"
-					item: {
-						count: 1
-						id: "integrateddynamics:variable"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "768E5111A892E9C6"
-				item: { count: 1, id: "cookingforblockheads:sink" }
-				type: "item"
-			}]
-			x: 29.0d
-			y: -2.5d
-		}
-		{
-			dependencies: ["15849165CA8C00F9"]
-			hide_dependency_lines: true
-			hide_until_deps_complete: true
 			id: "1D94F59F13667DCF"
 			rewards: [{
 				id: "57625CDFA5E3E6EB"

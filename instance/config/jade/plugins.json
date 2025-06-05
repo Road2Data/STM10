@@ -200,14 +200,6 @@
     "armory": true,
     "drawer": true
   },
-  "integrateddynamicscompat": {
-    "proxy": true,
-    "mechanical_squeezer": true,
-    "mechanical_drying_basin": true,
-    "drying_basin": true,
-    "part": true,
-    "squeezer": true
-  },
   "productivebees": {
     "bee": true,
     "solitary_nest": true,

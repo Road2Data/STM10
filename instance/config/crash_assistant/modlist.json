@@ -766,26 +766,6 @@
     "modId": "industrialforegoing",
     "version": "1.21-3.6.33"
   },
-  "integratedcrafting-1.21.1-neoforge-1.2.2.jar": {
-    "modId": "integratedcrafting",
-    "version": "1.2.2"
-  },
-  "integrateddynamics-1.21.1-neoforge-1.27.2.jar": {
-    "modId": "integrateddynamics",
-    "version": "1.27.2"
-  },
-  "integratedscripting-1.21.1-neoforge-1.0.18.jar": {
-    "modId": "integratedscripting",
-    "version": "1.0.18"
-  },
-  "integratedterminals-1.21.1-neoforge-1.6.12.jar": {
-    "modId": "integratedterminals",
-    "version": "1.6.12"
-  },
-  "integratedtunnels-1.21.1-neoforge-1.8.40.jar": {
-    "modId": "integratedtunnels",
-    "version": "1.8.40"
-  },
   "interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.4.jar": {
     "modId": "interdimensionalwirelesstransmitter",
     "version": "1.21.1-0.1.4"

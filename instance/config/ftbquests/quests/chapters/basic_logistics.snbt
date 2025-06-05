@@ -41,14 +41,6 @@
 			y: -3.0d
 		}
 		{
-			height: 2.0d
-			image: "atm:textures/questpics/logistics/integrated-.png"
-			rotation: 0.0d
-			width: 6.755813953488372d
-			x: 4.5d
-			y: -2.5d
-		}
-		{
 			height: 1.5d
 			image: "atm:textures/questpics/logistics/laserio.png"
 			rotation: 0.0d
@@ -303,27 +295,6 @@
 			y: 1.0d
 		}
 		{
-			id: "6E05B62A40D5A891"
-			rewards: [{
-				count: 3
-				id: "1F763DED812265B7"
-				item: {
-					count: 1
-					id: "integrateddynamics:crystalized_menril_chunk"
-				}
-				type: "item"
-			}]
-			shape: "pentagon"
-			size: 1.5d
-			tasks: [{
-				id: "7CAEF421E14B6F2A"
-				item: { count: 1, id: "integrateddynamics:wrench" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: 1.0d
-		}
-		{
 			dependencies: ["34CFE1439262AA72"]
 			id: "1834B5C1F8435D7A"
 			rewards: [{
@@ -432,28 +403,6 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["6E05B62A40D5A891"]
-			icon_scale: 1.5d
-			id: "6112956E19017D2D"
-			rewards: [{
-				count: 16
-				id: "673E97D0F77771B4"
-				item: {
-					count: 1
-					id: "integrateddynamics:cable"
-				}
-				type: "item"
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "5F7BDDC673BAA500"
-				item: { count: 1, id: "integrateddynamics:cable" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: 0.0d
-		}
-		{
 			id: "6CD7D99AA102A5C3"
 			rewards: [{
 				count: 2
@@ -473,157 +422,6 @@
 			}]
 			x: 4.5d
 			y: 3.0d
-		}
-		{
-			dependencies: ["6E05B62A40D5A891"]
-			id: "03C40D6A5D722543"
-			rewards: [{
-				count: 4
-				id: "112EF88F5897BC33"
-				item: {
-					count: 1
-					id: "integrateddynamics:variable_transformer_input"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			size: 0.9d
-			tasks: [{
-				id: "5789E685C4B54C1B"
-				item: { count: 1, id: "integrateddynamics:variable" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: 0.0d
-		}
-		{
-			dependencies: [
-				"6112956E19017D2D"
-				"03C40D6A5D722543"
-			]
-			icon_scale: 1.5d
-			id: "6F152402756DA35E"
-			rewards: [
-				{
-					count: 3
-					id: "510F6E6940CEFB39"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_interface_item"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "47F3BA6276A2EA34"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_importer_item"
-					}
-					type: "item"
-				}
-			]
-			size: 1.1d
-			tasks: [
-				{
-					id: "6479D685217CC64D"
-					item: { count: 1, id: "integratedtunnels:part_importer_item" }
-					type: "item"
-				}
-				{
-					id: "7A8D6779B7C6B99D"
-					item: { count: 1, id: "integratedtunnels:part_interface_item" }
-					type: "item"
-				}
-			]
-			x: 3.5d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"6112956E19017D2D"
-				"03C40D6A5D722543"
-			]
-			icon_scale: 1.5d
-			id: "034F2CDF0830254B"
-			rewards: [
-				{
-					count: 3
-					id: "44416071DD70A203"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_interface_fluid"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "7F9CF03DD0B1E2D3"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_importer_fluid"
-					}
-					type: "item"
-				}
-			]
-			size: 1.1d
-			tasks: [
-				{
-					id: "38AB1D04DBB036B9"
-					item: { count: 1, id: "integratedtunnels:part_importer_fluid" }
-					type: "item"
-				}
-				{
-					id: "1E13BEB52F3D087C"
-					item: { count: 1, id: "integratedtunnels:part_interface_fluid" }
-					type: "item"
-				}
-			]
-			x: 4.5d
-			y: -1.0d
-		}
-		{
-			dependencies: [
-				"6112956E19017D2D"
-				"03C40D6A5D722543"
-			]
-			icon_scale: 1.5d
-			id: "76CECFB244F39F18"
-			rewards: [
-				{
-					count: 3
-					id: "47C5525DAF15361A"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_interface_energy"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "7792BBAEC038F0C6"
-					item: {
-						count: 1
-						id: "integratedtunnels:part_importer_energy"
-					}
-					type: "item"
-				}
-			]
-			size: 1.1d
-			tasks: [
-				{
-					id: "4618703B49BDB077"
-					item: { count: 1, id: "integratedtunnels:part_importer_energy" }
-					type: "item"
-				}
-				{
-					id: "11F2F4CB9E93471A"
-					item: { count: 1, id: "integratedtunnels:part_interface_energy" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: -1.0d
 		}
 		{
 			id: "5F1218CF8EFC607B"

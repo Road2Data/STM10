@@ -2141,27 +2141,6 @@
 			dependencies: ["17419401147B5C02"]
 			hide_dependency_lines: true
 			icon: {
-				id: "integrateddynamics:crystalized_menril_chunk"
-			}
-			id: "7B40A9DAA119DE59"
-			rewards: [{
-				id: "1FD5CBE1FB0136F8"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "2127300009B87B98"
-				item: { components: { "productivebees:bee_type": "productivebees:menril" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 23.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			icon: {
 				id: "alltheores:nickel_ingot"
 			}
 			id: "4FE7F45C72EF5DC1"

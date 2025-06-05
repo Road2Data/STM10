@@ -6,7 +6,7 @@ const $Objects = Java.loadClass('java.util.Objects')
 
 // sets the chance for a seed to drop
 const SecondarySeed = 0.01
-const TierSecondaryCutoff = 5
+const TierSecondaryCutoff = 6
 
 ServerEvents.tags('item', allthemods => {
   let CropRegistryInstance = CropRegistry.getInstance()

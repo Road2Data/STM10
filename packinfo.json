@@ -577,10 +577,6 @@
       "sha512": "75a4ecdd31d3e8f573031a129712cbbfbcc36e413178e84b2426112355a22b1354133e308a6c356aff249be4e33146fa0cf739419ff2a39c39f43e187311e896",
       "md5": "ae3696697d713e4b3fd589b63d6e716d"
     },
-    "/mods/integratedscripting-1.21.1-neoforge-1.0.18.jar": {
-      "sha512": "09e2a2cb273ab3b546cda20d7aaee8bb030cf6e0ea4cf17fe66f5ded99fed2f90eed6fb2c423374e14bdb9e52f8823b27f20e159f5a4ad6f60e0408f34e1ee7d",
-      "md5": "6bad38ad5dcc8ddbaf68d3ab22aaac9e"
-    },
     "/mods/inventoryessentials-neoforge-1.21.1-21.1.2.jar": {
       "sha512": "710858be31be7ce49252b5ca24426b8693f6712f7c0b3d16c53914c0e198d131e95b57973c24b5486c7ef34324755696812d42343bbc0471d9e67b974855a691",
       "md5": "c4d30a18bf9e3f105115d4d006aa336b"
@@ -648,10 +644,6 @@
     "/mods/balm-neoforge-1.21.1-21.0.46.jar": {
       "sha512": "f1f09a3c25e5bb913dcb55f13e5feee0f720ac62f3311e1e2c77f25e1f74a40c8eea5c20c74dc683652af1c59c751b3b1e95c086e6fd817704b6be661ad80428",
       "md5": "4c923b0b1be9a034f19875d14e498d94"
-    },
-    "/config/integrateddynamicscompat-common.toml": {
-      "sha512": "8bf6513b946a42009f6fb79fafe37e3bb6b033b739bcb86dbeb1e6ac21a4e390e0d0efe9198025406eca6a06ebaff3af81c69a4f626567677b2e8840bd2cd314",
-      "md5": "566ef54ee052c1763292d1c1da5f77dc"
     },
     "/config/ironjetpacks/jetpacks/wood.json": {
       "sha512": "c89dae0bb7994a7ca6c8a935b465fc1af7351503e9bc06362aeae11ed5c4a17eab293674fc108c9315f1696c592949d333fed7bd22a7c0900220ecff1426a5a7",
@@ -740,14 +732,6 @@
     "/kubejs/data/compactmachines/compactmachines/room_templates/normal.json": {
       "sha512": "331f08fd9aa2dd266a101a83ef7f2eec1f7f435eb07c46e4df2ae1a947c75019df763c9d8e734f87d8a6ef4dfa0d49ec815c149fa46fac47dfac7d094a177c29",
       "md5": "c137f3d5989feabf8f5953b4d8f32512"
-    },
-    "/mods/integrateddynamics-1.21.1-neoforge-1.27.2.jar": {
-      "sha512": "b34fabbd977541454877bace35340acd6cb25e6decea3edd3b3256a1ca46b6e05929521e116a456376ef4b1425455823993a581ef0149e65be2b2f3b3f4a216f",
-      "md5": "191650096a09d41117e3580d301fc051"
-    },
-    "/config/integrateddynamics-common.toml": {
-      "sha512": "e49797bd325e092517dbf7caa58a2c57cc64ff0e96d4ed057a3264601da0142ea1af22624e5021215cfbae4907b8aacc547dfab1f94c8b37479ea0baff543bea",
-      "md5": "694db39b48f9aaa4f8b6b0238ae3579d"
     },
     "/mods/tempad-1.21.1-3.0.4-all.jar": {
       "sha512": "8f577c902ed0074f7636cda73f61f95a4bab4f4009c6039a3ccfaf5d70fe528ab8b9a88ba1f19548c70caea7f652d8b9fbdfba855b5543c3e660b64bd5b18bef",
@@ -2417,10 +2401,6 @@
       "sha512": "5e8679c14138a50eee68476163a4cf14b9174d5573b4a0bc49908a1799cbd72c963f2b9f63a47584f93338d841a43489833b45bbbdbce861518b72e1f87e582c",
       "md5": "00393ddee3121c6a105958dc271a7ac2"
     },
-    "/config/integratedterminals-common.toml": {
-      "sha512": "8fd37aee0d6d4bca296fd267e0a7626ad402921dc0d09f34a3d1216e3a4e8312999372d84dcb0eca2f3202f5a61ab0a3d9ca9ead80f90dc9c37583bda883d9ab",
-      "md5": "5158fa99d35e1ec8ec1cf6034d7d4486"
-    },
     "/packmenu/resources/assets/packmenu/buttons/language.json": {
       "sha512": "10533f41e6f723b6fe15b34eb189de518005e1a232e22ac225a395758fe02cef2d07dff34034dd7cbd80a6d3f504bbf9dd300f4f148f76e00b4ccdc772bc1b40",
       "md5": "e6ea3ae4bae6cce4cf47efff5d143532"
@@ -3236,10 +3216,6 @@
     "/kubejs/assets/atm/textures/questpics/gettingstarted/warden_roar.png": {
       "sha512": "72664f0ae6872ad7e667318e54d7bd4ff8e3baf4754b22848ae766703ef9fe3278a9af1d9ebf336a36f68c8936ca3688c0bca656831220f0ecee6b2d92ac9633",
       "md5": "8e7409a985e7720deb11eb011077c627"
-    },
-    "/config/ftbquests/quests/chapters/integrated_dynamics.snbt": {
-      "sha512": "04c60b6ac4cf02cf7d22cdf77a609744df54104bfadcf7ef68dad28060f095547471a5d2edcf644acdb7cf7325c9cd9a50f82a382d876984113ecaf50fd28e6e",
-      "md5": "2ed892b18282e159d70a933cff9098e2"
     },
     "/kubejs/data/alltheores/worldgen/configured_feature/ore_osmium.json": {
       "sha512": "8590b868b5abb69148b5ed85e8f70f7ea8470e31332c91560d499bf337b9e3f221ced2a4c2719216c170568fb90be4045a2db5234f48362e4924d9928a015696",
@@ -5105,10 +5081,6 @@
       "sha512": "222f5bb65d564bdc98cbe1ccd82bd1e4a45d9ddc5bb5aa58f1e2ef84b1e2494fdded394347c90334d157a70119bc9678742e946fa6eee9ba9943fcecbf787d67",
       "md5": "5a14e810feb8d26896a9fde56aae9e57"
     },
-    "/mods/integratedcrafting-1.21.1-neoforge-1.2.2.jar": {
-      "sha512": "f4abe0dd17afc52ade555d86f4576aafc3ab2486915b882048143042ede97e3f3ba3d1f6aab29593a79cb62b9def76ff8dfb2fb72584b8defa85059b3e467baf",
-      "md5": "dc76efd987ae244698ab16a57e44b42e"
-    },
     "/config/ftbquests/quests/reward_tables/611A165B35847A5A.snbt": {
       "sha512": "6d23543fdb731c3e10359e8edb8aedb418e9cbf20cc55f22e5216d53ab876844eb7b813eff08fdf8d51ffc340ed88caf7d414c37f7add9df0fe76812e0ed2d85",
       "md5": "f0994d373dde802f51f22cdacd185062"
@@ -5701,10 +5673,6 @@
       "sha512": "a6ae2d3e2ddcb44651b47e0c37999aec9de98b5931b342b039adec564cc249fad2c3c1fe9dc54b6a60222f6a71806d4e1c5814279b141a278101ed35d2bfda27",
       "md5": "92aa6eefbe8dab7ba207eb67d66460d8"
     },
-    "/kubejs/server_scripts/mods/Integrated Dynamics/Basin.js": {
-      "sha512": "cfc259fba3cfec5ab4bcd0195dba48cac0003b4637fc39a03c568f8a3c60bccb2f6b02909d88b7ed6c6cabc719fb9cd0f343ddd20c9e5128a11a51bfded878ce",
-      "md5": "ecc293e7280dabcf7ed7b5936883b714"
-    },
     "/kubejs/assets/atm/textures/questpics/immersive/immersive_fermenter2.png": {
       "sha512": "b0f097466e09f33524e0c8a069b8176326d45814f2c5205f5fa0f95cf06f862d72dbc62bf1197654a4e348a4bc2f665a61350ba78740eba20c6ef12315f965d2",
       "md5": "19dae483ffb5495a35385838e9ff8fd9"
@@ -5720,10 +5688,6 @@
     "/kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_enchanter.js": {
       "sha512": "ee2800acb5f17bdd569a970e587eb87a34cf8772fab6c86e06266c58b65491cc45647c29f89563b71cf7729deb9e6c81226e9a6aaab953a6fd01a0233ae06b96",
       "md5": "7a5de3a988f296cf8961c0cec2ce12fa"
-    },
-    "/config/integratedcrafting-common.toml": {
-      "sha512": "8685e920346f54d6b4899ceae5e4797505c62dbac45fb5103d4506ccb738801af7998cbdba6f00d3fc8544297f2942fcd351450ae3eb1a90a617653fbafceb05",
-      "md5": "11d896f538bf3b92ba233207ef445692"
     },
     "/kubejs/data/modern_industrialization/recipe/materials/unobtainium/crafting/drill_head.json": {
       "sha512": "ca9e0b8bd5e88f6506d5d7e9b1cb55966ccb11ae8cd422b494996ac6616fa1e74f9cdb33e66948cfaf712481f8a82d940008560d00a7172662e9bbed4064a35f",
@@ -5808,10 +5772,6 @@
     "/kubejs/assets/atm/textures/questpics/welcome/signs/mutant_name.png": {
       "sha512": "4dbdb2de79675b864a498ea30d61dbed74eaa5d239caf9bb52c39d522d29c2cd969f73f028992f966f389518f01ca20fd0792f1915a7c3349876fd132ae94ef9",
       "md5": "8ef7006d42f5fbb7f495e31de68455d0"
-    },
-    "/mods/integratedterminals-1.21.1-neoforge-1.6.12.jar": {
-      "sha512": "d988b902fa1fc7265230a0de0adae7d7fba049a7119a4a8c8d8bebfa9d6495aa6e3adbbefff5ee9651349297cb52d332dff0c559e1cf676fcb12e07af51ea9c4",
-      "md5": "d64a45fdc75e1b1076509ea2c963c5a5"
     },
     "/kubejs/assets/atm/textures/questpics/building_tips/building_building.png": {
       "sha512": "ade23654fc6d52aba91583484e858aa095389b78074da82052c137971bd2ead2eca78e0fe6a74156252f60c7f025e6c698a7223b7d774693d322df9c86566fc3",
@@ -6409,10 +6369,6 @@
       "sha512": "cc2dc46dcaa0424c820cb7931fd2ceb3826669934189c011fd1ebd5692cdf7652c725034abec2828bfea2238c9615d6f9c36e3e01e21fc9eb44551eb51e06fe3",
       "md5": "146a7ff6596eff098dd1d07337ba88fe"
     },
-    "/kubejs/assets/atm/textures/questpics/logistics/integrated-.png": {
-      "sha512": "5ed1988ba08db816e67d1e953ebfdc28f77237c055db261004fdac76449c511bbf9fcb0252aaa8198a50e29cfcaa3a79f366804073d261875737c7fd3d325164",
-      "md5": "e37a9e6b28fe70d75d633884a4fd7082"
-    },
     "/mods/bibliocraft-1.21.1-1.5.4.jar": {
       "sha512": "2dfdac29324c7a640a00315ff35fd1f7bd6efaaee46866d1525a965abb40702631f55bd5e8306c2f5e4f491d9bac3ce674d9a0d206f3e55139aa5c7a01eb5b83",
       "md5": "fa5f72d4393e91d24adeba6a013975c2"
@@ -6504,10 +6460,6 @@
     "/kubejs/assets/kubejs/textures/item/clay_cell.png": {
       "sha512": "e6249d4756a6b558afee753b3e5bc2cebd9f2bb8291dff8102a2b8aad7ca3ba972a58949620da63566d3894ea525ad1bfcd0c7dd72ae9fc739adc102f01d0351",
       "md5": "e35d34346ee3c0baf2e5a9615ca99c8d"
-    },
-    "/kubejs/server_scripts/mods/Integrated Dynamics/Squeezer.js": {
-      "sha512": "0326568c16a648450c4997bed4eb84e5c49b65a08bc8d4f6d49a21abf31d53c47299c2f5b38568a65b3c8dd523dc86a7dc4ffa7a984e5b6b2c555c3bf22dd509",
-      "md5": "1e7c5c0dfe26b4fba5b4d9c9f07f4ac2"
     },
     "/config/ftbquests/quests/chapters/natures_aura.snbt": {
       "sha512": "73584ebd922acb2c36593dbda6dfe11266149a3d6054818c86c83ddebd316593c352a0647ac7bc77383709d15136a902a482a4387042dd1d559b9335b9854c17",
@@ -6756,10 +6708,6 @@
     "/kubejs/assets/atm/textures/questpics/powah/text/generation_text.png": {
       "sha512": "e9744d882a9afa3df98852205276ef599566296b5b3e6c15b9bbca4313ae50c5661307f116685cc1d58f01280716611fe643c74b9d816c181f5f3e4a257c8881",
       "md5": "424bcf3c0e35b11048618929bb5a3777"
-    },
-    "/mods/integratedtunnels-1.21.1-neoforge-1.8.40.jar": {
-      "sha512": "fdfdeb80b7e810c2c87f2f40cb1b47e168d85393c7b95e545e73242d18df2ae52f0fe56c7a2bd9a7c8e8fe8f4c8c1d1c714425bfdfe93484d0cba79a59927d30",
-      "md5": "afc3019ba1048c54519a74b77f5d54c7"
     },
     "/mods/Structory_1.21.x_v1.3.10.jar": {
       "sha512": "200f2257c315dcc0a762759c9059d1a8ef24f967dcd924e2730cc08a8f0ddd21a07b239cd8884f4af153c84fe34fe9b855617bb5fb6bdf7ce2a72a64bd2ed55f",
@@ -7408,10 +7356,6 @@
     "/kubejs/assets/atm/textures/questpics/immersive/immersive_refinery.png": {
       "sha512": "269433ab89ef2365248b952f875833bb90466a00f4e45e20d9732f3022f227c5c6dff1aa9564b88d99dea028b3bcc583f0d1f744011d8198c04a94bb59541601",
       "md5": "8557148b4f986d901c0917a9a35d5ed8"
-    },
-    "/config/integratedtunnels-common.toml": {
-      "sha512": "a5cd2d17ae52e814abd9e1bb050203535edd64ab571709d76b27d6cabd5bde9fdb98e54897beb6a7a2649d6a125b90d9676ea88273ebce4962fd091fc0eada2c",
-      "md5": "f197adc8157999557e155e062b5b58b8"
     },
     "/mods/allthewizardgear-1.21.1-1.1.9.jar": {
       "sha512": "242bb2b64f315198b5666fd2cf6c33f5334872ff7f04417e4b5039978c3f31ccc55e3913a937d805cdbf0ba097340c5d3e49ea6f30cb6c505e0dd1c561ddb93d",

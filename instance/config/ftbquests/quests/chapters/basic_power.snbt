@@ -340,31 +340,6 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["76EA017B12E8F01B"]
-			id: "72EA25D05C46D39A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5D6EEC3641B95A9E"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "12B4237BA53B15DE"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "rsquare"
-			tasks: [{
-				id: "460A67B09BD45CF4"
-				item: { count: 1, id: "integrateddynamics:energy_battery" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: 1.0d
-		}
-		{
 			dependencies: ["4AB0DD227471FDBF"]
 			id: "5E41363F9AE243F3"
 			rewards: [{

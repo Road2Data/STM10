@@ -769,38 +769,6 @@
 		}
 		{
 			dependencies: ["5436157FDFC9633E"]
-			id: "23DE60E57136C207"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "61B6B9176B487F04"
-					table_id: 5196609362437981520L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "39870A3F009CCD88"
-					table_id: 5196609362437981520L
-					type: "random"
-				}
-				{
-					id: "4E6EF9B5E041B1D3"
-					type: "xp_levels"
-					xp_levels: 100
-				}
-			]
-			shape: "rsquare"
-			size: 1.5d
-			tasks: [{
-				id: "5B87D7736D0C2703"
-				item: { count: 1, id: "integrateddynamics:energy_battery_creative" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: 7.5d
-		}
-		{
-			dependencies: ["5436157FDFC9633E"]
 			id: "36ABE142039E712B"
 			rewards: [
 				{
