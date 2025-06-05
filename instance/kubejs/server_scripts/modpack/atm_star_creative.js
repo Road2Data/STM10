@@ -81,9 +81,8 @@ ServerEvents.recipes(allthemods => {
                 D: 'evilcraft:mace_of_distortion[cyclopscore:fluid_content={amount:4000,id:"evilcraft:blood"}]',
                 E: 'evilcraft:necromancer_staff[cyclopscore:fluid_content={amount:10000,id:"evilcraft:blood"}]',
                 F: 'evilcraft:broom[cyclopscore:fluid_content={amount:10000,id:"evilcraft:blood"}]',
-    }
-)
-    //Removed Integrated Dynamics
+            }
+        )
 
 
     //Iron Jetpacks

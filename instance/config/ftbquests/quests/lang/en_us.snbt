@@ -3581,8 +3581,6 @@
 		"(Can be laggy when used in mass, still not as laggy as &5&lMekanism&r pipes though)."
 	]
 	quest.2329AA0AFBEF1E13.title: "&l&ePipez"
-	quest.232A06C9FF0EE7B2.quest_desc: ["Menril Seeds can be used to automate Menril Berries, Menril Logs and Menril Saplings."]
-	quest.232A06C9FF0EE7B2.quest_subtitle: "Automating Menril"
 	quest.2331FCDD2F2B709A.quest_desc: [
 		"&9Supercharged Coils&r are placed on an SPS Port in the center of two faces, like the image below. When given power, these will supercharge Polonium into Antimatter. Only 1 is required, but you can use 2 if you want.\\n\\nTo produce 1mb of Antimatter, you need 40MRF. If you haven't started making a &cFusion Reactor&r, now's a good time to make it!\\n"
 		"{image:atm:textures/questpics/mek/sps_coils.png width:200 height:125 align:1}"
@@ -6120,8 +6118,6 @@
 	quest.3C892B33758B7BA6.quest_desc: ["&dCogs &fand &dLarge Cogs&r can interact with each other to change Speed and Stress! \\n\\nIf you connect a &dCog&r, diagonally from a &dLarge Cog&r, the &dCog&r will double in Speed! This is because the &dLarge Cog&r has more Teeth than the &dCog&r, it takes longer to take a full &dRotation&r. \\n\\nThis also works in the reverse, if you put a &dLarge Cog&r diagonal to a &dCog&r, the &dLarge Cog&r will spin at half Speed. \\n\\nThese will also change the Stress Units from the &dCogs&r. More Speed, more Stress. Less Speed, less Stress."]
 	quest.3C892B33758B7BA6.title: "&dCog&r Teamwork!"
 	quest.3C8C80345D3F5FE8.quest_desc: ["The item collecter collects items and deposits them into the inventory below it."]
-	quest.3C9539083BCC145C.quest_desc: ["Menril Bees can be used to automate Crystallized Menril Chunks."]
-	quest.3C9539083BCC145C.quest_subtitle: "Automating Menril"
 	quest.3C99017FD32B6DE2.quest_desc: ["&eBrass Casings&r are made the same way as &8Andesite&r and &cCopper Casings&r. Just apply the &eItem&r to Stripped Wood. \\n\\nBut with &eBrass Casings&r giving us some of the most powerful &6Machines&r, it won't be as easy to get as &8Andesite&r or &cCopper&r. \\n\\nThankfully this is &6&lATM10&r so you can make &eBrass&r in many different ways! \\n\\nBut the &6&lCreate&r way would be to throw a &cCopper Ingot&r and &7Zinc Ingot&r into a &8Basin&r below a &6Mechanical Mixer&r, while the &8Basin&r is heated."]
 	quest.3C99017FD32B6DE2.title: "&eBrass Casing"
 	quest.3C9E93426D6412E0.quest_desc: [
@@ -10297,7 +10293,6 @@
 	quest.62A262A706CFCAF0.title: "&aThe &cBlood Infuser"
 	quest.62B2C1A24AE245EA.quest_desc: ["The &9Deepshelf&r (not dormant) is your next step to Enchanting. Like everything else it needs Infusion. The &9Deepshelf&r needs 30 &aEterna&r, &c40%% Quanta&r, and &540%% Arcana&r. You can get that with &45 Blazing Hellshelves&r and &b4 Heart-Forged Seashelves&r."]
 	quest.62B2C1A24AE245EA.title: "&9Deepshelf&r"
-	quest.62B4A37CFDECA679.quest_desc: ["The Menril Resin will go to 2 sides of the Squeezer. Placing a Drying Basin next to the Squeezer will make the Drying Basin pick up the Menril Resin.\\n\\nAfter 7.5 seconds the Menril Resin will turn into a Block of Crystallized Menril."]
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
 	quest.62BBF61C9849CA26.quest_desc: [
 		"The minimum size is 5x5x5 and the maximum size is 15x15x15, and anywhere in between is valid!"
@@ -10887,7 +10882,6 @@
 	quest.683B58B699D4D381.quest_subtitle: "Spawns in a nest that has a Blue Banded Bee"
 	quest.683C260C854C5AA3.quest_desc: ["The &4Mechanical Fusion Anvil&r will be needed to make combinations of &4&lCataclysm&r Items. \\n\\nYou can place it down like a normal Anvil, but this one doesn't have Durability... thankfully! \\n\\nCheck JEI for Recipes, you place 1 Item in the Left Slot and the other in the Middle Slot to get the final product in the Right Slot."]
 	quest.683C260C854C5AA3.title: "&4Mechanical Fusion Anvil"
-	quest.68498ADEF9765F81.quest_desc: ["To make Crystallized Menril Chunks you first need to place some Menril Logs in a Squeezer. Jump on the Squeezer to turn them into Menril Resin.\\n\\nYou can empty the Squeezer by giving it a Redstone signal."]
 	quest.684BB9D2F2AC87A6.quest_subtitle: "Wenge + Cocobolo"
 	quest.68526BA198AADD8E.quest_desc: ["If you cannot find &belectrotine&r in the Nether, you can create it by mixing electrum and redstone in a &eMixer&r on &aProgram 1&r"]
 	quest.6852BEFDD4DE4E4B.quest_desc: ["&9Soul-Touched Deepshelves&r are an upgrade to &9Deepshelves&r. \\n\\nThey are Crafted with a &bSoul Lantern&r and 3 &3Sculk Blocks&r. You'll need &5Silk Touch&r to pick up &3Sculk Blocks&r. \\n\\nThen, we can Craft our &9Soul-Touched&r version. These will give a ton more &cQuanta&r at &c15%&r! \\n\\nIt also increases max &aEterna&r to &a75&r."]
@@ -11319,7 +11313,6 @@
 	quest.6C76AB8A6110C0C7.quest_desc: ["The &4Blazing Hellshelf&r is an upgrade to the &4Infused Hellshelf&r. It increases max &aEterna&r to &a30&r. The negative Enchanting Clue makes it a little worse for normal Enchanting, instead we can use it for better Infusion."]
 	quest.6C76AB8A6110C0C7.title: "&4Blazing Hellshelf&r"
 	quest.6C832BFE4D07D897.quest_subtitle: "Leaves an AoE Cloud that damages living mobs"
-	quest.6C9191DA4B1039D6.quest_desc: ["Menril Berries give you Night Vision for a short amount of time when eaten."]
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["The next stage of the mod requires the collection of &3Crude Oil&r. This Oil can be found naturally on the surface of the overworld."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "The Path to Plastic"
 	quest.6CA01DCE1F4A0EC3.title: "Crude Oil"
@@ -12969,8 +12962,6 @@
 		"In this questline, Flowers with the quest shape of a &cSquare&r are Generating Flowers, where as flowers with the shape of a &9Circle&r are Functional Flowers. You can also find out what each flower does by using the &aLexica Botania&r."
 	]
 	quest.7B3FAF5CA4DD217C.title: "Functional And Generating Flora"
-	quest.7B40A9DAA119DE59.quest_subtitle: "Crystalline + Neon Cuckoo"
-	quest.7B40A9DAA119DE59.title: "Menril Bee"
 	quest.7B447E986493AD6B.quest_desc: ["&7Creosote Oil&r is a byproduct of the &lCoke Oven&r. \\n\\nIts main use will be for making Treated Wood, an essential Building Block of &8&lIE&r. \\n\\nYou will also need it for a different Fluid later, we'll worry about it when we get there."]
 	quest.7B447E986493AD6B.title: "&7Creosote Oil"
 	quest.7B4A687EB505C2FF.quest_desc: ["&cCarminite Builders&r, when powered with a Redstone signal, will generate temporary blocks in the direction the signal came from.\\n\\nThe &cCarminite Reactor&r will convert nearby Obsidian and Netherack into &eFalse Gold&r and &3False Diamond&r. After a short period of time, this will suck up nearby blocks and explode, creating &cCarminite Ghastlings&r around it."]
@@ -13596,7 +13587,6 @@
 	task.1A89CC99F53A629F.title: "Re-Organization"
 	task.1AD43F80F89DF9D9.title: "Oh The Biomes We've Gone Stones"
 	task.1ADC909E4FF8D317.title: "Quests By AllTheMods"
-	task.1B7E41B599613FDB.title: "Menril Logs"
 	task.1B90FEC3CEB286C8.title: "Quests By AllTheMods"
 	task.1B916AE67F84E6D7.title: "Creating Your First Spell"
 	task.1B94E7A224A87F29.title: "Valid Ores"
@@ -13936,7 +13926,6 @@
 	task.5D3CB6FE8F0ED9A5.title: "Mining Gadgets"
 	task.5D6A9AD111A612EE.title: "Turbine Coils"
 	task.5DB7A437BEC3E2D4.title: "AllRightsReserved"
-	task.5DD862CF56AF7BF9.title: "Menril Logs"
 	task.5DD919AF75C92C8A.title: "Tools"
 	task.5DEABD15EDE5736F.title: "XyCraft Glass"
 	task.5DEBE38C614EFBB4.title: "AllRightsReserved"

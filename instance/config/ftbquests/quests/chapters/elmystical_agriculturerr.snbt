@@ -2086,34 +2086,6 @@
 		}
 		{
 			dependencies: [
-				"576ABF43FCF886B7"
-				"0B37355262121DD5"
-			]
-			id: "2D0BA4183DCA2751"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5556B4DD366CA023"
-					table_id: 2427872771413920777L
-					type: "random"
-				}
-				{
-					id: "0836AE38FC7B6FAD"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "63695DFD699B590C"
-				item: { count: 1, id: "mysticalagriculture:menril_seeds" }
-				type: "item"
-			}]
-			x: 14.5d
-			y: -6.375d
-		}
-		{
-			dependencies: [
 				"76071C22A73A2026"
 				"0B37355262121DD5"
 			]
