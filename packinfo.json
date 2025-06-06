@@ -9,10 +9,6 @@
       "sha512": "384aeeecb94d4c86bd60748ec64115007193dd5ae01313fb4befc0cadf1bfdf41e72a35474485c219457353271610c8d90ea0302b1744ca65b48602a1420a478",
       "md5": "d43c5354b261d7f7bc9973900000d2f3"
     },
-    "/mods/dyenamics-1.21.1-3.4.0.jar": {
-      "sha512": "e0fd5dcd0b5aef5106045bab2d5938783965d0941d5651654ac809aa512a28a1362d516143b6b19404985371b50295f355451204826fa9701b69f76e87a4583a",
-      "md5": "a33ae54916fa9f7197a7a5000b6fabde"
-    },
     "/mods/ftb-ultimine-neoforge-2101.1.2.jar": {
       "sha512": "8da29b2e3f912bfbd4492f144f5790a9c14da5b990832f279852ae5e459e2880e37b33864b6d83311bf5e4e9c8701a9844b97252d305f002a992c1e53c1de1ad",
       "md5": "f81adb1c53b6103696c0da6a74e41736"
@@ -7672,10 +7668,6 @@
     "/kubejs/data/modern_industrialization/recipe/quarry/vibranium.json": {
       "sha512": "c94d6a37dc61534cb078b583d347998b1b9c74b5de7677e002e740bdf7af07f58b8b6c86416c43be48f1c75e9da748b87c4184a95e75ef8ebfd9e5494e39a506",
       "md5": "a0331c6b5b8d18faf404bb9fc1f70cb5"
-    },
-    "/mods/dyenamicsandfriends-1.21.1-2.1.1.jar": {
-      "sha512": "5dee47fbc59d2aab886d903f77072982aed75762b2adaa4384a36f789da47942dee3fbe342f5052b02c42ae33cebaa5859c4f7dfd835f640b048b9b508de06b5",
-      "md5": "39835dc2977f728566323ce0116f39d6"
     },
     "/kubejs/assets/atm/textures/questpics/immersive/immersive_excavator.png": {
       "sha512": "fbfa0497276fad0dcba8f06fc5294d07f6f7b2ca98807cc804d573bd5ee750836ef2cf7a573009d2641dc4d40fdb61d3219e0da53ffeeae68d8f6e3d0a4dfbd0",
