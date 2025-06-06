@@ -10257,8 +10257,6 @@
 	quest.6244032FE2E5F1E1.quest_desc: ["{atm9.quest.enchant.desc.draconic}"]
 	quest.6244032FE2E5F1E1.title: "{atm9.quest.enchant.draconic}"
 	quest.6255E2FE6DD4084A.quest_subtitle: "Holly + Alder"
-	quest.6258F26293B9C1C1.quest_desc: ["What does &9&lCrystalix&r give us you ask? \\nIt gives Glass! All different types of Glass! There is Normal, Clear, and Bordered. \\n\\nBordered is the normal &2&lMinecraft&r Glass pattern. It has borders and pixels near corner to let you know it is Glass. Clear has the borders but no pixels near the corners, so the inside is all clear. Normal has no borders or pixels, it is entirely 100% clear and one color. \\n\\nEach &9&lCrystalix&r Glass has its own properties as well: Shadeless, Reinforced, Light, and Ghost. \\n\\nShadeless will affect how it reacts to Shaders and even &2&lMinecraft&r lighting. Reinforced will affect Blast Resistance. Light will affect whether it gives Light, ignores Light, or acts like normal Glass, letting Light in. Ghost will be able to change who can walk through the Glass, this one has the most settings."]
-	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
 	quest.625B5E3CDDAECFFD.quest_desc: [
 		"Im sure you have made a whole lot of EBF's during your journey to get here."
 		""

@@ -3095,25 +3095,5 @@
 			x: 0.0d
 			y: -10.0d
 		}
-		{
-			dependencies: ["0FE30548F25FEDB1"]
-			id: "6258F26293B9C1C1"
-			rewards: [{
-				count: 16
-				id: "0E95D7138EEC2112"
-				item: {
-					count: 1
-					id: "minecraft:amethyst_shard"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0ED255BCB75ECCF1"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(crystalix))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: -2.0d
-		}
 	]
 }

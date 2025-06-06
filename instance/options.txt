@@ -350,10 +350,6 @@ key_pneumaticcraft.helmet.debugging.drone:key.keyboard.y
 key_pneumaticcraft.boots.kick:key.keyboard.x:CONTROL
 key_pneumaticcraft.chestplate.launcher:key.keyboard.c:CONTROL
 key_pneumaticcraft.boots.jet_boots:key.keyboard.space
-key_key.crystalix.cycle_shadeless:key.keyboard.z
-key_key.crystalix.cycle_reinforced:key.keyboard.x
-key_key.crystalix.cycle_light:key.keyboard.c
-key_key.crystalix.cycle_ghost:key.keyboard.v
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
