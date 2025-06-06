@@ -959,28 +959,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["3ED8365BAD406CC5"]
-			hide_dependent_lines: true
-			hide_details_until_startable: false
-			icon: {
-				id: "mcwholidays:colorful_decorated_christmas_tree_top"
-			}
-			id: "027E6E294D9E1375"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "40F2CCB9347CB3AF"
-				table_id: 1234064663422651404L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "2F94B8FED9BF6698"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwholidays))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: 3.0d
-		}
-		{
 			dependencies: ["2094D1CE4BA66091"]
 			hide_dependent_lines: true
 			icon: {
@@ -1618,49 +1596,6 @@
 			}]
 			x: 12.0d
 			y: 3.0d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			icon: {
-				id: "farmersdelight:basket"
-			}
-			id: "5D5563142917495A"
-			rewards: [
-				{
-					count: 3
-					id: "01B93E1CF0F70D99"
-					item: {
-						count: 1
-						id: "farmersdelight:cabbage_crate"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "63594966914DDDEE"
-					item: {
-						count: 1
-						id: "farmersdelight:onion_crate"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "752FD50E2A94D9EA"
-					item: {
-						count: 1
-						id: "farmersdelight:tomato_crate"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "4B274207A9646FE9"
-				item: { components: { "ftbfiltersystem:filter": "and(mod(farmersdelight)block())" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 11.5d
-			y: 4.0d
 		}
 		{
 			dependencies: ["0FE30548F25FEDB1"]
@@ -2507,7 +2442,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "6F475689ED4EDF59"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwdoors)mod(mcwbridges)mod(mcwfences)mod(mcwfurnitures)mod(mcwholidays)mod(mcwlights)mod(mcwpaths)mod(mcwroofs)mod(mcwtrpdoors)mod(mcwwindows))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwdoors)mod(mcwbridges)mod(mcwfences)mod(mcwfurnitures)mod(mcwlights)mod(mcwpaths)mod(mcwroofs)mod(mcwtrpdoors)mod(mcwwindows))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 6.5d

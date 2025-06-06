@@ -569,10 +569,6 @@
       "sha512": "0d82b491d8fb79ccba1e9c0703d0699f3b739e3d6f6635a0ce9ac166454c72c74d30807a21429c0e52f3010a51c930cd250fb90f75769929487283aa75f7c193",
       "md5": "56275d08584e910cc22d2305281e479d"
     },
-    "/kubejs/server_scripts/mods/Farmer's Delight/Compatibility.js": {
-      "sha512": "75a4ecdd31d3e8f573031a129712cbbfbcc36e413178e84b2426112355a22b1354133e308a6c356aff249be4e33146fa0cf739419ff2a39c39f43e187311e896",
-      "md5": "ae3696697d713e4b3fd589b63d6e716d"
-    },
     "/mods/inventoryessentials-neoforge-1.21.1-21.1.2.jar": {
       "sha512": "710858be31be7ce49252b5ca24426b8693f6712f7c0b3d16c53914c0e198d131e95b57973c24b5486c7ef34324755696812d42343bbc0471d9e67b974855a691",
       "md5": "c4d30a18bf9e3f105115d4d006aa336b"
@@ -2077,10 +2073,6 @@
       "sha512": "d7ffc9a1d0413e8921a7f2c8decd257453a6021661d7dc421c5e9658a710fc43b2990dbafeaddd95bbce44a832a5f7309e0fab8c57052810eeaf4ec97b0300f0",
       "md5": "e66bc1be35660eaa91a8fbd525330b75"
     },
-    "/mods/mcw-holidays-1.1.0-mc1.21.1neoforge.jar": {
-      "sha512": "2fee8a825a0a559cd2445c953eff100312702db07ba6711fae20286db7ea88ab73d446a9a934be5dd6a48e22911fdd7c81299ae7a13af608afe70991fe0367fe",
-      "md5": "bb701b0ef326cbeeefca6b4cddb0a060"
-    },
     "/kubejs/assets/atm/textures/questpics/relics/relics_chest_ruins.png": {
       "sha512": "26df043a8f1557629f4da08d822fe82ce553d14c10f83895252673c1dc53682884bbf8bde5cf52f4ecf2169ec0c12fe1b297fb50ceb829d84fd7ab1c8315ecfb",
       "md5": "4491998badc9d475ea30a8e7e6df0543"
@@ -3348,10 +3340,6 @@
     "/mods/formations-1.0.3-neoforge-mc1.21.jar": {
       "sha512": "5ebe3fabf3ae76600b47e43fccabf76b308b57a779b299cb0317a0d415c7640f8a243397cfe07e2a140999a2a35ea647931d1268dee9a0f1f09014ef0912ca11",
       "md5": "4033d96a2c701dc301314e26eeebbb5c"
-    },
-    "/mods/FarmersDelight-1.21.1-1.2.8.jar": {
-      "sha512": "ca2d5a21ecd14a25374b26570f1c63c54623b55603108ffe4f83f82b79ff8cf08b35f444078141ec4196dad669699e1beeea41d8d0c34c0602941247b93f4a52",
-      "md5": "9bd8cdae46147e5b6873a6efc6e0bc63"
     },
     "/mods/deeperdarker-neoforge-1.21.1-1.3.5.jar": {
       "sha512": "5fe15b475cdbd87df76f97d8be4708417630a4045b2e362998b15a2dc39e92ab007d7c06659394a5bc0fc00e5c5a450fed3d131af8b5b2fdd15023cae73b2715",
@@ -5181,10 +5169,6 @@
       "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
       "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
-    "/config/merrymaking-common.toml": {
-      "sha512": "afeae80933984bf3f5274dc25ea33cab2d09e1906ba7512cf3ef8444f2aa7e5785205552978e1279ca78147c2cfab6e616464b45b0e393b35fb3749092657efc",
-      "md5": "a7dc9fb82c8eacfdbbe740038d76e010"
-    },
     "/kubejs/server_scripts/mods/Allthemodium/Recipes.js": {
       "sha512": "bc9f89f70af7df120adb245709100f605fa87f93638728e96f182048aa0f1ad2055c0e4bb4dedb40ef552309616e4bf4b1e554dd1b9f038a38731ecf804e1f3e",
       "md5": "39a6fbe575b8c8eadffc200b53ceceaf"
@@ -5512,10 +5496,6 @@
     "/kubejs/assets/atm/textures/questpics/relics/relics_title.png": {
       "sha512": "ca6155617dcd0c16f4b0daa2a60b0fd0585c291d6afb5a939e53a3514e5bf35642543b04709982507c032675c34c76833c6e85750ff981b12badf8be3eaec229",
       "md5": "82ba815df0825d93c3ac0e02fddcfb9d"
-    },
-    "/kubejs/server_scripts/mods/Farmer's Delight/tags.js": {
-      "sha512": "9ddacb3066eda37e32963438f7213f2898aebb7b4a868615847f470b7abbca3779862c8286959a556eae33f8d43b2f7e52bce000e06dcc49ebbfa8102d82edd9",
-      "md5": "0d330c532b263b402d376f00b0355d40"
     },
     "/kubejs/assets/mysticalagriculture/textures/block/flower/entro_flower.png": {
       "sha512": "f1112016c850682110f5f63085d619394616b5007e597977db75982b49d2eb9422fbc9c64f8ae56d43ee8e3f723797808fb7c40a714ee54eb413a5f5556cfc4c",
@@ -6136,10 +6116,6 @@
     "/mods/relics-1.21.1-0.10.7.5.jar": {
       "sha512": "25a59068034ec77c971376b59a590c44d2c46c7e6855ddb5e3cbe9dd277e2d8c7394eccf59d242d13fc872d224df3301d51cb41d35f20f37187ad6739b283a66",
       "md5": "82a489b49e87d53fb479e468679f9bbe"
-    },
-    "/kubejs/data/merrymaking/advancement/grant_book_on_first_join.json": {
-      "sha512": "0ef8a0edbdd81d453a51b045e603fa8b5f2a4070120714fe4481207d7046a8090ab021f62468f4348771bfbb823045b3dd8b41600fb74ec2549068c66b9674fd",
-      "md5": "7aa82b95309b910840d7b200078a1c3a"
     },
     "/kubejs/assets/atm/textures/questpics/mahou/mahou_keys.png": {
       "sha512": "bf9159776ab6f553f29d0e0fd0b55e0cd56af5adac80bcca054cb2108cec80e994db6dc62c22b283c024a0d3e5e07a324132687104f5aa02e281a8dabdd4c4dd",
@@ -7305,10 +7281,6 @@
       "sha512": "738e56ec65bc38349249549ef58d6885c521cf103ae623c4c91d65d1dddd04291853318faed8b56c15f49bd154421d2e0bab0f5df7ddb4b26ac734811ff655bd",
       "md5": "866adb50b23956a67f22c38380186791"
     },
-    "/mods/merrymaking-1.21.1-8.jar": {
-      "sha512": "c045551395652c01bd4ffd07e582938a0c3cd019c80cb85ae68746a93b273da8b572bd9aa2a3e16a0bb38a10a61017dde3392bdf0fc9a94d953de44fb7804479",
-      "md5": "3ef472d66867fb1b8a1b060d6860ab75"
-    },
     "/kubejs/assets/atm/textures/questpics/bumblezone/bumble_title_progression.png": {
       "sha512": "35f5823ee2abd27db588b6bdc813ac670d7dbb0ebd5e79a234e4e466e8d2f70e86ea55032f04a130e5479f681ba9d86e17d53f3675dc053c91d47cddf75b5f1a",
       "md5": "c94c5104afacd2ff7a92dd5037b9c5f1"
@@ -7624,10 +7596,6 @@
     "/kubejs/assets/atm/textures/questpics/logistics/meka_tube.png": {
       "sha512": "f6f93eaa71cf224a480b95bd3403d7dbb7930a0845ee6bc872076bfe1d1ee23a497a889131d4c5ea6a1a287189ba5a14249343df7d15241fe5b3bd875fa21bf9",
       "md5": "2fdfd8f5d1fe8e9b746a1ee4817fe8e1"
-    },
-    "/kubejs/startup_scripts/Farmer's Delight/Compatibility.js": {
-      "sha512": "0c986e5fb1a8e814960c0fa8383821040dbf05add038cc5d810fb1050531083f6ffa586fb41432b5fc07611979b05056ad82d9fa1f10acec956d388218531e4e",
-      "md5": "f320bc43367c05f9e45984b9d50a26e3"
     },
     "/kubejs/assets/kubejs/models/block/drive/gravel_cell.json": {
       "sha512": "d43e5e042c1d735ee2c5bde2641e23683390597f6c8f6f048efb0806801a9861ee0f57d7bf39b3af782725b8eb3b92377ae82bf3d7feb33050628608335a268a",
