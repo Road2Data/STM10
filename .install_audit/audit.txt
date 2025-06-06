@@ -1652,7 +1652,6 @@ Files created:
  - instance\kubejs\data\silentgear\silentgear_traits\advanced_flame_ward.json
  - instance\kubejs\data\silentgear\silentgear_traits\cure_levitation.json
  - instance\kubejs\data\silentgear\silentgear_traits\cure_nausea.json
- - instance\kubejs\data\sushigocrafting\recipe\fermenting_barrel\soy.json
  - instance\kubejs\data\theurgy\recipe\incubation\arcane_crystal.json
  - instance\kubejs\data\theurgy\recipe\incubation\bort.json
  - instance\kubejs\data\theurgy\recipe\incubation\iesnium_ingot.json
@@ -1796,7 +1795,6 @@ Files created:
  - instance\kubejs\server_scripts\mods\Reliquary\Recipes.js
  - instance\kubejs\server_scripts\mods\rftools\Recipes.js
  - instance\kubejs\server_scripts\mods\Silent Gear\Recipes.js
- - instance\kubejs\server_scripts\mods\SushiGoCrafting\tags.js
  - instance\kubejs\server_scripts\mods\The Bumblezone\Tags.js
  - instance\kubejs\server_scripts\mods\Theurgy\liquefaction.js
  - instance\kubejs\server_scripts\mods\Theurgy\tags.js
@@ -2010,7 +2008,6 @@ Files created:
  - instance\mods\handcrafted-neoforge-1.21.1-4.0.3.jar
  - instance\mods\hardenedarmadillos-1.21.1-0.2.0.jar
  - instance\mods\harvest-with-ease-neoforge-1.21-9.4.0.jar
- - instance\mods\herbsandharvest-1.21.1-1.jar
  - instance\mods\heyberryshutup-1.21.0-2.0.4.jar
  - instance\mods\HostileNeuralNetworks-1.21.1-6.2.0.jar
  - instance\mods\hyperbox-1.21-6.0.0.1.jar

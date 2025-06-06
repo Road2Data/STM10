@@ -111,7 +111,7 @@
 	quests: [
 		{
 			icon: {
-				id: "pamhc2trees:starfruititem"
+				id: "minecraft:apple"
 			}
 			icon_scale: 1.5d
 			id: "1827DEEA2DF1B144"
@@ -346,7 +346,7 @@
 					id: "634BD1679C226F35"
 					item: {
 						count: 1
-						id: "pamhc2foodcore:friedchickenitem"
+						id: "minecraft:cooked_chicken"
 					}
 					type: "item"
 				}

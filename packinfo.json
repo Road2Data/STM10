@@ -129,10 +129,6 @@
       "sha512": "51fdb2b524e3478bbf0d6508d088620a2a272c8d642d496f2eadd1a6922ae9d50c2a1aa509f171fbb7c1ba145dcaf063e81db25b067934efd89bbb374429e9d7",
       "md5": "c43e1392fa68592379b6432a09883d91"
     },
-    "/mods/pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar": {
-      "sha512": "bc84f119a25fa58c61c826b543ab26b4c430a5cf9e4f9506840429666f5638878d65e04ec4a05c4d8a00ea4e374c1b4214c696ecfb8d871a5b2e8578b9359ede",
-      "md5": "f71b6a0d1e58644d07040e8fc34c89d5"
-    },
     "/mods/jei-1.21.1-neoforge-19.21.1.310.jar": {
       "sha512": "ff8a184310274becd5658f51ef27e7a6e6a46e9166edd5a2c44cd5a2e94d642f8834bd754cc93e953949b528b21ce6da9478f07ea3a7caf80f512dade88948de",
       "md5": "5956be6081b9e7c755249f26f22265b0"
@@ -2097,10 +2093,6 @@
       "sha512": "3ecbed7caa93bfa4fa7ddad6f873a4ecceb8afcadb60764612969086d3852c7a0f7357eeb52c878747a3653bc5c5bdc3698db45f843d0ecfbe496e43a94c7248",
       "md5": "3be6aa4f0fd5bd0bc16fd6d42dd44a30"
     },
-    "/mods/pamhc2foodcore-NEOFORGE-1.21.1-1.0.0.jar": {
-      "sha512": "25cd642823c08d3c8a1d91a647e9233548a535435752e63a60978cd8ec4c4952a284af718e9ca724b92fcde9de59d6e79666a9fce89474db32949d4bf403a356",
-      "md5": "7d3146cf1aea7beecf54e19089da447b"
-    },
     "/kubejs/assets/atm/textures/questpics/building_tips/building_title_lootz.png": {
       "sha512": "41fcdc683315c604387435fbf2f7046708761244bcd15320055e7c34ec865ac006dbabc607ed89da80f93a7658f7ffcf29bb5d8365af364247280b3f93949af8",
       "md5": "d3ddf496cb742e38a2565f5015401b6a"
@@ -2949,10 +2941,6 @@
       "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
       "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
-    "/mods/pamhc2trees-NEOFORGE-1.21.1-1.0.0.jar": {
-      "sha512": "4dba6588a0b639f4d9dedee3ac9b61cba6a733dc4bde26b793ad03c2947138d7007164fc8822c6e683663642b093ed74c1a89913ef06bea2eb806c69813feca6",
-      "md5": "bf02764404c08eb84770d717cafa0bfd"
-    },
     "/mods/Iceberg-1.21.1-neoforge-1.3.2.jar": {
       "sha512": "19d33195cfee0a640f40fb64d82346df7ac970ddb43ed68ba2dacb4793b18d577fd57dd43a4c2e94f731487c024b8d7ebcc52721764ec9d8a87bd68fc7df5c96",
       "md5": "68473a4ca9a827669c13d3855c8dc0e2"
@@ -3116,10 +3104,6 @@
     "/config/reap-server.toml": {
       "sha512": "58fb2d0a18b83825ed6ad2dd9478c5d6d3bdef5c67fc765ca96fa929a1e834c509900db2d14043ab495e637efec71eedcd8afc2b640b0b304730758516a4b68c",
       "md5": "9e464423a9097bd0901b013aacc10d1e"
-    },
-    "/kubejs/server_scripts/mods/SushiGoCrafting/tags.js": {
-      "sha512": "c9cf982b1f46806888a47dc83c8fa56c7bafb4b8524c76341191f780f30dd5c9c76301ba22b422309911b20ed1eb0cd8ac9d38b444bafcc65d16de93277adfc6",
-      "md5": "dea2bf63b7789059034712ae3816b2eb"
     },
     "/config/ftbquests/quests/README.md": {
       "sha512": "593e3112754f60b0c5ede339dff0699765d696c0b4777129d53837c500d45487a2c07fa51640431342bb87475369ba995df2d35979e790ec232262c9ceade405",
@@ -4240,10 +4224,6 @@
     "/mods/productivemetalworks-1.21.1-1.6.0.jar": {
       "sha512": "0425ec462cd5779933aa59e1134be03f3fdbbd430085c26aa25fea279a4a3c1e390d9ce3a4df8a6e968c49368c5febf8fa51d6c76970f3ff7269a55f0bdbecab",
       "md5": "8275a12b0c6871426fe1069dbc1b6316"
-    },
-    "/kubejs/data/sushigocrafting/recipe/fermenting_barrel/soy.json": {
-      "sha512": "4cd4423463e7486c5fb2960a34e6b259e5b5944f92900c28e81b0f150a637e693b7929026dacbb0ef88b4b613ec343c6d8315f96d01d60d7d8918541c40ec0a3",
-      "md5": "81bc29f66b4f3e5ec738c0faa8cd87c2"
     },
     "/kubejs/assets/atm/textures/questpics/gettingstarted/wither2.png": {
       "sha512": "5f3bae4abf6ddeb374dae42cb3ae49a51b257cbd066c7025d1c1d63a34da11ecb9285e65153d49b9e52f8a120ee312db2d41822e2afa255b859bbfcda96821be",
@@ -6256,10 +6236,6 @@
     "/mods/bwncr-neoforge-1.21.1-3.20.3.jar": {
       "sha512": "db8419504e6ede1553b2e2d060fe4937c53898154c66475b726381155233a55daa0f52a530562dfc84202692e52614f8c585e89b1f8621f6bf799ce6d97c91ab",
       "md5": "bd60ce4085de87cbd8fc70306fbc0cf8"
-    },
-    "/mods/herbsandharvest-1.21.1-1.jar": {
-      "sha512": "db9cc07d52cf7d9a90a874b08d71111a9b364909d2f8fae001b7d0bd9eff33e26553204e8fcec03ea244f7b0679c0b930bf3afd666cc0eb873049d3574407141",
-      "md5": "ca5375c17938db307cb61e5d935b3422"
     },
     "/mods/sussysniffers-1.21.1-0.1.2.jar": {
       "sha512": "3c5cb733ae4c8c881ed46921010c3272674f5c5417600c5c70ec2976271e64aacbb195f9e1822cfaaf439ddc451645e8619655b23f176546ea0251a12f3e63b6",
@@ -8765,10 +8741,6 @@
       "sha512": "ba0193c68207972d696b9e6c103135b637973bc0f1b16e808099c1a00d2d474fd2fe1bded510b8181f5a389c43b422b87c6ccd18cf772c7aa55e82d1857d56e7",
       "md5": "2aa5e118a6fcb16a0dcca6f0734a8d9d"
     },
-    "/mods/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar": {
-      "sha512": "bda4ab7dcd172a8f6cd1aa98de7c663bc6803aa2856df95d0c21ced90e4a2c6c27e9976a78809ca078e7489678c0106fd81b07eec7ac429628dd9945375eecb0",
-      "md5": "03d2aa7191dd29033fb23299c4715759"
-    },
     "/kubejs/data/modern_industrialization/data_maps/item/machine_upgrades.json": {
       "sha512": "3edc19ccaf7c6704eb124e7ef6abda0bbc49b1bb6819d1e23ce794294abf712d585f3048ddbbdda92ba19c17297dde8ec1137009165aaf64e559feb09b285b2b",
       "md5": "e2ea79150fe65f3e8292283b3adb0132"
@@ -8985,10 +8957,6 @@
       "sha512": "fc2e306da08ee8202aee29440f29600e40a76c1bec05f071f0093f322629772fc1baa63d5e78ba5014ce60fb39a1b8ca73df690663dfd8d99868eaa4d103389a",
       "md5": "64e043b9c88d29c08dcd1046f8662006"
     },
-    "/mods/sushigocrafting-1.21-0.6.4.jar": {
-      "sha512": "b06649eb03a3fa5a48b061b7fe5dd5fa7221f708365e5eb078ed27f0be55970028994deef27e74d7a287b332c88e8adcef8c213eb9ef26d6cd3f2aaa4bbf4b10",
-      "md5": "887f4ecfe731c1d01f297550f93fdef1"
-    },
     "/kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_challenger_biomes.json": {
       "sha512": "3352adceb2ed18a3b7a94478d9b739327cbceffa8043bbc6747eb4a41d6a187f6ecd00821f08f62a276751fc4722802a65a5d0cbd11da97f2a73118330358761",
       "md5": "412ac258042331f3c8ddbf356712f3d1"
@@ -9040,10 +9008,6 @@
     "/kubejs/assets/atm/textures/questpics/eternal/starlight_desert.png": {
       "sha512": "3f99a44da24729ed55c8635944fae1432f994f285da32a45585e5c28050bf2a8aa9df131a29ba953970c18e007dd5d24db4d247b6714cb36391020b10ed77260",
       "md5": "a7e415db0237b167924e0cb826a72ef4"
-    },
-    "/kubejs/data/pamhc2trees/loot_table/blocks/pamavocado.json": {
-      "sha512": "ca68e8907c5376c89970d65508d458a3f7fdca1aca4c60a47cae4135c8f96a290c091ff15430d09bd4a4999a1573d1d3894ec3a4c172b22949e8e2b63faa2bff",
-      "md5": "51735bff4e1a2447b68fbcda7847fd7b"
     },
     "/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar": {
       "sha512": "77c864da36f1d2173e6460dc335996893a804954b8a5c274173fc95dfdbf437e80d9dce32f6060306a662fc35322566eecf5dfe24e2d3fab79bf7e0ff9fa4db6",

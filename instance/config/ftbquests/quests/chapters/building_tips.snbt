@@ -1622,29 +1622,6 @@
 		{
 			dependencies: ["3ED8365BAD406CC5"]
 			icon: {
-				id: "sushigocrafting:rice_cooker"
-			}
-			id: "0C82CE3AFBD48C1E"
-			rewards: [{
-				count: 16
-				id: "44A4621E31A31C03"
-				item: {
-					count: 1
-					id: "sushigocrafting:rice_seeds"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "53A6720343E57302"
-				item: { components: { "ftbfiltersystem:filter": "and(mod(sushigocrafting)block())" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 9.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["3ED8365BAD406CC5"]
-			icon: {
 				id: "farmersdelight:basket"
 			}
 			id: "5D5563142917495A"

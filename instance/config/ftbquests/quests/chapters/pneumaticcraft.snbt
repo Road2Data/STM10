@@ -1534,32 +1534,6 @@
 			y: 6.5d
 		}
 		{
-			dependencies: ["649167FC31EB916E"]
-			id: "42951D14ADCD9332"
-			rewards: [
-				{
-					id: "618C5C25773A6B26"
-					item: {
-						count: 1
-						id: "pamhc2foodcore:potatochipsitem"
-					}
-					type: "item"
-				}
-				{
-					id: "2B26D0DEC6A0AC55"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "569BF001CEBF7853"
-				item: { count: 1, id: "pneumaticcraft:cod_n_chips" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 6.5d
-		}
-		{
 			dependencies: ["43EF5513A1C52A37"]
 			id: "0D31CD79BE6CC8D2"
 			optional: true
