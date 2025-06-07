@@ -1198,39 +1198,6 @@
 			y: -2.5d
 		}
 		{
-			id: "50B127137AA9E660"
-			optional: true
-			rewards: [{
-				id: "732895E499080E61"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [
-				{
-					id: "2ACCBA73F15785AE"
-					item: { count: 1, id: "everythingcopper:copper_helmet" }
-					type: "item"
-				}
-				{
-					id: "140EC910C2EAD46F"
-					item: { count: 1, id: "everythingcopper:copper_chestplate" }
-					type: "item"
-				}
-				{
-					id: "6EB023B3AEF61518"
-					item: { count: 1, id: "everythingcopper:copper_leggings" }
-					type: "item"
-				}
-				{
-					id: "5EE73B206A8A3021"
-					item: { count: 1, id: "everythingcopper:copper_boots" }
-					type: "item"
-				}
-			]
-			x: -3.5d
-			y: -6.0d
-		}
-		{
 			id: "24A7B2902E7430A1"
 			optional: true
 			rewards: [{

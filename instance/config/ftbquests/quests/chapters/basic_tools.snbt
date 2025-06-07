@@ -847,23 +847,6 @@
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
-			id: "4745488579AAF603"
-			optional: true
-			rewards: [{
-				id: "4554F792DA01D3ED"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "68EF65729725E203"
-				item: { count: 1, id: "everythingcopper:copper_sword" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 3.5d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
 			id: "2A6753C806D2AF8D"
 			optional: true
 			rewards: [{
@@ -907,7 +890,7 @@
 			}]
 			tasks: [{
 				id: "18DA9065596F9097"
-				item: { components: { "ftbfiltersystem:filter": "or(item(everythingcopper:copper_pickaxe)item(mekanismtools:bronze_pickaxe)item(mekanismtools:osmium_pickaxe)item(justdirethings:ferricore_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(mekanismtools:bronze_pickaxe)item(mekanismtools:osmium_pickaxe)item(justdirethings:ferricore_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -1.5d
