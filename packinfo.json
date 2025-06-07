@@ -5333,10 +5333,6 @@
       "sha512": "2c5307351d11faeb99f94548cd17327ffa9a129b24d9b36737eea5cd887ee3a964a3853d3a0ae327fd73ddfc2e03894e4e5b569a32927fb431dc03cb207580fe",
       "md5": "03d0f66a379bd7319274138ebc096dc8"
     },
-    "/mods/additional_lights-neoforge-1.21-2.1.9.jar": {
-      "sha512": "1edca25ac669a3c81175ea1e70073a088d73763d8dd9c1525beddd1ef2c4019f3c5c066b3602e5bc25c47f3e089f25fbefbb7de0dc09c81c8895fc89e7bc7df4",
-      "md5": "eae0be2581bf916a7e36d2917b7b1853"
-    },
     "/packmenu/resources/assets/packmenu/buttons/quit.json": {
       "sha512": "1a576303e8476c0b42ad27e4fabe83fcd8c0bfb1cf94b8dd3ba38dbdc10f3dde84c168facd0b8ef75d12b87bc753d0887aa9849023d9b12e9b54744a8831aabf",
       "md5": "b3a6f201b24dae72ddf94afc680765de"
