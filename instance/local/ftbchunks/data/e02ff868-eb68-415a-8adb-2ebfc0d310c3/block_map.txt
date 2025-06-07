@@ -12,6 +12,7 @@
 #B152E8 minecraft:black_wool
 #7F8A04 minecraft:blast_furnace
 #0F415A domum_ornamentum:blockbarreldeco_standing
+#207534 minecraft:brown_mushroom
 #FC842A minecraft:campfire
 #F522F4 minecraft:chest
 #AA9109 minecraft:chiseled_stone_bricks
@@ -96,6 +97,7 @@
 #6F0723 regions_unexplored:peat_grass_block
 #389F1B regions_unexplored:peat_mud
 #5F129A herbsandharvest:plum_fruit_leaves
+#BB7F65 minecraft:podzol
 #6A5197 minecraft:polished_andesite
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
