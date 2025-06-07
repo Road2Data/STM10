@@ -9835,9 +9835,6 @@
 		"- Fuel Efficiency: Doubles the amount of items smelted per fuel, but reduces the speed by 25%."
 	]
 	quest.7EC01E7DB045DB05.title: "Furnace &aAugments&r"
-	quest.7EC8814940C4C3D7.quest_desc: ["Use this item to shrink. Helpful for working on automation and also just overall fun."]
-	quest.7EC8814940C4C3D7.quest_subtitle: "Honey I Shrunk Myself"
-	quest.7EC8814940C4C3D7.title: "Personal Shrinking Device"
 	quest.7EDF2CC08FC774F9.quest_subtitle: "&f10&r &4Damage&r"
 	quest.7EE14ED04C64E2AA.quest_desc: ["If we take the Fiber Reinforced Circuit Boards we made in the LuV tier, and change the recipe a bit, we can create a Multi-Layered Fiber Reinforced Circuit Board"]
 	quest.7EE14ED04C64E2AA.quest_subtitle: "Change up"

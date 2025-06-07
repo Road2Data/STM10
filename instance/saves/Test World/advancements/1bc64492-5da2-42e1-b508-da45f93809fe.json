@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "merrymaking:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-06-04 17:02:10 -0500"
-    },
-    "done": true
-  },
   "modern_industrialization:guidebook": {
     "criteria": {
       "logged_in": "2025-06-04 17:02:10 -0500"
@@ -116,12 +110,14 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "gravel_beach": "2025-06-06 13:11:19 -0500",
       "golden_boreal_taiga": "2025-06-04 17:02:11 -0500"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "gravel_beach": "2025-06-06 13:11:19 -0500",
       "golden_boreal_taiga": "2025-06-04 17:02:11 -0500"
     },
     "done": false
@@ -215,9 +211,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "lootr:social": {
     "criteria": {
-      "seeds": "2025-06-04 17:30:57 -0500"
+      "opened_barrel": "2025-06-06 21:30:02 -0500"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-06 21:30:02 -0500"
     },
     "done": true
   },

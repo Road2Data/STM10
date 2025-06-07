@@ -436,6 +436,14 @@
 					type: "xp"
 					xp: 25
 				}
+				{
+					id: "177ECE2CB52B7D77"
+					item: {
+						count: 1
+						id: "alltheores:platinum_ore_hammer"
+					}
+					type: "item"
+				}
 			]
 			shape: "square"
 			size: 1.25d

@@ -9825,9 +9825,6 @@
 		"- Eficiência de Combustível: Dobra a quantidade de itens fundidos por combustível, mas reduz a velocidade em 25%."
 	]
 	quest.7EC01E7DB045DB05.title: "Forno &aAugments&r"
-	quest.7EC8814940C4C3D7.quest_desc: ["Use este item para encolher. Útil para trabalhar com automação e também divertido em geral."]
-	quest.7EC8814940C4C3D7.quest_subtitle: "Querida, eu me encolhi"
-	quest.7EC8814940C4C3D7.title: "Dispositivo de encolhimento pessoal"
 	quest.7EDF2CC08FC774F9.quest_subtitle: "&f10&r &4Dano&r"
 	quest.7EE14ED04C64E2AA.quest_desc: ["Se pegarmos as placas de circuito reforçado com fibra que fizemos na camada LuV e mudarmos um pouco a receita, podemos criar uma placa de circuito reforçado com fibra multicamadas"]
 	quest.7EE14ED04C64E2AA.quest_subtitle: "Mudar-se"

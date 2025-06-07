@@ -71,7 +71,7 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -480,13 +480,13 @@ key_key.advanced_ae.quantum_armor_config:key.keyboard.unknown
 key_key.advanced_ae.quantum_magnet_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown
-key_key.modern_industrialization.toggle_flight:key.keyboard.v
 key_key.modern_industrialization.toggle_3x3:key.keyboard.y
+key_key.modern_industrialization.toggle_flight:key.keyboard.v
+key_key.extended_industrialization.toggle_leggings_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_chestplate_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_boots_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_helmet_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown
-key_key.extended_industrialization.toggle_leggings_ability:key.keyboard.unknown
 key_theurgy.key.change_item_mode:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_pneumaticcraft.armor.upgrade.fall_protection:key.keyboard.unknown

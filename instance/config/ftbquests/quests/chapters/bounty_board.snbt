@@ -132,6 +132,14 @@
 					type: "xp"
 					xp: 100
 				}
+				{
+					id: "3316D48DE8B445CF"
+					item: {
+						count: 1
+						id: "minecraft:zombie_spawn_egg"
+					}
+					type: "item"
+				}
 			]
 			shape: "pentagon"
 			size: 1.5d
@@ -256,6 +264,14 @@
 					type: "xp"
 					xp: 100
 				}
+				{
+					id: "2C585EC4FE95D12D"
+					item: {
+						count: 1
+						id: "minecraft:skeleton_spawn_egg"
+					}
+					type: "item"
+				}
 			]
 			shape: "pentagon"
 			size: 1.5d
@@ -369,6 +385,14 @@
 					id: "486302C7D5B4041B"
 					type: "xp"
 					xp: 100
+				}
+				{
+					id: "1ADD2376E6AF1AC5"
+					item: {
+						count: 1
+						id: "minecraft:creeper_spawn_egg"
+					}
+					type: "item"
 				}
 			]
 			shape: "pentagon"
@@ -687,6 +711,14 @@
 					type: "xp"
 					xp: 100
 				}
+				{
+					id: "65B47B2F36E0B0F6"
+					item: {
+						count: 1
+						id: "minecraft:enderman_spawn_egg"
+					}
+					type: "item"
+				}
 			]
 			shape: "pentagon"
 			size: 1.5d
@@ -811,6 +843,14 @@
 					type: "xp"
 					xp: 100
 				}
+				{
+					id: "638E986E2563D898"
+					item: {
+						count: 1
+						id: "minecraft:spider_spawn_egg"
+					}
+					type: "item"
+				}
 			]
 			shape: "pentagon"
 			size: 1.5d
@@ -925,6 +965,14 @@
 					id: "4871EDD07934397F"
 					type: "xp"
 					xp: 100
+				}
+				{
+					id: "4EACBA2767EA5251"
+					item: {
+						count: 1
+						id: "minecraft:blaze_spawn_egg"
+					}
+					type: "item"
 				}
 			]
 			shape: "pentagon"
@@ -1073,6 +1121,14 @@
 					type: "xp"
 					xp: 100
 				}
+				{
+					id: "16196AE5299E7454"
+					item: {
+						count: 1
+						id: "minecraft:witch_spawn_egg"
+					}
+					type: "item"
+				}
 			]
 			shape: "pentagon"
 			size: 1.5d
@@ -1206,6 +1262,14 @@
 					id: "0D93F33D0C1A9F92"
 					type: "xp"
 					xp: 100
+				}
+				{
+					id: "0E09364209F1091D"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_spawn_egg"
+					}
+					type: "item"
 				}
 			]
 			shape: "pentagon"

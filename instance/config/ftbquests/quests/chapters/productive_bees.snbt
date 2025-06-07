@@ -1713,7 +1713,7 @@
 			dependencies: ["131EC039435B8878"]
 			hide_dependency_lines: true
 			icon: {
-				id: "luminax:red_block"
+				id: "luminax:red_luminax_block"
 			}
 			id: "683B58B699D4D381"
 			rewards: [{

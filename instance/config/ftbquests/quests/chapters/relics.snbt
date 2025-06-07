@@ -810,8 +810,11 @@
 					count: 10
 					id: "6C27703503C7F794"
 					item: {
+						components: {
+							"ftbquests:missing_item": "farmersdelight:ham"
+						}
 						count: 1
-						id: "farmersdelight:ham"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}

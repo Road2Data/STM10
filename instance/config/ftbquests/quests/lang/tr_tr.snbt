@@ -532,8 +532,6 @@
 	quest.2188C52C1F384DE4.title: "&c&lFilozof'un Yakıtı"
 	quest.219932CB19258C16.quest_desc: ["Depolama bileşeninin üçüncü kademesi, &e16384&f bayt depolama alanı sağlar."]
 	quest.219932CB19258C16.title: "16k Depolama Bileşeni"
-	quest.219AA017149C36E2.quest_desc: ["Trapped Trader Carpet'lar, yakınında beliren Seyyar Tüccarları anında öldürecektir!\\n\\nBunlar tüm paketteki en iyi eşyalar olabilir."]
-	quest.219AA017149C36E2.quest_subtitle: "Artık Sinir Bozucu Tüccarlar Yok!"
 	quest.21AB14A8553896E9.quest_desc: ["Millet, sanırım beni doğru anlamadınız, &e&lProductive Bees&r dedim! Bi' dakika başka bir mod daha var! \\n\\nBu, &e&lProductive Bees&r ile ilgili çünkü Ağaçları çoğaltmak için onlara ihtiyacın olacak. \\n\\nHayır, Ağaçlar çoğalmak için Buğday kullanmazlar, Arıları kullanırlar. \\n\\n&oAğaçlar ve Arılar&r."]
 	quest.21B96130EA516B82.quest_desc: ["\"Ben Basınçlı Demir Adamım!\" \\n\\nBasınçlı Hava ile kullanılabilir ve yükseltilebilir!"]
 	quest.21B96130EA516B82.title: "&8Pneumatic Zırhı"
@@ -1877,8 +1875,6 @@
 	quest.7EC01E7DB045DB05.quest_desc: ["&aAugment&r'ler, bir Ocağın işlevini değiştirebilen veya yükseltebilen Ocak yükseltmeleridir.\\n\\n - Blasting: Ocağı sadece Maden Ateşleme tariflerine izin verecek şekilde dönüştürür.\\n\\n - Smoking: Ocağı sadece Tütsüleme tariflerine izin verecek şekilde dönüştürür.\\n\\n - Factory: Ocağı yakıt yerine güç kullanacak şekilde dönüştürür ve bir fabrikaya yükselterek aynı anda birden fazla eşya eritmesini sağlar. Bu özellik Ocağın kademesine bağlı olarak artar.\\n\\n - Speed: İki kat yakıt karşılığında ocağın hızını iki katına çıkarır.\\n\\n - Fuel Efficiency: Yakıt başına eritilen eşya miktarını iki katına çıkarır, ancak hızı %25 azaltır"]
 	quest.7EC01E7DB045DB05.title: "Ocak &aEklentileri"
 	quest.7EC7E12C0880F8F5.quest_subtitle: "Kademe: &e5"
-	quest.7EC8814940C4C3D7.quest_desc: ["Küçülmek için bu eşyayı kullan. Otomasyon üzerinde çalışmak için yararlı ve aynı zamanda genel olarak eğlenceli."]
-	quest.7EC8814940C4C3D7.quest_subtitle: "Tatlım, Kendimi Küçülttüm"
 	quest.7EDF2CC08FC774F9.quest_subtitle: "&f10 &cSaldırı Hasarı"
 	quest.7EF57BBEAA4B6B08.quest_desc: ["&9Applied Energistics 2&r gibi bir mod kullanarak sanal depolama alanı mı oluşturmak istiyorsun?\\n\\nBunlar depolama alanını geliştirmenin harika yollarıdır. Ancak &eNBT Eşyaları&r ve bunları depolamanın en iyi yolu hakkında konuşmak önemlidir.\\n\\nNBT eşyaları, üzerlerine ekstra etiketler eklenmiş eşyalardır. Büyülü eşyalar, dayanıklılığı olan eşyalar ve daha fazlası. Bunlar, üzerlerine NBT etiketleri iliştirilmiş eşyalardır. Bu nedenle genellikle istiflenmezler.\\n\\nBunlardan birçoğunu AE2 gibi bir depolama sisteminde depoladığında, kaydın veya sunucun için sorun oluşturma ihtimalin vardır.\\n\\nBu nedenle, bunları Sandıklarda veya Çantalarda saklamak en iyisidir!"]
 	quest.7EFBAF3E281D2EBE.quest_desc: [

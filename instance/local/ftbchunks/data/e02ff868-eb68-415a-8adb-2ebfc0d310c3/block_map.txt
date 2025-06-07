@@ -7,6 +7,7 @@
 #0F359D minecraft:azure_bluet
 #189B99 minecraft:barrel
 #3DE8FE minecraft:birch_leaves
+#2E6742 actuallyadditions:black_quartz_ore
 #B056F4 minecraft:black_wall_banner
 #B152E8 minecraft:black_wool
 #7F8A04 minecraft:blast_furnace
@@ -16,10 +17,12 @@
 #AA9109 minecraft:chiseled_stone_bricks
 #7FDE54 minecraft:clay
 #DE242D minecraft:coal_ore
+#FE4F0A minecraft:coarse_dirt
 #058353 minecraft:cobblestone
 #7331AC minecraft:cobblestone_slab
 #3D8BFC minecraft:cobblestone_stairs
 #8B8A11 minecraft:cobweb
+#E2D601 minecraft:composter
 #6E76AF minecraft:copper_ore
 #306005 minecraft:cracked_stone_bricks
 #B2A2E1 minecraft:dandelion
@@ -96,6 +99,7 @@
 #6A5197 minecraft:polished_andesite
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
+#62A444 minecraft:potted_oak_sapling
 #40BB61 minecraft:prismarine
 #A8C236 minecraft:prismarine_bricks
 #0996C0 minecraft:raw_iron_block
@@ -125,10 +129,15 @@
 #F8955F minecraft:stone_bricks
 #AB5BC7 minecraft:stone_slab
 #139B57 minecraft:stone_stairs
+#82F982 minecraft:stripped_spruce_log
+#5CF3F1 minecraft:sugar_cane
+#D9E7FF productivebees:sugar_cane_nest
 #0EAA1C minecraft:suspicious_gravel
 #785D5B alltheores:tin_ore
 #87BAF4 minecraft:tuff
 #633874 powah:uraninite_ore_poor
+#6DB687 create:veridium
+#88779D minecraft:vine
 #BC20FE minecraft:white_wool
 #3F1726 xycraft_world:xychorium_ore_stone_blue
 #742253 xycraft_world:xychorium_ore_stone_green

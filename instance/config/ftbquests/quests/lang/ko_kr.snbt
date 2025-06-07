@@ -3377,8 +3377,6 @@
 	quest.219932CB19258C16.title: "16k 저장소 구성 요소"
 	quest.219A5BDA5A01A420.quest_desc: ["&4마스터 주입 수정&r은 주입 수정과 똑같이 작동하지만 절대 파괴되지 않습니다."]
 	quest.219A5BDA5A01A420.title: "&4마스터 주입 수정"
-	quest.219AA017149C36E2.quest_desc: ["갇힌 주민 상인 카펫은 근처에서 생성되는 모든 떠돌이 상인을 즉시 죽입니다!\\n\\n이것들은 전체 팩에서 최고의 아이템일 수 있습니다."]
-	quest.219AA017149C36E2.quest_subtitle: "더 이상 성가신 주민 상인은 없습니다!"
 	quest.21A0FD474FBB49F7.quest_desc: [
 		"또 다른 구조물로 &5엔드&r의 황량함을 덮어줄 &d폐허가 된 성채&r입니다.\\n\\n&d폐허가 된 성채&r는 &5흑요석&r, 엔드스톤, 그리고 &d푸르푸르&r로 이루어진 궁전입니다.\\n\\n궁전 안에서는 상자, 셜커 상자, 셜커, 심지어 특별한 &d공허의 돌&r까지 찾을 수 있습니다!\\n\\n앞서 언급한 셜커, &d엔더마프테라&r, 그리고 &d엔더 골렘&r을 조심하세요."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_citadel.png width:200 height:100 align:center}"
@@ -12637,9 +12635,6 @@
 		"{image:atm:textures/questpics/undergarden/undergarden_gloomper.png width:100 height:100 align:center}"
 	]
 	quest.79C652E3FCB88550.title: "&5우울두꺼비&r"
-	quest.79C9875A1A494762.quest_desc: ["만약 &9Corrupt Souls&r를 사용하여 에델우드를 그로우하고 싶지 않다면, 행운에 기대세요! \\n\\n떠돌이 상인이 그로우 에델우드를 판매할 확률이 있으며, 이것을 심어 에델우드를 그로우할 수 있습니다. \\n\\n떠돌이 상인은 매우 랜덤하지만, 주민 상인 카펫을 사용하여 적어도 그가 어디에 생성될지 알 수 있습니다!"]
-	quest.79C9875A1A494762.quest_subtitle: "Wandy T' 님으로부터"
-	quest.79C9875A1A494762.title: "에델우드 구매"
 	quest.79D2617E01481281.quest_desc: ["AE2를 시작하려면 &b서투스 석영&f이라고 하는 모드의 중요한 자원을 채굴해야 합니다. 서투스 석영 &e가루&f와 &e수정&f을 채굴할 수 있는 운석에서 서투스 석영 수정을 찾을 수 있습니다."]
 	quest.79D2617E01481281.title: "커투스 석영"
 	quest.79D3055DE0EEA6B0.quest_desc: ["&d&l아르스 엘리멘탈&r &cFire 갑옷&r!"]
@@ -13117,9 +13112,6 @@
 	quest.7EC01E7DB045DB05.quest_desc: ["&a증강&r은 화로의 기능을 변경하거나 업그레이드할 수 있는 화로 업그레이드입니다.\\n\\n - 폭발: 화로를 폭발 레시피만 사용하도록 변환합니다.\\n\\n - 훈연: 화로를 훈연 레시피만 사용하도록 변환합니다.\\n\\n - 공장: 화로를 연료 대신 전력을 사용하도록 변환하고 공장으로 업그레이드하여 한 번에 여러 아이템을 제련할 수 있습니다. 이는 화로의 티어에 따라 증가합니다.\\n\\n - 속도: 연료 비용이 두 배로 들지만 화로의 속도가 두 배로 증가합니다.\\n\\n - 연료 효율: 연료당 제련되는 아이템의 양을 두 배로 늘리지만 속도는 25% 감소합니다."]
 	quest.7EC01E7DB045DB05.title: "화로 &a강화"
 	quest.7EC7E12C0880F8F5.quest_subtitle: "티어: &e5"
-	quest.7EC8814940C4C3D7.quest_desc: ["이 아이템을 사용하여 줄어드세요. 자동화 작업을 하거나 전반적으로 재미있게 놀 때 유용합니다."]
-	quest.7EC8814940C4C3D7.quest_subtitle: "얘야, 내가 나 자신을 줄였어"
-	quest.7EC8814940C4C3D7.title: "개인 축소 장치"
 	quest.7EC89242980768B3.quest_subtitle: "피칸 + 야생 체리"
 	quest.7EDF2CC08FC774F9.quest_subtitle: "&f10 &c 공격 피해"
 	quest.7EE14ED04C64E2AA.quest_desc: ["LuV 티어에서 만든 섬유 강화 회로 기판을 가져다가 제작법을 약간 변경하면 다층 섬유 강화 회로 기판을 만들 수 있습니다."]

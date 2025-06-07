@@ -355,9 +355,6 @@
 	]
 	quest.7E8FE99A3C448413.title: "Dimension Minière"
 	quest.7E9E03274A88347D.title: "&fModule d'empillement Niveau 1"
-	quest.7EC8814940C4C3D7.quest_desc: ["Utilisez cet objet pour rétrécir. Utile pour travailler sur l'automatisation et aussi juste pour s'amuser en général."]
-	quest.7EC8814940C4C3D7.quest_subtitle: "Chéri(e), j'ai rétréci les dimensions"
-	quest.7EC8814940C4C3D7.title: "Dispositif de rétrécissement personnel"
 	quest.7F042DED357DEF3C.quest_desc: ["Les bibliothèques sont votre point de départ, mais certainement pas votre point final. Du moins, pas avec les bibliothèques classique. Avec seulement des bibliothèques normales, vous ne pouvez obtenir qu'Eterna jusqu'à un maximum de 15. (Je vais expliquer les niveaux d'enchantement bientôt, mais sachez simplement que vous en avez besoin)"]
 	quest.7F042DED357DEF3C.title: "La limite maximale de Vanilla n'est qu'un début"
 	quest.7F3B96033AB7A21E.title: "Pomme d'AllTheModium"
