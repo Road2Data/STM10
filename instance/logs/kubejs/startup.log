@@ -1,34 +1,34 @@
-[22:25:12] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
-[22:25:12] [INIT] Loaded plugins:
-[22:25:12] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[22:25:12] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
-[22:25:12] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[22:25:12] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
-[22:25:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[22:25:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[22:25:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[22:25:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[22:25:12] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[22:25:12] [INIT] - es.degrassi.mmreborn.common.integration.kubejs.MMRKubeJSPlugin
-[22:25:12] [INIT] - es.degrassi.mmreborn.mekanism.common.integration.kubejs.MMRKubeJSPlugin
-[22:25:12] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
-[22:25:12] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[22:25:13] [INFO] Loaded script startup_scripts:Potionsmaster/potionsmaster.js in 0.088 s
-[22:25:13] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.001 s
-[22:25:13] [INFO] startup_scripts:CustomAdditions.js#4: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
-[22:25:13] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.01 s
-[22:25:13] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.005 s
-[22:25:13] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.Chemical'
-[22:25:13] [INFO] startup_scripts:Mekanism/Compatibility.js#19: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
-[22:25:13] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.011 s
-[22:25:13] [INFO] Loaded script startup_scripts:Modern-Industrialization/atm_stuff.js in 0.002 s
-[22:25:13] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/auto_forge.js in 0.002 s
-[22:25:13] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/casing.js in 0.001 s
-[22:25:13] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/runic_crucible.js in 0.001 s
-[22:25:13] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/runic_enchanter.js in 0.001 s
-[22:25:13] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/runic_star_altar.js in 0.002 s
-[22:25:13] [INFO] startup_scripts:Shrink/polylib_fix.js#1: Loaded Java class 'net.creeperhost.polylib.init.DataComps'
-[22:25:13] [INFO] Loaded script startup_scripts:Shrink/polylib_fix.js in 0.001 s
-[22:25:13] [INFO] Loaded script startup_scripts:Theurgy/SulfurAdditions.js in 0.0 s
-[22:25:13] [INFO] Loaded script startup_scripts:Xycraft/Compatibility.js in 0.001 s
-[22:25:13] [INFO] Loaded 14/14 KubeJS startup scripts in 1.214 s with 0 errors and 0 warnings
+[19:25:55] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[19:25:55] [INIT] Loaded plugins:
+[19:25:55] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[19:25:55] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[19:25:55] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[19:25:55] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[19:25:55] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[19:25:55] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[19:25:55] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:25:55] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[19:25:55] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[19:25:55] [INIT] - es.degrassi.mmreborn.common.integration.kubejs.MMRKubeJSPlugin
+[19:25:55] [INIT] - es.degrassi.mmreborn.mekanism.common.integration.kubejs.MMRKubeJSPlugin
+[19:25:55] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[19:25:55] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[19:25:56] [INFO] Loaded script startup_scripts:Potionsmaster/potionsmaster.js in 0.118 s
+[19:25:56] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.0 s
+[19:25:56] [INFO] startup_scripts:CustomAdditions.js#4: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[19:25:56] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.008 s
+[19:25:56] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.005 s
+[19:25:56] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.Chemical'
+[19:25:56] [INFO] startup_scripts:Mekanism/Compatibility.js#19: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
+[19:25:56] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.009 s
+[19:25:56] [INFO] Loaded script startup_scripts:Modern-Industrialization/atm_stuff.js in 0.002 s
+[19:25:56] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/auto_forge.js in 0.001 s
+[19:25:56] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/casing.js in 0.0 s
+[19:25:56] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/runic_crucible.js in 0.001 s
+[19:25:56] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/runic_enchanter.js in 0.002 s
+[19:25:56] [INFO] Loaded script startup_scripts:Modern-Industrialization/multiblocks/runic_star_altar.js in 0.001 s
+[19:25:56] [INFO] startup_scripts:Shrink/polylib_fix.js#1: Loaded Java class 'net.creeperhost.polylib.init.DataComps'
+[19:25:56] [INFO] Loaded script startup_scripts:Shrink/polylib_fix.js in 0.001 s
+[19:25:56] [INFO] Loaded script startup_scripts:Theurgy/SulfurAdditions.js in 0.0 s
+[19:25:56] [INFO] Loaded script startup_scripts:Xycraft/Compatibility.js in 0.0 s
+[19:25:56] [INFO] Loaded 14/14 KubeJS startup scripts in 1.3 s with 0 errors and 0 warnings

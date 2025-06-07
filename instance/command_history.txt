@@ -1,2 +1,1 @@
 /give @p ars_scalaes:glyph_resize
-/kubejs errors server

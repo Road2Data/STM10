@@ -1,36 +1,36 @@
-[2025-06-06 22:24:43.795] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
-[2025-06-06 22:24:43.797] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\local\crash_assistant\18984_1749266679326_app.jar, -parentPID, 18984, -parentStarted, 1749266679326, -parentXms, 1024m, -parentXmx, 12288m, -systemRAM, 32g, -platform, NEOFORGE, -loaderJarName, neoforge-21.1.174, -minecraftVersion, 1.21.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\mods\CrashAssistant-neoforge-1.21.1-1.9.1.jar, -log4jApi, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar, -log4jCore, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar, -googleGson, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar, -commonIo, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar, -processor, AMD Ryzen 7 3700X 8-Core Processor             , -serialisedGPUs, U3VjY2Vzc2Z1bGx5IGRldGVjdGVkIEdQVXMgdXNpbmcgVnVsa2FuOgpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggMzA5MAo=, -recursiveStart]
-[2025-06-06 22:24:43.798] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance
-[2025-06-06 22:24:43.798] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 18984
-[2025-06-06 22:24:43.798] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1749266679326
-[2025-06-06 22:24:43.798] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 1024m
-[2025-06-06 22:24:43.799] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 12288m
-[2025-06-06 22:24:43.799] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 32g
-[2025-06-06 22:24:43.800] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: NEOFORGE
-[2025-06-06 22:24:43.800] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: neoforge-21.1.174
-[2025-06-06 22:24:43.800] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.21.1
-[2025-06-06 22:24:43.800] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
-[2025-06-06 22:24:43.801] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: AMD Ryzen 7 3700X 8-Core Processor             
-[2025-06-06 22:24:43.801] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-neoforge-1.21.1-1.9.1.jar
-[2025-06-06 22:24:43.801] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 10
-[2025-06-06 22:24:43.804] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\managed_javas\zulu21.38.21-ca-jre21.0.5-win_x64\bin\java.exe
-[2025-06-06 22:24:43.806] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 21.0.5+11-LTS
-[2025-06-06 22:24:43.806] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+[2025-06-06 19:25:25.891] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-06-06 19:25:25.893] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\local\crash_assistant\14256_1749255919978_app.jar, -parentPID, 14256, -parentStarted, 1749255919978, -parentXms, 1024m, -parentXmx, 12288m, -systemRAM, 32g, -platform, NEOFORGE, -loaderJarName, neoforge-21.1.174, -minecraftVersion, 1.21.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\mods\CrashAssistant-neoforge-1.21.1-1.9.1.jar, -log4jApi, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar, -log4jCore, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar, -googleGson, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar, -commonIo, C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar, -processor, AMD Ryzen 7 3700X 8-Core Processor             , -serialisedGPUs, U3VjY2Vzc2Z1bGx5IGRldGVjdGVkIEdQVXMgdXNpbmcgVnVsa2FuOgpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggMzA5MAo=, -recursiveStart]
+[2025-06-06 19:25:25.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance
+[2025-06-06 19:25:25.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 14256
+[2025-06-06 19:25:25.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1749255919978
+[2025-06-06 19:25:25.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 1024m
+[2025-06-06 19:25:25.894] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 12288m
+[2025-06-06 19:25:25.895] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 32g
+[2025-06-06 19:25:25.896] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: NEOFORGE
+[2025-06-06 19:25:25.896] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: neoforge-21.1.174
+[2025-06-06 19:25:25.896] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.21.1
+[2025-06-06 19:25:25.896] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-06-06 19:25:25.897] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: AMD Ryzen 7 3700X 8-Core Processor             
+[2025-06-06 19:25:25.897] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-neoforge-1.21.1-1.9.1.jar
+[2025-06-06 19:25:25.897] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 10
+[2025-06-06 19:25:25.900] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\managed_javas\zulu21.38.21-ca-jre21.0.5-win_x64\bin\java.exe
+[2025-06-06 19:25:25.903] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 21.0.5+11-LTS
+[2025-06-06 19:25:25.903] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
 Successfully detected GPUs using Vulkan:
 DEDICATED : NVIDIA GeForce RTX 3090
 
-[2025-06-06 22:24:43.821] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 18984 to stop.
-[2025-06-06 22:25:29.798] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+[2025-06-06 19:25:25.929] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 14256 to stop.
+[2025-06-06 19:26:12.832] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
 NVIDIA GeForce RTX 3090/PCIe/SSE2
-[2025-06-06 22:47:41.543] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "18984" is not alive or reused by another process. Minecraft JVM appears to have stopped.
-[2025-06-06 22:47:41.579] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\latest.log
-[2025-06-06 22:47:41.580] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding debug.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\debug.log
-[2025-06-06 22:47:41.583] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding GDLauncher: main.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\..\..\..\..\main.log
-[2025-06-06 22:47:41.586] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\kubejs\client.log
-[2025-06-06 22:47:41.587] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: server.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\kubejs\server.log
-[2025-06-06 22:47:41.590] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\kubejs\startup.log
-[2025-06-06 22:47:41.591] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\crash_assistant\crash_assistant_app.log
-[2025-06-06 22:47:41.592] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
-[2025-06-06 22:47:41.592] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: true
-[2025-06-06 22:47:41.592] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Stop function of Minecraft fired: true
-[2025-06-06 22:47:41.593] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.
+[2025-06-06 21:33:04.902] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "14256" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-06-06 21:33:04.935] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\latest.log
+[2025-06-06 21:33:04.936] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding debug.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\debug.log
+[2025-06-06 21:33:04.939] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding GDLauncher: main.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\..\..\..\..\main.log
+[2025-06-06 21:33:04.942] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\kubejs\client.log
+[2025-06-06 21:33:04.943] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: server.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\kubejs\server.log
+[2025-06-06 21:33:04.946] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\kubejs\startup.log
+[2025-06-06 21:33:04.949] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\All the Mods 10 - ATM10\instance\logs\crash_assistant\crash_assistant_app.log
+[2025-06-06 21:33:04.949] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-06-06 21:33:04.949] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: true
+[2025-06-06 21:33:04.949] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Stop function of Minecraft fired: true
+[2025-06-06 21:33:04.950] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.
