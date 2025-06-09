@@ -3,52 +3,50 @@
 
 ServerEvents.recipes(allthemods => {
   // Dragon Soul
-  allthemods.shaped('allthetweaks:dragon_soul', ['CDA', 'SNI', 'BGE'], {
-    C: 'apothic_enchanting:infused_breath',
-    D: 'occultism:soul_gem',
-    A: 'occultism:spawn_egg/familiar_dragon',
-    S: 'productivetrees:socotra_dragon_sapling',
-    N: ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]'],
-    I: 'allthemodium:piglich_heart_block',
-    B: 'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:soul_lava"}]',
-	  G: 'cataclysm:abyssal_sacrifice',
-    E: 'eternal_starlight:chain_of_souls'
+  // Recipe Modified 2025.06.09-16:07 CST
+  allthemods.shaped('allthetweaks:dragon_soul', ['APE', 'CDP', 'BCA'], {
+    A: 'cataclysm:abyssal_sacrifice',
+    B: 'apothic_enchanting:infused_breath',
+    C: 'eternal_starlight:chain_of_souls',
+    D: ['hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1255]', 'hostilenetworks:data_model[hostilenetworks:data_model="hostilenetworks:ender_dragon",hostilenetworks:data=1254]'],
+    E: 'minecraft:dragon_egg',
+    P: 'allthemodium:piglich_heart_block'
   }).id('allthemods:allthetweaks/dragon_soul')
 
  // Improbable Probability Device
- allthemods.shaped('allthetweaks:improbable_probability_device', ['ABA', 'CGC', 'FDF'], {
+ // Recipe Modified 2025.06.09-16:36 CST
+ allthemods.shaped('allthetweaks:improbable_probability_device', ['CEC', 'ASA', 'MDM'], {
   A: 'mekanism:pellet_antimatter',
-  B: 'ae2:singularity',
-  C: Ingredient.of(['megacells:portable_item_cell_256m', 'modern_industrialization:blastproof_casing']),
-  D: 'pneumaticcraft:aerial_interface',
-  F: 'ironfurnaces:million_furnace', 
-  G: 'irons_spellbooks:lightning_upgrade_orb'
+  C: 'modern_industrialization:quantum_circuit',
+  D: 'mekanism:portable_qio_dashboard',
+  E: 'ae2:quantum_entangled_singularity',
+  M: 'pneumaticcraft:module_expansion_card',
+  S: 'hostilenetworks:sim_chamber'
   }).id('allthemods:allthetweaks/improbable_probability_device')
 
   // Dimensional Seed Recipe
+  // Recipie Modified for uniform compression rates
   allthemods.shaped('allthetweaks:dimensional_seed', ['ABC', 'DEF', 'GHI'], {
-    A: 'allthecompressed:netherrack_6x',
-    B: 'allthecompressed:dirt_6x',
+    A: 'allthecompressed:netherrack_5x',
+    B: 'allthecompressed:dirt_5x',
     C: 'allthecompressed:obsidian_5x',
     D: 'allthetweaks:mini_exit',
     E: 'allthetweaks:mini_nether',
     F: 'allthetweaks:mini_end',
     G: 'allthecompressed:end_stone_5x',
-    H: 'allthecompressed:emerald_block_4x',
-    I: 'allthecompressed:diamond_block_4x'
+    H: 'allthecompressed:emerald_block_5x',
+    I: 'allthecompressed:diamond_block_5x'
   }).id('allthemods:allthetweaks/dimensional_seed')
 
   // Withers Compass
-  allthemods.shaped('allthetweaks:withers_compass', ['ABC', 'DEF', 'GHI'], {
-    A: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:withered"]',
+  // Recipe Modified 2025.06.09-17:02 CST
+  allthemods.shaped('allthetweaks:withers_compass', ['GWG', 'BEB', 'CWC'], {
     B: 'industrialforegoing:wither_builder',
-    C: 'deeperdarker:heart_of_the_deep',
-    D: 'generatorgalore:netherstar_generator_64x',
-    E: 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]',
-    F: 'mysticalagriculture:witherproof_bricks',
-    G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
-    H: 'ars_nouveau:glyph_wither',
-    I: 'mysticalagradditions:nether_star_crux'
+    C: 'mysticalagradditions:nether_star_crux',
+    D: 'deeperdarker:heart_of_the_deep',
+    E: 'explorerscompass:explorerscompass',
+    G: 'generatorgalore:netherstar_generator_64x',
+    W: 'mysticalagriculture:witherproof_bricks'    
   }).id('allthemods:allthetweaks/withers_compass')
 
   // Philosopher's Fuel
