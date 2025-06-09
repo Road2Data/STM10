@@ -508,21 +508,23 @@
 			id: "166971866A9234C7"
 			rewards: [
 				{
-					id: "553CF82B4CDE5085"
-					item: {
-						count: 1
-						id: "minecraft:redstone"
-					}
-					type: "item"
-				}
-				{
 					id: "7A2076948F93E6D6"
 					type: "xp"
 					xp: 10
 				}
+				{
+					count: 4
+					id: "46842327DA4DAFD6"
+					item: {
+						count: 1
+						id: "mekanism:enriched_redstone"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			tasks: [{
+				count: 8L
 				id: "72CE838EFDDE6479"
 				item: { count: 1, id: "mekanism:alloy_infused" }
 				type: "item"
@@ -535,6 +537,7 @@
 			id: "7940E814260C556F"
 			rewards: [
 				{
+					count: 4
 					id: "5FA097D4BF2A2654"
 					item: {
 						count: 1
@@ -543,13 +546,14 @@
 					type: "item"
 				}
 				{
-					id: "73EF7D1E94F0925B"
-					type: "xp"
-					xp: 10
+					id: "3A5E60736494E358"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			shape: "hexagon"
 			tasks: [{
+				count: 8L
 				id: "2FE06FDA0A3A66C7"
 				item: { count: 1, id: "mekanism:alloy_reinforced" }
 				type: "item"
@@ -562,21 +566,23 @@
 			id: "019D5A05A2134C7E"
 			rewards: [
 				{
-					id: "6C480517028750E3"
+					count: 2
+					id: "214226249902F984"
 					item: {
 						count: 1
-						id: "mekanism:dust_refined_obsidian"
+						id: "mekanism:enriched_refined_obsidian"
 					}
 					type: "item"
 				}
 				{
-					id: "1E437DC12A456C83"
-					type: "xp"
-					xp: 10
+					id: "16DF9DEA8ABD04B3"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			shape: "hexagon"
 			tasks: [{
+				count: 4L
 				id: "0DD9B2119BB50C80"
 				item: { count: 1, id: "mekanism:alloy_atomic" }
 				type: "item"
@@ -590,21 +596,23 @@
 			id: "0498A578D0EC3254"
 			rewards: [
 				{
-					id: "44A42C932205CED3"
+					count: 4
+					id: "7D17D5CC2C390899"
 					item: {
 						count: 1
-						id: "minecraft:redstone"
+						id: "mekanism:enriched_redstone"
 					}
 					type: "item"
 				}
 				{
-					id: "36DA06D55E5BB49C"
-					type: "xp"
-					xp: 10
+					id: "51601667EF5683FA"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			shape: "hexagon"
 			tasks: [{
+				count: 8L
 				id: "5E51F5B17F77573E"
 				item: { count: 1, id: "mekanism:basic_control_circuit" }
 				type: "item"
@@ -618,23 +626,14 @@
 				"166971866A9234C7"
 			]
 			id: "6D7CABCFB50D8B0D"
-			rewards: [
-				{
-					id: "29E77041082DD2E9"
-					item: {
-						count: 1
-						id: "mekanism:enriched_redstone"
-					}
-					type: "item"
-				}
-				{
-					id: "4C4A490E290BB38C"
-					type: "xp"
-					xp: 10
-				}
-			]
+			rewards: [{
+				id: "3FD9F228EF65474C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			shape: "hexagon"
 			tasks: [{
+				count: 8L
 				id: "05F2EEE4DE21E2ED"
 				item: { count: 1, id: "mekanism:advanced_control_circuit" }
 				type: "item"
@@ -650,6 +649,7 @@
 			id: "347C16F0F7CFAACF"
 			rewards: [
 				{
+					count: 4
 					id: "5A285211E7D37512"
 					item: {
 						count: 1
@@ -658,13 +658,14 @@
 					type: "item"
 				}
 				{
-					id: "117AA7D11A587024"
-					type: "xp"
-					xp: 10
+					id: "03814ADD0C0AE32E"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			shape: "hexagon"
 			tasks: [{
+				count: 8L
 				id: "48AC2274973C4509"
 				item: { count: 1, id: "mekanism:elite_control_circuit" }
 				type: "item"
@@ -680,6 +681,7 @@
 			id: "4AA150A009E904DA"
 			rewards: [
 				{
+					count: 2
 					id: "2EAE017B367B43AF"
 					item: {
 						count: 1
@@ -688,13 +690,14 @@
 					type: "item"
 				}
 				{
-					id: "3C70B4A824D438D9"
-					type: "xp"
-					xp: 100
+					id: "04430C217B4FCB15"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			shape: "hexagon"
 			tasks: [{
+				count: 4L
 				id: "7E9FCA38BA758B41"
 				item: { count: 1, id: "mekanism:ultimate_control_circuit" }
 				type: "item"
@@ -2506,23 +2509,11 @@
 		{
 			dependencies: ["08DDE018A804BFE7"]
 			id: "0F326EEEC2EBE4E5"
-			rewards: [
-				{
-					count: 2
-					id: "1B7E6CC9019F43AB"
-					item: {
-						count: 1
-						id: "mekanism:enriched_carbon"
-					}
-					random_bonus: 1
-					type: "item"
-				}
-				{
-					id: "04127BD3A4706FE4"
-					type: "xp"
-					xp: 10
-				}
-			]
+			rewards: [{
+				id: "04127BD3A4706FE4"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "4B60ACBCC3B46D1D"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(mekanism:enriched)" }, count: 1, id: "ftbfiltersystem:smart_filter" }

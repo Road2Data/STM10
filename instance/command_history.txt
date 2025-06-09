@@ -1,1 +1,2 @@
 /give @p ars_scalaes:glyph_resize
+/give @p reliquary:fertile_lily_pad

@@ -101,8 +101,6 @@
 	quest.2001998045ABC04C.title: "Zabij Tangled Hatreda"
 	quest.22D2CFDDB06C720C.quest_desc: ["Narzędzia to ważna rzecz w &2&lMinecraftcie&r, prawie tak samo ważne jak miejsca w twoim ekwipunku. Dlatego dlaczego by nie zrobić małych porządków i połączyć je w łopasiekilof! \\nŁopasiekilofy (lub oryginalnie nazywane też Paxelami) składają się z kilofa, siekiery i łopaty. \\n\\nMogą ociosać drewno, tworzyć ścieżki, i kopać takie same bloki, jaki poziom kopania posiadają narzędzia z których został skonstruowany!"]
 	quest.22D2CFDDB06C720C.title: "Łopasiekilof!"
-	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r, razem z pociągami, dodaje też wiele kamieni do dekorowania! \\n\\nQuarried i Abyssal Stone można przetworzyć też na wersje Polished, Chiseled i Brick w stole rzemieślniczym! \\n\\nNie zapomnijmy też o schodach I płytach!"]
-	quest.22E007025C19EC0A.title: "Kamienie &l&7Railcraft&r"
 	quest.23631A4A743D4F0C.quest_desc: ["Nawet nie narzekaj. \\n\\nJest wiele różnych sposobów by zdobyć żelazo które i tak jest potrzebne nawet do pchania postępu dalej. \\n\\nZdobędziesz żelazo, zamienisz je w blok i sprawisz że będzie wyglądać pięknie!"]
 	quest.23631A4A743D4F0C.title: "&l&bChipped&r Metale"
 	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r to modyfikacja która wprowadza niewiele jednak niezwykle przydatnych narzędzi. \\n\\nWszystkie mają ten sam cel, pomoc w budowaniu! \\n\\nKażdy z nich wymaga &cEnergii&r do zasilenia a ich menu można uruchomić za pomocą domyślnego klawisza &lG&r."]
@@ -223,8 +221,6 @@
 	quest.570223A03231DF8C.title: "Odnowione Endermany"
 	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks to bloki tworzone z pomocą modyfikacji &l&7PneumaticCraft: Repressurized&r. \\n\\nI podobnie jak ich odpowiedniki z prawdziwego życia - bolą jak na nie nadepniesz! \\n\\nWięc albo zacznij nosić buty albo je wygładź."]
 	quest.5716E84828EC0C23.title: "Plastic Construction Blocks"
-	quest.59B6C6BF0550D13D.quest_desc: ["Nowe rodzaje szkła które mogą zostać użyte w twoich pociągach… lub bazach, \\n\\nCiężko stwierdzić do czego ich użyć."]
-	quest.59B6C6BF0550D13D.title: "Szkło &7&lRailcraft&r"
 	quest.5AC1BE754210429E.quest_desc: ["Jeśli chcesz utworzyć drużynę dla siebie i swoich znajomych, użyj komendy &a/ftbteams party create (nazwa drużyny)&r"]
 	quest.5AC1BE754210429E.title: "Tworzenie Drużyny"
 	quest.5AC497F76A086A5C.title: "&l&9Zlecenia Nadziemne:&r&e Wiedźmy"

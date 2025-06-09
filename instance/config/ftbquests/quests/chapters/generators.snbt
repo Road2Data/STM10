@@ -13,144 +13,112 @@
 			image: "generatorgalore:block/copper_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 2.0d
+			x: -13.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/iron_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 3.0d
+			x: -12.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/diamond_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 5.0d
+			x: -9.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/gold_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 4.0d
+			x: -10.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/emerald_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 6.0d
-		}
-		{
-			height: 1.0d
-			image: "generatorgalore:block/netherstar_generator_top_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: 4.0d
-		}
-		{
-			height: 1.0d
-			image: "generatorgalore:block/culinary_generator_top_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: 2.0d
-		}
-		{
-			height: 1.0d
-			image: "generatorgalore:block/enchantment_generator_top_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: 3.0d
+			x: -8.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/obsidian_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 1.0d
-			y: 9.0d
+			x: -6.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/netherstar_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 2.0d
-			y: 9.0d
+			x: -4.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/netherite_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 3.0d
-			y: 9.0d
+			x: -5.0d
+			y: 7.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/enchantment_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.0d
-			y: 9.0d
+			x: -8.0d
+			y: 5.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/magmatic_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.0d
-			y: 9.0d
+			x: -6.0d
+			y: 5.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/honey_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 7.0d
+			x: -11.0d
+			y: 5.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/halitosis_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 9.0d
+			x: -3.0d
+			y: 5.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/potion_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.0d
-			y: 8.0d
-		}
-		{
-			height: 1.0d
-			image: "generatorgalore:block/culinary_generator_front"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.0d
-			y: 9.0d
+			x: -9.0d
+			y: 5.0d
 		}
 		{
 			height: 1.0d
 			image: "generatorgalore:block/ender_generator_front"
 			rotation: 0.0d
 			width: 1.0d
-			x: 7.0d
-			y: 9.0d
+			x: -4.0d
+			y: 5.0d
 		}
 		{
 			height: 1.0d
@@ -158,7 +126,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -13.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -166,7 +134,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -12.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -174,7 +142,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -182,7 +150,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -11.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -190,7 +158,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -9.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -213,16 +181,16 @@
 			image: "ironfurnaces:block/iron_furnace_front_on_blast"
 			rotation: 0.0d
 			width: 1.0d
-			x: -11.5d
-			y: 3.0d
+			x: 1.5d
+			y: 6.0d
 		}
 		{
 			height: 1.0d
 			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 1.0d
-			x: -8.5d
-			y: 3.0d
+			x: 5.5d
+			y: 6.0d
 		}
 		{
 			height: 1.0d
@@ -230,7 +198,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -8.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -238,7 +206,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -7.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -246,7 +214,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -5.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -254,7 +222,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -262,39 +230,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.0d
-			y: 9.0d
-		}
-		{
-			height: 1.0d
-			image: "ironfurnaces:block/xmas_furnace_front_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.0d
-			y: 8.0d
-		}
-		{
-			height: 1.0d
-			image: "ironfurnaces:block/spooky_furnace_front_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.0d
-			y: 8.0d
-		}
-		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: -2.3000000000000007d
-			y: 5.0d
-		}
-		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: 3.0d
-			y: 6.699999999999999d
+			y: 10.0d
 		}
 		{
 			height: 0.3d
@@ -305,20 +241,12 @@
 			y: 3.0d
 		}
 		{
-			height: 0.3d
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: -3.6d
-			y: 3.0d
-		}
-		{
 			height: 1.0d
 			image: "ironfurnaces:block/allthemodium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
 			x: -4.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -326,7 +254,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -3.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
@@ -334,7 +262,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -2.0d
-			y: 9.0d
+			y: 10.0d
 		}
 	]
 	order_index: 2
@@ -368,8 +296,8 @@
 				item: { count: 1, id: "ironfurnaces:iron_furnace" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 2.0d
+			x: -12.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -411,8 +339,8 @@
 				item: { count: 1, id: "ironfurnaces:gold_furnace" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 4.0d
+			x: -10.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["420FE84DEE12CCE0"]
@@ -442,8 +370,8 @@
 				item: { count: 1, id: "ironfurnaces:diamond_furnace" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 6.0d
+			x: -9.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["21EA29A8C7F950CE"]
@@ -473,8 +401,8 @@
 				item: { count: 1, id: "ironfurnaces:emerald_furnace" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 6.0d
+			x: -8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -508,8 +436,8 @@
 				item: { count: 1, id: "ironfurnaces:obsidian_furnace" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 4.0d
+			x: -6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["21EA29A8C7F950CE"]
@@ -539,8 +467,8 @@
 				item: { count: 1, id: "ironfurnaces:crystal_furnace" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 6.0d
+			x: -7.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["47750F3CB020104C"]
@@ -569,8 +497,8 @@
 				item: { count: 1, id: "ironfurnaces:copper_furnace" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 2.0d
+			x: -13.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -612,8 +540,8 @@
 				item: { count: 1, id: "ironfurnaces:silver_furnace" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 2.0d
+			x: -11.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -646,8 +574,8 @@
 				item: { components: { "minecraft:custom_name": "{\"extra\":[{\"color\":\"aqua\",\"text\":\"R\"},{\"color\":\"blue\",\"text\":\"a\"},{\"color\":\"aqua\",\"text\":\"i\"},{\"color\":\"blue\",\"text\":\"n\"},{\"color\":\"red\",\"text\":\"b\"},{\"color\":\"yellow\",\"text\":\"o\"},{\"color\":\"blue\",\"text\":\"w\"},{\"color\":\"red\",\"text\":\" \"},{\"color\":\"light_purple\",\"text\":\"F\"},{\"color\":\"blue\",\"text\":\"u\"},{\"color\":\"red\",\"text\":\"r\"},{\"color\":\"yellow\",\"text\":\"n\"},{\"color\":\"yellow\",\"text\":\"a\"},{\"color\":\"red\",\"text\":\"c\"},{\"color\":\"yellow\",\"text\":\"e\"}],\"text\":\"\"}" }, count: 1, id: "ironfurnaces:million_furnace" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 5.0d
+			x: -4.0d
+			y: 12.0d
 		}
 		{
 			hide_dependency_lines: true
@@ -695,8 +623,8 @@
 				item: { count: 1, id: "generatorgalore:copper_generator" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: -13.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["618F1434757C8E69"]
@@ -722,8 +650,8 @@
 				item: { count: 1, id: "generatorgalore:iron_generator" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 3.0d
+			x: -12.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["61F265D9A5713A4D"]
@@ -749,8 +677,8 @@
 				item: { count: 1, id: "generatorgalore:gold_generator" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 4.0d
+			x: -10.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["25A3E30F722B38B6"]
@@ -777,8 +705,8 @@
 				item: { count: 1, id: "generatorgalore:culinary_generator" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 4.0d
+			x: -10.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["25A3E30F722B38B6"]
@@ -804,8 +732,8 @@
 				item: { count: 1, id: "generatorgalore:diamond_generator" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: -9.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["28FEB4C11AD1AE7C"]
@@ -831,8 +759,8 @@
 				item: { count: 1, id: "generatorgalore:netherite_generator" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 5.0d
+			x: -5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["28FEB4C11AD1AE7C"]
@@ -858,8 +786,8 @@
 				item: { count: 1, id: "generatorgalore:emerald_generator" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 5.0d
+			x: -8.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["28FEB4C11AD1AE7C"]
@@ -885,7 +813,7 @@
 				item: { count: 1, id: "generatorgalore:obsidian_generator" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: -6.0d
 			y: 6.0d
 		}
 		{
@@ -913,7 +841,7 @@
 				item: { count: 1, id: "generatorgalore:honey_generator" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: -11.0d
 			y: 4.0d
 		}
 		{
@@ -950,8 +878,8 @@
 				item: { count: 1, id: "generatorgalore:potion_generator" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: -9.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["311F43D48B9C26FF"]
@@ -987,11 +915,13 @@
 				item: { count: 1, id: "generatorgalore:enchantment_generator" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 6.0d
+			x: -8.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["311F43D48B9C26FF"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			hide_until_deps_visible: true
 			id: "552CA2ABE659A507"
 			rewards: [
@@ -1015,11 +945,13 @@
 				item: { count: 1, id: "generatorgalore:magmatic_generator" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 7.0d
+			x: -6.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["311F43D48B9C26FF"]
+			dependency_requirement: "one_started"
+			hide_dependency_lines: false
 			hide_until_deps_visible: true
 			id: "69201157ECFBB426"
 			rewards: [
@@ -1043,8 +975,8 @@
 				item: { count: 1, id: "generatorgalore:ender_generator" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 6.0d
+			x: -4.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["07BEB974DF1E5AD3"]
@@ -1071,8 +1003,8 @@
 				item: { count: 1, id: "generatorgalore:netherstar_generator" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 5.0d
+			x: -4.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["69201157ECFBB426"]
@@ -1099,8 +1031,8 @@
 				item: { count: 1, id: "generatorgalore:halitosis_generator" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 6.0d
+			x: -3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["32C7D8AE859BF89E"]
@@ -1130,8 +1062,8 @@
 				item: { count: 1, id: "ironfurnaces:netherite_furnace" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 4.0d
+			x: -5.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -1146,8 +1078,8 @@
 				item: { count: 1, id: "minecraft:paper" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: 2.0d
+			x: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["78D1C97A542133D8"]
@@ -1169,8 +1101,8 @@
 				item: { count: 1, id: "ironfurnaces:augment_blasting" }
 				type: "item"
 			}]
-			x: -10.5d
-			y: 3.0d
+			x: 2.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["78D1C97A542133D8"]
@@ -1191,8 +1123,8 @@
 				item: { count: 1, id: "ironfurnaces:augment_smoking" }
 				type: "item"
 			}]
-			x: -9.5d
-			y: 3.0d
+			x: 4.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["78D1C97A542133D8"]
@@ -1213,8 +1145,8 @@
 				item: { count: 1, id: "ironfurnaces:augment_factory" }
 				type: "item"
 			}]
-			x: -10.5d
-			y: 4.0d
+			x: 1.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["78D1C97A542133D8"]
@@ -1234,8 +1166,8 @@
 				item: { count: 1, id: "ironfurnaces:augment_generator" }
 				type: "item"
 			}]
-			x: -9.5d
-			y: 4.0d
+			x: 2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["78D1C97A542133D8"]
@@ -1256,7 +1188,7 @@
 				item: { count: 1, id: "ironfurnaces:augment_speed" }
 				type: "item"
 			}]
-			x: -10.5d
+			x: 4.5d
 			y: 5.0d
 		}
 		{
@@ -1278,62 +1210,8 @@
 				item: { count: 1, id: "ironfurnaces:augment_fuel" }
 				type: "item"
 			}]
-			x: -9.5d
+			x: 5.5d
 			y: 5.0d
-		}
-		{
-			dependencies: [
-				"2748ACEAB96A5F60"
-				"661C072E48F8D41F"
-			]
-			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
-			id: "686B25F2E9D8CC97"
-			rewards: [{
-				id: "2F6385518AC2519D"
-				item: {
-					components: {
-						"minecraft:custom_name": "\"Spooky Pumpkin\""
-					}
-					count: 1
-					id: "minecraft:jack_o_lantern"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1C9D63BCE843C437"
-				item: { count: 1, id: "ironfurnaces:item_spooky" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 7.0d
-		}
-		{
-			dependencies: [
-				"2748ACEAB96A5F60"
-				"661C072E48F8D41F"
-			]
-			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
-			id: "553220A2CD7CAFE4"
-			rewards: [{
-				id: "24C4930CF7FE42C9"
-				item: {
-					components: {
-						"minecraft:custom_name": "\"Christmas Tree Sapling\""
-					}
-					count: 1
-					id: "minecraft:spruce_sapling"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5EE98EB3DC0E291F"
-				item: { count: 1, id: "ironfurnaces:item_xmas" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -1365,11 +1243,13 @@
 					type: "item"
 				}
 			]
-			x: -10.0d
-			y: 6.0d
+			x: 3.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["79C4CF8D7312FC28"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			hide_details_until_startable: true
 			hide_until_deps_visible: true
 			id: "7A615E2A152917AD"
@@ -1398,8 +1278,8 @@
 				item: { count: 1, id: "ironfurnaces:rainbow_core" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 3.0d
+			x: -5.0d
+			y: 12.0d
 		}
 		{
 			dependencies: [
@@ -1443,7 +1323,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: 3.0d
+			y: 13.0d
 		}
 		{
 			dependencies: ["2EE8FCB63A338BC4"]
@@ -1460,8 +1340,8 @@
 				item: { count: 1, id: "ironfurnaces:rainbow_coal" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 3.0d
+			x: -4.0d
+			y: 13.0d
 		}
 		{
 			dependencies: [
@@ -1485,8 +1365,8 @@
 				item: { count: 1, id: "ironfurnaces:item_copy" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: 4.0d
+			x: 3.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -1573,10 +1453,12 @@
 				}
 			]
 			x: -3.0d
-			y: 4.0d
+			y: 12.0d
 		}
 		{
 			dependencies: ["618F1434757C8E69"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			hide_until_deps_visible: true
 			id: "7CE86300AF8E9BCA"
 			rewards: [
@@ -1600,8 +1482,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(generatorgalore:copper_generator_8x)item(generatorgalore:diamond_generator_8x)item(generatorgalore:emerald_generator_8x)item(generatorgalore:enchantment_generator_8x)item(generatorgalore:ender_generator_8x)item(generatorgalore:gold_generator_8x)item(generatorgalore:halitosis_generator_8x)item(generatorgalore:honey_generator_8x)item(generatorgalore:iron_generator_8x)item(generatorgalore:magmatic_generator_8x)item(generatorgalore:netherite_generator_8x)item(generatorgalore:netherstar_generator_8x)item(generatorgalore:obsidian_generator_8x)item(generatorgalore:potion_generator_8x))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 2.0d
+			x: -1.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["7CE86300AF8E9BCA"]
@@ -1628,8 +1510,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(generatorgalore:culinary_generator_64x)item(generatorgalore:enchantment_generator_64x)item(generatorgalore:ender_generator_64x)item(generatorgalore:halitosis_generator_64x)item(generatorgalore:honey_generator_64x)item(generatorgalore:magmatic_generator_64x)item(generatorgalore:netherite_generator_64x)item(generatorgalore:netherstar_generator_64x)item(generatorgalore:potion_generator_64x))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 3.0d
+			x: -1.0d
+			y: 5.0d
 		}
 		{
 			id: "39605F1FEB1A5A1C"
@@ -1677,8 +1559,8 @@
 				item: { count: 1, id: "ironfurnaces:allthemodium_furnace" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 5.0d
+			x: -4.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["3A4C17878FC8315B"]
@@ -1708,8 +1590,8 @@
 				item: { count: 1, id: "ironfurnaces:vibranium_furnace" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 6.0d
+			x: -3.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["2E85D6E2CFCC356E"]
@@ -1739,8 +1621,8 @@
 				item: { count: 1, id: "ironfurnaces:unobtainium_furnace" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 6.0d
+			x: -2.0d
+			y: 9.0d
 		}
 	]
 }

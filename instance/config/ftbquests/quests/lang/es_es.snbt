@@ -22,7 +22,6 @@
 	chapter.26E6ED94168A05C4.title: "Productive Bees"
 	chapter.29EFE8220836C79A.title: "&aCapítulo 2&r: &6La Estrella ATM"
 	chapter.2A6EBEEBAB882679.title: "Powah"
-	chapter.2FB24A5A597459FC.title: "RailCraft"
 	chapter.306DBE1EBB85D02E.title: "La Era Eléctrica"
 	chapter.3456E0C530C0038E.title: "EvilCraft"
 	chapter.37BC0E99F564D560.title: "Era del Vapor"
@@ -59,7 +58,6 @@
 	chapter.792AD692F1468B1F.chapter_subtitle: ["¡Además de Automatización de Estrellas!"]
 	chapter.792AD692F1468B1F.title: "&aCapítulo 4&r: &dCreativo"
 	chapter.7A5C327771634A7D.title: "Consejos de Construcción"
-	chapter.7A72E12C3839D165.title: "Nature's Aura"
 	chapter.7AF827D2D101D343.title: "Artefactos"
 	chapter_group.02FE661031A105D8.title: "Magia"
 	chapter_group.15E5B587D291A4AA.title: "Herramientas y Equipamiento"
@@ -3111,9 +3109,6 @@
 	quest.1EB887F8072439A3.title: "&bTiza Azul Claro"
 	quest.1EBD5E4410A6DF34.quest_subtitle: "Alimenta una Abeja Fantasmal con una Daga de Soulium"
 	quest.1EBD5E4410A6DF34.title: "Abeja de Soulium"
-	quest.1EBF234015B26F15.quest_desc: ["¡Armadura Básica añadida por &a&lRoots Classic&r, necesitarás un Ritual para conseguirla!"]
-	quest.1EBF234015B26F15.quest_subtitle: "14"
-	quest.1EBF234015B26F15.title: "&2Equipo Silvano"
 	quest.1ECD4331DDFBBB52.quest_desc: ["Los Árboles de Torreya son enormes Árboles morados/rosas que miden alrededor de 40 Bloques de alto. \\n\\nLas hojas brotarán en todas direcciones y las Enredaderas de Torreya cuelgan de ellas."]
 	quest.1ECFA72CF2BA4B45.quest_desc: ["Un simple dispensador y puedes configurar la cantidad dispensada de una vez."]
 	quest.1F09F091F5CF4711.quest_desc: ["Este amuleto aumentará tu distancia de Alcance."]
@@ -3392,8 +3387,6 @@
 	quest.21693C4DE6531D73.title: "Trituradora"
 	quest.216DA9782EBDFF34.quest_desc: ["Creo que este Mod no es realista. No me importa qué Libros u Objetos tengas, no creo que lo Demoníaco siga todas tus órdenes y trabaje como esclavo para ti. \\n\\nIndependientemente puedes seguir las Misiones para hacerlo."]
 	quest.216DA9782EBDFF34.title: "&b&lOccultism"
-	quest.2171DC0B13C4BD43.quest_desc: ["¡&a&lRoots Classic&r puede parecer pequeño en JEI pero te prometo que hay mucho más! \\n\\nRoots trata sobre usar los regalos de la naturaleza para hacer rituales.\\n\\n¡Confía en mí, encontrarás estos objetos por todas partes!"]
-	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
 	quest.21770049843DD275.quest_subtitle: "Parte 2 de 2"
 	quest.217DB12EA32E1724.quest_desc: ["El &bCristal de Infusión&r es necesario para \"subir de tier\" las semillas. Por ejemplo, si combinas el cristal con 4 Esencias de Inferium obtendrás 1 Esencia de Prudentium.\\n\\nMás adelante podrás fabricar un Cristal de Infusión que no se rompa."]
 	quest.217DB12EA32E1724.title: "&bCristal de Infusión"
@@ -3419,8 +3412,6 @@
 	quest.21A0FD474FBB49F7.title: "&dCiudadela Arruinada&r: Hogar del &d&lGuardián del Ender&r"
 	quest.21A90474590FCDB8.quest_desc: ["El \"Horno\" es una versión mejorada de un Horno de vainilla que puede mejorarse para mayor velocidad y mejor eficiencia."]
 	quest.21A90474590FCDB8.title: "\"Horno\""
-	quest.21AB14A8553896E9.quest_desc: ["¿Chicos, creo que no me oyeron bien, dije &e&lProductive Bees&r! ¡Oh espera, hay otro Mod! \\n\\nEste está relacionado con &e&lProductive Bees&r ya que los necesitarás para criar Árboles. \\n\\nNo, los Árboles no usan Trigo para criar, usan Abejas. \\n\\n&oLos Árboles y las Abejas&r."]
-	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
 	quest.21B0744FA3A42425.quest_desc: ["¿Por qué tener 2 Linternas cuando podemos tener 200? \\n\\n¡Diferentes tipos de Linternas, Colores de Linternas, e incluso las Cadenas que las sostienen!"]
 	quest.21B0744FA3A42425.title: "&l&6Additional Lanterns"
 	quest.21B8116BDADD7476.quest_subtitle: "Papaya + Cacao"
@@ -3492,8 +3483,6 @@
 	quest.227BEFEF59977CC4.quest_subtitle: "Palo de Rosa + Teca"
 	quest.227DBA8836021B0B.quest_desc: ["En Ars Nouveau, el sistema de energía para las máquinas se llama &9Source&r. \\n\\nPara empezar a recolectar algo de Source, necesitaremos un Tarro de Source. \\n\\nSource también puede moverse con cubos, o rompiendo y recogiendo Tarros de Source."]
 	quest.227DBA8836021B0B.quest_subtitle: "Almacenando Source"
-	quest.228CB313BAB6406E.quest_desc: ["¡Aparentemente este no tenía receta por defecto! Es como si el Desarrollador del Mod no quisiera que usaras tus &5Locomotoras&r Creativas en Supervivencia. \\n\\n¡No pensé que fueran demasiado OP así que disfruta de tus &5Trenes&r! \\n\\n¡Funcionan como &3Locomotoras&r normales solo que sin necesitar Combustible o Energía! Solo necesitan &6Vías&r."]
-	quest.228CB313BAB6406E.title: "&5&lLocomotora &8Creativa"
 	quest.228D1C880563CCBB.quest_desc: [
 		"Ah, esto me trae recuerdos, es casi como si estuviéramos de vuelta en la Era del Vapor"
 		""
@@ -3555,8 +3544,6 @@
 		"¡Ahora podemos añadir un bloque paralelizador, y ejecutar muchas recetas en paralelo, acelerando los tiempos de proceso!"
 	]
 	quest.22DB72BE40115A95.quest_subtitle: "¡Asegúrate de REÍR a menudo!"
-	quest.22E007025C19EC0A.quest_desc: ["¡&l&7Railcraft&r, junto con los Trenes, añade algunas Piedras para Decoración! \\n\\n¡La Piedra de Cantera y la Abisal pueden fabricarse juntas para hacer versiones Pulidas, Cinceladas o de Ladrillo! \\n\\n¡Además no olvides Escaleras y Losas! "]
-	quest.22E007025C19EC0A.title: "Piedras de &l&7Railcraft&r"
 	quest.22F5F931D38E5187.quest_desc: ["Las Piedras Carmesí se encuentran dentro de Puestos de Saqueadores, ¡son un poco raras pero no ayuda que solo nos den 2 Cofres! \\n\\nNo se usan para nuevas Recetas sino que disminuirán el uso de Alma en la &6&lForja&r."]
 	quest.22F5F931D38E5187.title: "&cPiedra Carmesí"
 	quest.230463E830D6FFEB.quest_desc: ["Ahora que tenemos plástico, el siguiente paso es conseguir algunos PCBs terminados, primero haz algunos &3PCBs Vacíos&r en la Cámara de Presión."]
@@ -4308,8 +4295,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_sugar.png width:200 height:100 align:center}"
 	]
 	quest.2A6FC21142E75DD5.title: "¡Lagos de Azúcar! (&bAgua&r)"
-	quest.2A72B262AF4F11C9.quest_desc: ["Para obtener el Retoño de &6Dragón de Socotra&r necesitarás Criar &7Wengué&r con &4Cocobolo&r. \\n\\nPara obtener &7Wengué&r necesitarás Criar &4Cocobolo&r con &fBalsa&r. \\n\\nPara obtener &4Cocobolo&r necesitarás Criar Balsa con &8Roble Oscuro&r. \\n\\nPara obtener &fBalsa&r necesitarás Criar &cAcacia&r con &eTeca&r. \\n\\nPara obtener &fTeca&r puedes Criar &2Jungla&r y &8Roble Oscuro&r."]
-	quest.2A72B262AF4F11C9.title: "Retoño de &6Dragón de Socotra&r"
 	quest.2A787B99A8B0C767.quest_desc: [
 		"¡Un bloque muy importante y muy común! Puede fabricarse o encontrarse en la mayoría de las Estructuras de &lIron Spells&r. \\n\\n¡Estos se usan para añadir y quitar &3Pergaminos&r de los &eLibros de Hechizos&r! Pon el &eLibro de Hechizos&r en la Ranura de Libro luego el &3Pergamino&r debajo. Si quieres quitar un &3Pergamino&r, haz clic en él luego tómalo de la derecha y mételo en tu Inventario."
 		"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
@@ -4624,7 +4609,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
 	]
 	quest.2D457E53BB6D63C7.title: "Bosque de Permafrost"
-	quest.2D474F8075E9DBD0.quest_desc: ["Primero necesitas colocar el Altar de Fundición y las Piedras Verticales en el patrón especificado en JEI. \\n\\nLuego, necesitarás poner un Bloque de Diamante, un Palo y Polvo de Blaze en el Altar. \\n\\nDespués de eso, coloca 4 Braseros de Incienso alrededor del Altar, pon el Bloque de Carbón en uno, Corteza de Acacia en otro, Corteza Verdeante en el tercero y Corteza de Abedul en el último. ¡Y enciéndelos todos con un Pedernal y Acero! \\n\\n¡Luego Haz Shift Click Derecho en el Altar para iniciar el Ritual! Si no funcionó, revisa el patrón en el que están las Piedras Verticales."]
 	quest.2D592669F4D41793.quest_desc: ["Al igual que el Reactor, el marco debe construirse con &dCarcasas&r, ¡pero las paredes pueden ser &9Cristal de Turbina&r en su lugar!"]
 	quest.2D592669F4D41793.title: "Construcción de la Turbina"
 	quest.2D64EF8D803AF9DA.quest_desc: ["El Portal del End más caro que podemos hacer. Primero para los &dHuevos de Dragón&r no tienes que seguir ordeñando al &dDragón&r ¡puedes usar &l&bHNN&r o &l&2MA&r para conseguirlos o un Extractor para hacer más! \\n\\nLuego, necesitarás &dAliento de Dragón Infundido&r de Encantamiento. \\n\\nAllí necesitarás &9Estanterías de Sculk Tocadas por el Alma&r para Encantarlo y para hacer el Portal. \\n\\nSi te preguntas por qué el Portal no funciona, ¡es porque ya estás en el &2&lOverworld&r! ¡Es broma, no puedes usarlo!"]
@@ -4932,8 +4916,6 @@
 		"Pero como hemos visto con otras aleaciones complejas, siempre son extremadamente beneficiosas para nosotros, aunque complicadas. Esta no es diferente."
 	]
 	quest.30954ADF34DB05A7.quest_subtitle: "Aleación Compleja"
-	quest.309B0B2898893B4E.quest_desc: ["¡&l&bSteve's Carts&r trata sobre mejorar... bueno tus Vagonetas! \\n\\n¿Qué tipo de mejoras? ¡Prácticamente todo menos el fregadero de la cocina! \\n\\n¡Desde Taladros, a pistolas, a máquinas recreativas! ¿Qué más podrías querer con tus Vagonetas?"]
-	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
 	quest.309B6B8368E535A0.quest_desc: ["Un Router realiza su acción cada vez que tiene uno de sus ticks. \\n\\nEl predeterminado es 20 Ticks o 1 Segundo. ¡Esto puede reducirse a menos Ticks con la Mejora de Velocidad!"]
 	quest.30A61E1A1EFA81E6.quest_desc: ["El &2Steeleaf&r es, técnicamente un Lingote, encontrado dentro de Cofres en el &9&lBosque Crepuscular&r. \\n¡Cada parte de la Armadura da un Encantamiento diferente!"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
@@ -5862,9 +5844,6 @@
 		"Lanzar nuestra &aLexica Botania&r también la mejorará con &6Conocimiento Élfico&r, dándote más información sobre tu viaje en Botania."
 	]
 	quest.3A20210242A1C865.title: "Comulgando con Elfos"
-	quest.3A2047CC0F59C6CC.quest_desc: ["¡Armadura de juego tardío para &a&lRoots Classic&r"]
-	quest.3A2047CC0F59C6CC.quest_subtitle: "17"
-	quest.3A2047CC0F59C6CC.title: "&aEquipo de Wildwood"
 	quest.3A2249D94C019F0E.quest_subtitle: "Tilo Plateado + Cerezo"
 	quest.3A27B65A0B4FFB5B.quest_desc: ["¡Salida de Objetos ME! Haz que el objeto resultante vuelva directamente a tu sistema ME."]
 	quest.3A27B65A0B4FFB5B.quest_subtitle: "Salida de Objetos ME"
@@ -6745,8 +6724,6 @@
 	quest.41F04EF882EF31E1.quest_subtitle: "¡Finalmente!"
 	quest.41FCD7F5B7E6E261.quest_desc: ["Finalmente, es hora de electrolizar el polvo de arcilla y obtener ese dulce, dulce polvo de aluminio"]
 	quest.41FCD7F5B7E6E261.quest_subtitle: "Una buena fuente de silicio también"
-	quest.420158B1736A1354.quest_desc: ["...no está implementado.\\n\\nEn su lugar, dirígete al castillo gigante en la Meseta Final y ¡toma algunos bloques de puerta!\\n\\nHay un Kobold que aparece como un \"marcador de posición\" pero no obtendrás nada al matarlo."]
-	quest.420158B1736A1354.title: "&cEl Jefe Final"
 	quest.4204702AA6FBF40B.quest_desc: ["Estar de pie sobre este objeto cargará cualquier objeto energizado de cualquier mod.\\n\\nEsto también es necesario para el Robit."]
 	quest.420FE84DEE12CCE0.quest_desc: ["El &eHorno de Oro&r es mejor que los de Hierro con un Tiempo de Cocción de 120 Ticks.\\n\\n¡Se puede craftear con un Horno de &7Plata&r o Hierro y se craftea en uno de &bDiamante&r!"]
 	quest.420FE84DEE12CCE0.title: "&eHorno Dorado"
@@ -8904,8 +8881,6 @@
 	quest.552CA2ABE659A507.quest_desc: ["Entra &cLava&r. Sale energía."]
 	quest.552CA2ABE659A507.title: "&cGenerador Magmático"
 	quest.552F0B9B00F4F914.quest_desc: ["Esta Misión ha sido creada por el &6Personal de AllTheMods&r, o un &2contribuidor de la Comunidad&r para su uso en los Modpacks de AllTheMods. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Misión no puede ser utilizada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito. \\n\\nEsta misión está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
-	quest.553220A2CD7CAFE4.quest_desc: ["Durante Navidad, todos los Cofres parecen Regalos... ¡pero los Hornos simplemente destacan como un pulgar dolorido! ¡Ahora eso se puede cambiar con el Papel de Regalo! ¡Puedes hacer clic derecho sobre cualquier &lHorno de Hierro&r y estará listo para la temporada navideña! ¡Y después de que termine la temporada puedes hacer Shift + Clic Derecho para desenvolverlo!"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "Todo Envuelto"
 	quest.55328778D7078E24.title: "Era de Voltaje Medio"
 	quest.553ADA7040B652CD.quest_desc: ["El &4&lTaladro Minero&r, la &2&lSierra Circular&r y el &b&lLanzador Químico&r normalmente contienen 1,000mB o 1 Cubo de &bFluido&r. \\n\\n¡Normalmente no significa siempre! Con el Tanque Grande ahora pueden contener 2,000mB o 2 Cubos. \\n\\nNo parece mucho pero créeme que lo es."]
 	quest.553C44F85E508DE3.quest_desc: ["Este es único ya que no se usa solo para 1 Enrutador sino para múltiples. \\n\\nSi quieres que múltiples Enrutadores funcionen al mismo tiempo, entonces cada uno necesita una Mejora de Sincronización. \\n\\nNecesitará ser ajustado en su propia GUI."]
@@ -8953,8 +8928,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
 	]
 	quest.55B9B9C3AA01D323.title: "&5Flor Cubierta de Maleza"
-	quest.55BF254B1831359B.quest_desc: ["Los &5Taladros Galadorianos&r son los mejores Taladros que podemos acoplar a nuestros Vagones. \\n\\nDebido a su grandeza, eso también significa que craftearlos será más difícil... ¡Digamos que necesitarás mucho &3Metal Estabilizado&r! ¡Sigue las recetas!"]
-	quest.55BF254B1831359B.title: "&5Taladros Galadorianos"
 	quest.55C47B868C5ECF54.quest_desc: ["¿Necesitas ayuda para encontrar minerales? Hazte uno de estos y cárgalo colocándolo en la ranura de energía de cualquier máquina"]
 	quest.55C4824DAD905512.quest_desc: ["Esta Misión ha sido creada por el &6Personal de AllTheMods&r, o un &2contribuidor de la Comunidad&r para su uso en los Modpacks de AllTheMods.\\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Misión no puede ser utilizada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito.\\n\\nEsta misión está intencionalmente oculta, si estás viendo esto, estás en modo edición."]
 	quest.55C8DD9A754545BD.quest_desc: ["El Pulverizador descompone los minerales crudos en polvos, y también tiene un 25% de probabilidad de crear un polvo extra."]
@@ -9315,8 +9288,6 @@
 		"Nota: La Lata de Oxígeno solo funciona para planetas más fríos, pero se puede mejorar."
 	]
 	quest.59ADE76689E381AA.title: "¿No Quieres Usar un Traje Espacial?"
-	quest.59B6C6BF0550D13D.quest_desc: ["¡Nuevos tipos de Vidrio que se pueden usar con tus Trenes! O bases, \\n\\nNo puedo obligarte a usarlo para nada específico."]
-	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r Vidrio"
 	quest.59E68086A8B99EA7.quest_desc: [
 		"El &c&lPiromante&r (diferente del Romancero de Tartas) es otro Mob Neutral añadido por &lIron's Spells&r. Aunque quizás prenda &cfuego&r a los Mobs que estén cerca de él... \\n\\nPuedes comerciar con él todas las cosas de &cFuego&r, Tinta e incluso &cPergaminos de Fuego&r. \\n\\nSi quieres arriesgar todo el pelo de tu cuerpo luchando contra él, prepárate, tiene 60 Corazones. Te prenderá &cFuego&r con &cHechizos de Fuego&r, ni lo dudes. \\n\\n¡Al morir soltará Esencia Arcana, Tintas, &cRunas de Fuego&r y &cHechizos de Fuego&r!"
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
@@ -9389,7 +9360,6 @@
 	quest.5A9D6672385D3D82.quest_desc: ["Solo usa 1 Lapislázuli para una Mejora en lugar de 4."]
 	quest.5A9D6672385D3D82.quest_subtitle: "Ahorrando Lapislázuli"
 	quest.5A9E8222AEA6EF6F.title: "Armadura de Charoita"
-	quest.5AA3E5DFECB4AC4D.quest_desc: ["Naturalmente, AE2 proporciona su propia forma de acelerar drásticamente el crecimiento de los cristales.\\n\\n¡Colócalos alrededor de tus Cristales Incipientes, dales algo de energía y observa cómo crecen tus cristales!"]
 	quest.5AAD0E516762BA53.quest_desc: ["¿Sientes que ya estás levitando? Podría ser todo ese shulker de ese Vial de Alma."]
 	quest.5AAD0E516762BA53.quest_subtitle: "Cristal Presciente"
 	quest.5AAF6CA41209B365.title: "&3Herramientas de Vibranium"
@@ -9632,9 +9602,6 @@
 	quest.5CD0E6F349F2F32D.quest_desc: ["No tengas miedo, esto no es un monstruo feo, ¡es un Edelwood completamente desarrollado! \\n\\nEl Árbol tendrá un Tronco de Edelwood Tallado en la parte superior y Ramas de Edelwood saliendo de él, estas se pueden romper para obtener Palos de Edelwood. \\n\\nLos Troncos son huecos por dentro, un espacio similar al de un Caldero. ¡Curiosamente, también puede contener Agua como un Caldero!"]
 	quest.5CD65553EF60029B.quest_desc: ["El Pico Buscador del Cielo teletransporta los bloques minados directamente al inventario del jugador."]
 	quest.5CD65553EF60029B.quest_subtitle: "Nivel: &54"
-	quest.5CD8D169181C7339.quest_desc: ["Estos últimos tres objetos son más o menos algunos juguetes adicionales proporcionados por AE2 y no necesariamente encajan en ninguno de estos árboles de misiones.\\n\\nEl &bBastón Cargado&f es simplemente un bastón energizado simple que inflige 3 corazones de daño y consume 300AE por golpe. También usa mecánicas de combate anteriores a la 1.9, lo que significa que puedes hacer clic repetidamente con esto como en los viejos tiempos.\\n\\nEl &bManipulador de Entropía&f, cuando se &ousa&r en ciertos bloques del mundo, los fundirá en el lugar, como arena a vidrio y minerales metálicos a lingotes metálicos. Si no, simplemente encenderá un fuego en el bloque.\\n\\nFinalmente, el &bCañón de Materia&f funciona de manera similar al Aplicador de Color como una celda dedicada para contener objetos de 'munición' como Bolas de Materia y pepitas de hierro/oro, que luego se pueden disparar para infligir daño a los monstruos o romper bloques. Las Bolas de Materia de 'munición' más pesadas en un Cañón de Materia se pueden sustituir por &bBolas de Pintura&f, que aplicarán un efecto de salpicadura de pintura en la cara de cualquier bloque al que se dispare. Las &bBolas de Pintura Luminosa&f son una variante de las bolas de pintura utilizadas exclusivamente por el Cañón de Materia, cuyas salpicaduras de pintura también emiten algo de luz una vez presentes en el mundo."]
-	quest.5CD8D169181C7339.quest_subtitle: "Demasiado caliente para la ATF"
-	quest.5CD8D169181C7339.title: "¿Las... Armas?"
 	quest.5CE44C58A470E48E.quest_desc: ["¡&l&3Artefactos&r es un Mod maravilloso que añade &l&3Artefactos&r que harán tu experiencia de Minecraft mucho más fácil y divertida!\\n\\n¡Todos los &l&3Artefactos&r se pueden encontrar explorando, haciendo arqueología o matando Mimics!\\n\\n¡Los Mimics se encuentran en Campamentos subterráneos, pareciendo Cofres normales! ¡Pero una vez que te acercas demasiado, atacarán!"]
 	quest.5CE44C58A470E48E.title: "&l&3Artefactos"
 	quest.5CF175DA7BDA52F3.quest_desc: [
@@ -10887,8 +10854,6 @@
 		"También necesitaremos un pico especial para poder minarlo. Para esto, necesitaremos Infundir un Demonio en una &dCabeza de Pico Sintonizada con Espíritu&r para crear un pico que pueda romper este nuevo tipo de mineral."
 	]
 	quest.686AEC3EF1140D15.title: "Nuevas Herramientas para Nuevos Minerales"
-	quest.686B25F2E9D8CC97.quest_desc: ["En el momento de escribir esto es finales de julio, así que me quedan unos 3 meses para Halloween. ¡Pero nunca es demasiado pronto para empezar a ponerse Espeluznante! Al igual que Spirit Halloween, podemos ponernos Espeluznantes 3 meses antes de que realmente comience. ¡Esta vez Haciendo Clic Derecho en un Horno con el Espeluznador! ¡Una vez que sea hora de empezar a prepararse para Acción de Gracias, Haz Shift + Clic Derecho en ellos para Des-Espeluznar!"]
-	quest.686B25F2E9D8CC97.quest_subtitle: "\"Esto es Halloween\""
 	quest.686EB173C94301C0.quest_desc: ["¡Armadura de Hielo de &e&lIron's Spells&r &b!"]
 	quest.686EB173C94301C0.quest_subtitle: "20"
 	quest.686EB173C94301C0.title: "&bAtuendo de Criomante"
@@ -13416,7 +13381,6 @@
 	reward_table.13DF975BE0A23373.title: "Powah: Nitro"
 	reward_table.1AE4A39086CA5564.title: "MA: Bolsa de Semillas Nivel 4"
 	reward_table.1C750D27FEF7C386.title: "Powah: Ardiente"
-	reward_table.1DB1EEDA7B79672B.title: "RailCraft: Rieles"
 	reward_table.1EC6956FA2BB2B00.title: "Almacenamiento Básico: Recompensas"
 	reward_table.21B1896C13F84C09.title: "MA: Bolsa de Semillas Nivel 2"
 	reward_table.2A2E3EFEF58354A9.title: "Inmersivo: Bloque de Construcción"
@@ -13443,7 +13407,6 @@
 	reward_table.67D8094B10FAA687.title: "EvilCraft: Recompensas"
 	reward_table.73E94318B401E916.title: "IF: Recompensas Avanzadas"
 	reward_table.74164DBBE7919A3B.title: "Reactores Mekanism: Recompensas"
-	reward_table.75FE7CDF68581EDE.title: "RailCraft: Aleatorio"
 	reward_table.7609CF2A167B45C8.title: "Teúrgia: Sal"
 	reward_table.779C873798AE0A92.title: "Mahou: Polvos"
 	reward_table.79C7738D7CEDABD4.title: "MA: Bolsa de Semillas Nivel 5"
@@ -13544,7 +13507,6 @@
 	task.12A2CE1C3AE8A033.title: "Abeja de Banda Azul"
 	task.13266875BDB5077D.title: "TodosLosDerechosReservados"
 	task.14DEFFB80CC96BC1.title: "Cables Densos Cubiertos ME"
-	task.14FA4A933C39A406.title: "Barcos con Cofres"
 	task.15698B55CCAD2433.title: "TodosLosDerechosReservados"
 	task.15795AB2872E2DEE.title: "Tolvas"
 	task.15BD622D04888DD8.title: "Vagonetas"
@@ -13703,7 +13665,6 @@
 	task.33143F38732A38AB.title: "Pista"
 	task.335D80E83360A7DB.title: "Entendiendo el Gas Etéreo"
 	task.337725ECA2C04090.title: "Transportadores Lógicos"
-	task.338A6DA0D711B7DC.title: "Proveedor de Patrones ME"
 	task.339A5D32CC00D60C.title: "TodosLosDerechosReservados"
 	task.341403FEFBFC92C0.title: "Tinte Cian"
 	task.345245C32DB7B4D4.title: "Panal de Redstone"

@@ -49,15 +49,6 @@
 			weight: 3.0f
 		}
 		{
-			count: 2
-			id: "08BFE6BBA3D913A7"
-			item: {
-				count: 1
-				id: "waystones:warp_plate"
-			}
-			weight: 3.0f
-		}
-		{
 			id: "70FD0DBC97773222"
 			item: {
 				count: 1
@@ -457,7 +448,6 @@
 			}
 			weight: 5.0f
 		}
-		{ id: "3A1FB1ADEE7D8AB1", item: { count: 1, id: "ae2:flawless_budding_quartz" } }
 		{ id: "5A55996E58FE7BAF", item: { count: 1, id: "powah:magmator_basic" } }
 		{ id: "113B408EA25E7981", item: { count: 1, id: "powah:furnator_basic" } }
 		{ id: "395FD75CF3DB8FCF", item: { count: 1, id: "productivelib:upgrade_base" } }

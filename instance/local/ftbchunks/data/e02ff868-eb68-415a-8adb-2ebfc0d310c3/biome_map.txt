@@ -4,6 +4,7 @@
 #24E regions_unexplored:golden_boreal_taiga
 #561 regions_unexplored:gravel_beach
 #4D4 regions_unexplored:muddy_river
+#4F1 minecraft:ocean
 #73A minecraft:old_growth_pine_taiga
 #5FF minecraft:river
 #169 minecraft:taiga

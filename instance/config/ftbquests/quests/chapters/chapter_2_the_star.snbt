@@ -113,14 +113,6 @@
 			y: -6.0d
 		}
 		{
-			height: 3.0d
-			image: "atm:textures/questpics/gettingstarted/started_roots.png"
-			rotation: 0.0d
-			width: 3.527114967462039d
-			x: -4.0d
-			y: -9.5d
-		}
-		{
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/started_enchant.png"
 			rotation: 0.0d
@@ -231,14 +223,6 @@
 			width: 2.679611650485437d
 			x: -2.5d
 			y: -18.0d
-		}
-		{
-			height: 2.0d
-			image: "stevescarts:item/creative_hull_icon"
-			rotation: 0.0d
-			width: 2.0d
-			x: -4.0d
-			y: -14.0d
 		}
 		{
 			height: 4.0d
@@ -415,7 +399,6 @@
 		}
 		{
 			dependencies: [
-				"2A72B262AF4F11C9"
 				"3BE5CD0C7CC4BCC6"
 				"67C76EDD4BCCFF3F"
 				"03564837ECB5CC79"
@@ -575,7 +558,6 @@
 				"2CECCA9D05D3EF12"
 				"5A6831E0BD2F6AB5"
 				"7D1A27CBF1508712"
-				"55BF254B1831359B"
 				"5B2FD54E425D5C9D"
 				"4BD203AD481DDE8F"
 			]
@@ -743,7 +725,6 @@
 				"6877F33323910716"
 				"6D1E8399AD39FFC8"
 				"4195800B4D7631E2"
-				"2D474F8075E9DBD0"
 				"4B12425E74C5E511"
 				"00AC7CC291A3E590"
 				"486B5A605D79EA10"
@@ -1125,24 +1106,6 @@
 			}]
 			x: -12.0d
 			y: -2.0d
-		}
-		{
-			dependencies: ["2171DC0B13C4BD43"]
-			hide_dependent_lines: true
-			id: "2D474F8075E9DBD0"
-			rewards: [{
-				id: "3344C9435D2A3CD2"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			size: 1.25d
-			tasks: [{
-				id: "4D67925AE82498ED"
-				item: { count: 1, id: "rootsclassic:crystal_staff" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: -4.0d
 		}
 		{
 			dependencies: ["11374A3B5BD644F5"]
@@ -2112,35 +2075,6 @@
 			y: 14.0d
 		}
 		{
-			dependencies: ["21AB14A8553896E9"]
-			hide_dependent_lines: true
-			id: "2A72B262AF4F11C9"
-			rewards: [
-				{
-					count: 16
-					id: "1EA8CF8D662D786E"
-					item: {
-						count: 1
-						id: "productivetrees:socotra_dragon_log"
-					}
-					type: "item"
-				}
-				{
-					id: "4BD7EC82B8DF0279"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "78985791277793C4"
-				item: { count: 1, id: "productivetrees:socotra_dragon_sapling" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: -4.0d
-		}
-		{
 			dependencies: ["216DA9782EBDFF34"]
 			hide_dependent_lines: true
 			id: "03564837ECB5CC79"
@@ -2935,34 +2869,6 @@
 			y: 4.0d
 		}
 		{
-			id: "21AB14A8553896E9"
-			rewards: [
-				{
-					count: 2
-					id: "047A7F3E8677A6B7"
-					item: {
-						count: 1
-						id: "productivetrees:pollen"
-					}
-					type: "item"
-				}
-				{
-					id: "4ECA70BB0B9A1DB5"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "625FF48DAEC5E113"
-				item: { count: 1, id: "productivetrees:pollen" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: -6.0d
-		}
-		{
 			id: "0573B6F1BE5110FD"
 			rewards: [
 				{
@@ -3436,34 +3342,6 @@
 			y: -19.0d
 		}
 		{
-			id: "2171DC0B13C4BD43"
-			rewards: [
-				{
-					count: 5
-					id: "7801AEE59EB6FAB8"
-					item: {
-						count: 1
-						id: "rootsclassic:verdant_sprig"
-					}
-					type: "item"
-				}
-				{
-					id: "1524A05A8654DAFD"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "3768935221C60A6D"
-				item: { count: 1, id: "rootsclassic:verdant_sprig" }
-				type: "item"
-			}]
-			x: -5.5d
-			y: -8.0d
-		}
-		{
 			icon: {
 				id: "justdirethings:fuel_canister"
 			}
@@ -3881,36 +3759,6 @@
 			y: -14.0d
 		}
 		{
-			dependencies: ["309B0B2898893B4E"]
-			hide_dependent_lines: true
-			id: "55BF254B1831359B"
-			rewards: [
-				{
-					id: "3E433E44D707F9EA"
-					item: {
-						count: 1
-						id: "minecraft:diamond_block"
-					}
-					random_bonus: 1
-					type: "item"
-				}
-				{
-					id: "5002F68FCA3900F1"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				count: 2L
-				id: "6373147D18B35DCE"
-				item: { count: 1, id: "stevescarts:module_galgadorian_drill" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: -12.0d
-		}
-		{
 			icon: {
 				id: "twilightforest:time_sapling"
 			}
@@ -3940,37 +3788,6 @@
 			}]
 			x: -2.5d
 			y: -16.0d
-		}
-		{
-			icon: {
-				id: "stevescarts:module_standard_hull"
-			}
-			id: "309B0B2898893B4E"
-			rewards: [
-				{
-					count: 10
-					id: "435A23A4126CB2B4"
-					item: {
-						count: 1
-						id: "stevescarts:component_stabilized_metal"
-					}
-					type: "item"
-				}
-				{
-					id: "5E9BC570157BA3BD"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "7D87951BDCAF7377"
-				item: { count: 1, id: "stevescarts:component_stabilized_metal" }
-				type: "item"
-			}]
-			x: -3.5d
-			y: -12.0d
 		}
 		{
 			id: "62DDE5B1287BEB36"

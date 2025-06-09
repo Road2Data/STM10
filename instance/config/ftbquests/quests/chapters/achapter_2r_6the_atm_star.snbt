@@ -801,32 +801,6 @@
 		}
 		{
 			dependencies: ["5436157FDFC9633E"]
-			id: "228CB313BAB6406E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1B74E6FD75EA51D5"
-					table_id: 5196609362437981520L
-					type: "random"
-				}
-				{
-					id: "500BE9CAB3C3F7A7"
-					type: "xp_levels"
-					xp_levels: 50
-				}
-			]
-			shape: "rsquare"
-			size: 1.5d
-			tasks: [{
-				id: "66D07CEEB6655550"
-				item: { count: 1, id: "railcraft:creative_locomotive" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: 5.0d
-		}
-		{
-			dependencies: ["5436157FDFC9633E"]
 			id: "745E616E97838D2E"
 			rewards: [
 				{

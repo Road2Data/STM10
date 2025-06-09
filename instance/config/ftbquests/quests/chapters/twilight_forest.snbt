@@ -67,53 +67,6 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["2951B1D7080C5EF9"]
-			dependency_requirement: "all_started"
-			id: "420158B1736A1354"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4E63CBECBB6F9DD8"
-					table_id: 644369667019341813L
-					type: "random"
-				}
-				{
-					id: "282DFA78ACFF2F6C"
-					type: "xp"
-					xp: 500
-				}
-			]
-			shape: "rsquare"
-			tasks: [
-				{
-					count: 12L
-					id: "0BB84A1074D7D214"
-					item: { count: 1, id: "twilightforest:pink_castle_door" }
-					type: "item"
-				}
-				{
-					count: 12L
-					id: "02D55A14580DBDE9"
-					item: { count: 1, id: "twilightforest:yellow_castle_door" }
-					type: "item"
-				}
-				{
-					count: 12L
-					id: "24BB0DB1D0CEE3AE"
-					item: { count: 1, id: "twilightforest:blue_castle_door" }
-					type: "item"
-				}
-				{
-					count: 12L
-					id: "3011B112DB273913"
-					item: { count: 1, id: "twilightforest:violet_castle_door" }
-					type: "item"
-				}
-			]
-			x: 16.5d
-			y: 5.5d
-		}
-		{
 			dependencies: ["4193303999597249"]
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
@@ -209,7 +162,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["420158B1736A1354"]
+			dependencies: ["2951B1D7080C5EF9"]
 			icon: {
 				id: "twilightforest:time_sapling"
 			}

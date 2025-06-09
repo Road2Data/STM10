@@ -22,7 +22,6 @@
 	chapter.26E6ED94168A05C4.title: "Productive Bees"
 	chapter.29EFE8220836C79A.title: "&aチャプター2&r: &6ATM のスター"
 	chapter.2A6EBEEBAB882679.title: "Powah"
-	chapter.2FB24A5A597459FC.title: "RailCraft"
 	chapter.306DBE1EBB85D02E.title: "電気の時代"
 	chapter.3456E0C530C0038E.title: "EvilCraft"
 	chapter.37BC0E99F564D560.title: "スチーム時代"
@@ -59,7 +58,6 @@
 	chapter.792AD692F1468B1F.chapter_subtitle: ["スターの自動化も!"]
 	chapter.792AD692F1468B1F.title: "&aチャプター4&r: &dクリエイティブ"
 	chapter.7A5C327771634A7D.title: "建築のヒント"
-	chapter.7A72E12C3839D165.title: "Nature's Aura"
 	chapter.7AF827D2D101D343.title: "Artifacts"
 	chapter_group.02FE661031A105D8.title: "魔法"
 	chapter_group.15E5B587D291A4AA.title: "ツールと装備"
@@ -3599,9 +3597,6 @@
 	quest.1EB887F8072439A3.title: "&bLight Blue Chalk"
 	quest.1EBD5E4410A6DF34.quest_subtitle: "ゴーストリーミツバチにソウリウムダガーを与える！"
 	quest.1EBD5E4410A6DF34.title: "ソウリウムミツバチ"
-	quest.1EBF234015B26F15.quest_desc: ["&a&lRoots Classic&rによって追加された基本防具です。ただし、入手するには儀式が必要です！"]
-	quest.1EBF234015B26F15.quest_subtitle: "14"
-	quest.1EBF234015B26F15.title: "&2Sylvan 装備"
 	quest.1ECD4331DDFBBB52.quest_desc: ["Torreya の木は高さ約40ブロックの巨大な紫/ピンク色の木です。\n\nその葉はあらゆる方向に広がり、Torreya のツタがそこから垂れ下がっています"]
 	quest.1ECFA72CF2BA4B45.quest_desc: ["シンプルなドロッパーで、一度に落とす量を設定できます"]
 	quest.1F09F091F5CF4711.quest_desc: ["このチャームはリーチ距離を増加させます"]
@@ -3906,8 +3901,6 @@
 	quest.21693C4DE6531D73.title: "Crusher"
 	quest.216DA9782EBDFF34.quest_desc: ["このModは非現実的だと思います。どんな本やアイテムを持っていても、悪魔があなたの命令に従い奴隷として働くとは思えません。\n\nそれでも、クエストに従って進めることはできます"]
 	quest.216DA9782EBDFF34.title: "&b&lオカルティズム"
-	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic&rは JEI では小さく見えるかもしれませんが、たくさんのコンテンツがあることをお約束します！\n\nRoots は自然の恵みを使って儀式を行うことがすべてです。\n\nこれらのアイテムはどこにでも見つかるはずです！"]
-	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
 	quest.21770049843DD275.quest_subtitle: "2つのうちのパート2"
 	quest.217DB12EA32E1724.quest_desc: ["&bInfusion Crystal&rは種をティアアップするために必要です。例えば、クリスタルと4つの Inferium Essence を組み合わせると、1つの Prudentium Essence が得られます。\n\n後に、壊れない Infusion Crystal をクラフトできるようになります"]
 	quest.217DB12EA32E1724.title: "&bInfusion Crystal"
@@ -3936,8 +3929,6 @@
 	quest.21A0FD474FBB49F7.title: "&d廃墟の城塞&r: &dエンダーガーディアン&rの住処"
 	quest.21A90474590FCDB8.quest_desc: ["\"かまど\" はバニラのかまどの上位版で、より速い処理速度と効率性にアップグレードできます"]
 	quest.21A90474590FCDB8.title: "\"かまど\""
-	quest.21AB14A8553896E9.quest_desc: ["みなさん、私の言葉を聞き間違えたようですが、&e&lProductive Bees&r と言ったんです！あ、別のModがありましたね！\n\nこれは &e&lProductive Bees&r に関連していて、木の繁殖に必要になります。\n\n木は小麦では繁殖しません。ミツバチを使います。\n\n&o木とミツバチ&r"]
-	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
 	quest.21B0744FA3A42425.quest_desc: ["2つのランタンで満足？200個あってもいいじゃない？\n\n様々な種類のランタン、色付きランタン、そしてそれらを吊るすチェーンまで！"]
 	quest.21B0744FA3A42425.title: "&l&6Additional Lanterns"
 	quest.21B8116BDADD7476.quest_subtitle: "パパイヤ + カカオ"
@@ -4015,8 +4006,6 @@
 		"ソースはバケツで移動することもできますし、ソースジャーを壊して拾うことでも移動できます"
 	]
 	quest.227DBA8836021B0B.quest_subtitle: "ソースの保存"
-	quest.228CB313BAB6406E.quest_desc: ["どうやらこれはデフォルトではレシピがなかったようです！まるでMod開発者があなたが &5Creative&r Locomotive をサバイバルで使用することを望んでいなかったかのようです。\n\nそれほど OP とは思えなかったので、&5列車&rを楽しんでください！\n\n通常の &3Locomotive&r のように動作しますが、燃料やエネルギーは必要ありません！&6レール&rだけ必要です"]
-	quest.228CB313BAB6406E.title: "&5&lCreative &8Locomotive"
 	quest.228D1C880563CCBB.quest_desc: [
 		"ああ、これは私を昔に戻してくれます、まるで私たちがスチームエイジに戻ったかのようです"
 		""
@@ -4082,8 +4071,6 @@
 		"今、並列化ブロックを追加でき、多くのレシピを並列で実行し、プロセス時間を速めることができます！"
 	]
 	quest.22DB72BE40115A95.quest_subtitle: "LAFを頻繁に使おう！"
-	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r は、列車と共に装飾用の石材を追加します！\n\nQuarried Stone と Abyssal Stone を組み合わせて、磨かれた石、模様入りの石、石レンガのバージョンを作ることができます！\n\n階段やハーフブロックも忘れずに！"]
-	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
 	quest.22F5F931D38E5187.quest_desc: ["Crimson Stone は略奪者の前哨基地で見つかります。少し珍しいですが、チェストが2つしかないのは助けになりません！\n\n新しいレシピには使用されませんが、&6&lForge&r でのソウルの使用量を減少させます"]
 	quest.22F5F931D38E5187.title: "&cCrimson Stone"
 	quest.230463E830D6FFEB.quest_desc: ["プラスチックができたので、次のステップは完成した PCB を入手することです。まず Pressure Chamber で &3Empty PCBs&r を作りましょう"]
@@ -4948,8 +4935,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_sugar.png width:200 height:100 align:center}"
 	]
 	quest.2A6FC21142E75DD5.title: "砂糖の湖！(&b水&r)"
-	quest.2A72B262AF4F11C9.quest_desc: ["&6Socotra Dragon&r の苗木を入手するには、&7Wenge&r と &4Cocobolo&r を交配する必要があります。\n\n&7Wenge&r を入手するには、&4Cocobolo&r と &fBalsa&r を交配する必要があります。\n\n&4Cocobolo&r を入手するには、Balsa と &8ダークオーク&r を交配する必要があります。\n\n&fBalsa&r を入手するには、&cアカシア&r と &eTeak&r を交配する必要があります。\n\n&fTeak&r は &2ジャングル&r と &8ダークオーク&r を交配することで入手できます"]
-	quest.2A72B262AF4F11C9.title: "&6Socotra Dragon&r の苗木"
 	quest.2A787B99A8B0C767.quest_desc: [
 		"とても重要で一般的なブロックです！クラフトするか、ほとんどの &lIron Spells&r 構造物で見つけることができます。\n\n&eSpell Book&r に &3Scroll&r を追加したり削除したりするのに使用されます！&eSpell Book&r を本スロットに投げ入れ、その下に &3Scroll&r を置きます。&3Scroll&r を削除したい場合は、クリックして右側からインベントリに取り出してください"
 		"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
@@ -5294,7 +5279,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
 	]
 	quest.2D457E53BB6D63C7.title: "Permafrost Forest"
-	quest.2D474F8075E9DBD0.quest_desc: ["まず、JEI で指定されたパターンに従って儀式の台座と Standing Stones を設置する必要があります。\n\n次に、台座にダイアモンドブロック、棒、ブレイズパウダーを置く必要があります。\n\n その後、台座の周りに4つの Incense Blaziers を設置し、1つに石炭ブロック、もう1つに Acacia Bark、3つ目に Verdant Bark、最後に Birch Bark を置き、すべてを火打石と鋼で点火します！\n\nそして、台座をシフト右クリックして儀式を開始します！うまくいかない場合は、Standing Stones のパターンを確認してください"]
 	quest.2D592669F4D41793.quest_desc: ["リアクターと同様に、フレームは&dケーシング&rで作られますが、壁は&9タービンガラス&rでも構いません！"]
 	quest.2D592669F4D41793.title: "タービンの構築"
 	quest.2D64EF8D803AF9DA.quest_desc: ["作れる中で最も高価なポータルです。まず &dドラゴンの卵&r については、&dドラゴン&r から継続的に入手する必要はありません。&l&bHNN&r や &l&2MA&r を使用するか、Extrator を使って増やすことができます！\n\nそして、エンチャントから &dInfused Dragon's Breath&r が必要です。\n\nそこでは &9Soul-Touched Sculkshelves&r がエンチャントとポータル作成に必要です。\n\nポータルが機能しない理由を考えているなら、それはあなたがすでに &2&lオーバーワールド&r にいるからです！冗談です、使用できません！"]
@@ -5637,8 +5621,6 @@
 		"他の複雑な合金と同様に、これも非常に有益ですが、複雑です。この合金も例外ではありません"
 	]
 	quest.30954ADF34DB05A7.quest_subtitle: "複雑な合金"
-	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r はトロッコのアップグレードに関するModです！\n\nどんなアップグレードがあるのでしょうか？キッチンシンク以外なら何でもあります！\n\nドリルから銃、アーケードマシンまで！トロッコに他に何を求めることができるでしょうか？"]
-	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
 	quest.309B6B8368E535A0.quest_desc: ["ルーターは tick ごとにアクションを実行します。\n\nデフォルトでは20 tick、つまり1秒です。\n\nSpeed Upgrade を使用することで、より少ない tick に設定できます！"]
 	quest.30A61E1A1EFA81E6.quest_desc: ["&2葉鋼&r は技術的にはインゴットで、&9&lトワイライトフォレスト&r のチェストの中で見つかります。\n防具の各部位には異なるエンチャントが付与されています！"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
@@ -6691,9 +6673,6 @@
 		"&aレキシカ・ボタニア&rを投げ入れると、&6エルフの知識&rが追加され、ボタニアでの冒険についての洞察が深まります"
 	]
 	quest.3A20210242A1C865.title: "エルフとの交流"
-	quest.3A2047CC0F59C6CC.quest_desc: ["&a&lRoots Classic&r のエンドゲーム防具"]
-	quest.3A2047CC0F59C6CC.quest_subtitle: "17"
-	quest.3A2047CC0F59C6CC.title: "&aWildwood 装備"
 	quest.3A2249D94C019F0E.quest_subtitle: "Silver Lime + Cherry"
 	quest.3A27B65A0B4FFB5B.quest_desc: ["MEアイテム出力！生成されたアイテムを直接MEシステムに戻します"]
 	quest.3A27B65A0B4FFB5B.quest_subtitle: "MEアイテム出力"
@@ -7771,14 +7750,6 @@
 	quest.41F04EF882EF31E1.quest_subtitle: "ついに！"
 	quest.41FCD7F5B7E6E261.quest_desc: ["ついに、粘土ダストを電解して、その甘美なアルミニウムダストを取得する時が来ました"]
 	quest.41FCD7F5B7E6E261.quest_subtitle: "シリコンの良い供給源も"
-	quest.420158B1736A1354.quest_desc: [
-		".... はまだ実装されていません"
-		""
-		"代わりに、ファイナルプラトーの巨大な城に向かい、ドアブロックを手に入れてください！"
-		""
-		"「プレースホルダー」としてコボルドがスポーンしますが、殺しても何も得られません"
-	]
-	quest.420158B1736A1354.title: "最終ボス"
 	quest.4204702AA6FBF40B.quest_desc: [
 		"このアイテムの上に立つと、どのMODからでも電力を供給されたアイテムが充電されます"
 		""
@@ -10202,8 +10173,6 @@
 	quest.552CA2ABE659A507.quest_desc: ["&c溶岩&rを入れると、エネルギーが出てきます"]
 	quest.552CA2ABE659A507.title: "&cMagmatic Generator"
 	quest.552F0B9B00F4F914.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
-	quest.553220A2CD7CAFE4.quest_desc: ["クリスマスの間、すべてのチェストはプレゼントのように見えます...でもかまどは目立ちすぎてしまいます！Wrapping Paper を使えばそれも変えられます！任意の &lIron Furnace&r に右クリックすると、ホリデーシーズンの準備が整います！シーズンが終わったら、Shift 右クリックで包装を解くことができます！"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "すべてラッピング完了"
 	quest.55328778D7078E24.title: "中電圧時代"
 	quest.553ADA7040B652CD.quest_desc: ["&4&lMining Drill&r、&2&lBuzzsaw&r、&b&lChemical Thrower&r は通常 1,000mB または1バケツ分の&b液体&rを保持します。\n\n通常とは限りません！Large Tank があれば 2,000mB または2バケツ分保持できます。\n\n大した量に聞こえないかもしれませんが、信じてください、十分な量です"]
 	quest.553C44F85E508DE3.quest_desc: ["これは1つの Router だけでなく、複数の Router に使用できるユニークなものです。\n\n複数の Router を同時に動作させたい場合、それぞれに Sync Upgrade が必要です。\n\n独自の GUI でチューニングする必要があります"]
@@ -10251,8 +10220,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
 	]
 	quest.55B9B9C3AA01D323.title: "&5生い茂った花"
-	quest.55BF254B1831359B.quest_desc: ["&5Galadorian Drills&r は私たちがカートに取り付けることができる最高のドリルです。\n\nその素晴らしさゆえに、作るのはより困難になります...\nたくさんの&3Stabilized Metal&rが必要になるでしょう！レシピに従ってください！"]
-	quest.55BF254B1831359B.title: "&5Galadorian ドリル"
 	quest.55C47B868C5ECF54.quest_desc: ["鉱石を探すのに困っていますか？これを作って、どんなマシンのエネルギースロットに置いて充電してください"]
 	quest.55C4824DAD905512.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
 	quest.55C8DD9A754545BD.quest_desc: ["パルバライザーは原鉱石をダストに砕き、25%の確率で追加のダストを生成します"]
@@ -10717,8 +10684,6 @@
 		"注意: 酸素缶は寒い惑星でのみ機能しますが、アップグレード可能です"
 	]
 	quest.59ADE76689E381AA.title: "スペーススーツを使いたくないですか？"
-	quest.59B6C6BF0550D13D.quest_desc: ["列車や拠点で使用できる新しいタイプのガラスです！\n\n特に用途は指定しません"]
-	quest.59B6C6BF0550D13D.title: "&7&lRailcraft&r ガラス"
 	quest.59E68086A8B99EA7.quest_desc: [
 		"&c&lパイロマンサー&r（パイロマンサーであってパイを愛する者ではありません）は、&lIron's Spells&rによって追加されたもう1つの中立モブです。近くのモブを&c炎上&rさせる可能性があります...\n\n彼とは&c炎&r関連のアイテム、インク、さらには&c炎の巻物&rを取引できます。\n\n体の毛を全て失うリスクを冒して戦う場合は準備が必要です。彼は60ハートを持っています。間違いなく&c炎の呪文&rで&c炎上&rさせてきます。\n\n倒すと、アーケインエッセンス、インク、&c炎のルーン&r、&c炎の呪文&rをドロップします！"
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
@@ -10805,11 +10770,6 @@
 	quest.5A9D6672385D3D82.quest_desc: ["アップグレードに必要なラピスラズリが4個から1個になります"]
 	quest.5A9D6672385D3D82.quest_subtitle: "ラピスラズリの節約"
 	quest.5A9E8222AEA6EF6F.title: "チャロアイトアーマー"
-	quest.5AA3E5DFECB4AC4D.quest_desc: [
-		"当然のことながら、AE2はクリスタルの成長を劇的に加速する方法を提供します"
-		""
-		"これらを芽生えるクリスタルの周りに配置し、電力を供給し、クリスタルの成長を見守りましょう！"
-	]
 	quest.5AAD0E516762BA53.quest_desc: ["まだ浮遊している感じがしますか？それはそのソウルバイアルからのシュルカーかもしれません"]
 	quest.5AAD0E516762BA53.quest_subtitle: "予知クリスタル"
 	quest.5AAF6CA41209B365.title: "&3ヴィブラニウム ツール"
@@ -11070,17 +11030,6 @@
 	quest.5CD0E6F349F2F32D.quest_desc: ["心配いりません。これは不気味なものではなく、完全に成長した Edelwood です！\n\nこの木の上部には Carved Edelwood Log があり、そこから Edelwood Branches が伸びています。これらを壊すと Edelwood Sticks が手に入ります。\n\nこの原木は内部が空洞になっており、大釜と同じくらいのスペースがあります。面白いことに、大釜のように水を保持することもできます！"]
 	quest.5CD65553EF60029B.quest_desc: ["Skyseeker のツルハシは、採掘したブロックをプレイヤーのインベントリに直接テレポートさせます"]
 	quest.5CD65553EF60029B.quest_subtitle: "ティア: &54"
-	quest.5CD8D169181C7339.quest_desc: [
-		"これらの最後の三つのアイテムは、AE2によって提供されるいくつかの追加のおもちゃであり、これらのクエストツリーのいずれにも必ずしも当てはまりません"
-		""
-		"&bチャージドスタッフ&fは単なるシンプルな動力スタッフで、1回のヒットで3ハートのダメージを与え、300AEを消費します。また、1.9以前の戦闘メカニクスを使用しており、このスタッフでクリック連打が可能です"
-		""
-		"&bエントロピー操作器&fは、世界の特定のブロックに&oused&r使用すると、その場で溶解させます。例えば、砂をガラスに、金属鉱石を金属インゴットに変えます。それ以外の場合は、単にブロックに火をつけます"
-		""
-		"最後に、&bマターキャノン&fは、カラーアプリケーターと同様に、'弾薬'アイテムを保持する専用のセルとして機能し、物質ボールや鉄/金のナゲットなどを発射してモブにダメージを与えたり、ブロックを破壊したりします。マターキャノンの重い'弾薬'物質ボールは、&bペイントボール&fに置き換えることができ、発射されたブロックの面にペイントの飛沫効果を適用します。&bルーメンペイントボール&fは、マターキャノン専用のペイントボールのバリアントで、世界に存在すると光を放つペイントの飛沫も与えます"
-	]
-	quest.5CD8D169181C7339.quest_subtitle: "ATFには熱すぎる！"
-	quest.5CD8D169181C7339.title: "武器...？"
 	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&rは素晴らしいModで、Minecraftの体験をより簡単に、より楽しくする&l&3Artifacts&rを追加します！\n\nすべての&l&3Artifacts&rは、探検、考古学、または Mimic を倒すことで見つけることができます！\n\nMimic は地下の Campsite で見つかり、通常のチェストのように見えます！しかし、近づきすぎると攻撃してきます！"]
 	quest.5CE44C58A470E48E.title: "&l&3Artifacts"
 	quest.5CF175DA7BDA52F3.quest_desc: [
@@ -12496,8 +12445,6 @@
 		"これを採掘するためには特別なツルハシが必要です。これを作るためには、デーモンを &dSpirit-Attuned Pickaxe Head&r に注入して、この新しい種類の鉱石を破壊できるツルハシを作ります"
 	]
 	quest.686AEC3EF1140D15.title: "新しい鉱石のための新しいツール"
-	quest.686B25F2E9D8CC97.quest_desc: ["これを書いている時点で7月末なので、ハロウィンまであと3ヶ月ほどです。でも、Spooky になるのに早すぎることはありません！Spirit Halloween のように、実際に始まる3ヶ月前から Spooky になれます。今回は Spook-alator で かまどを右クリックするだけです！感謝祭の準備を始める時期になったら、Shift + 右クリックで Un-Spook-Alate することができます！"]
-	quest.686B25F2E9D8CC97.quest_subtitle: "「これがハロウィン」"
 	quest.686EB173C94301C0.quest_desc: ["&e&lIron's Spells&r &b氷の防具&r!"]
 	quest.686EB173C94301C0.quest_subtitle: "20"
 	quest.686EB173C94301C0.title: "&b氷使いの装備"
@@ -15370,7 +15317,6 @@
 	reward_table.13DF975BE0A23373.title: "Powah: Nitro"
 	reward_table.1AE4A39086CA5564.title: "MA: Tier 4 シードバッグ"
 	reward_table.1C750D27FEF7C386.title: "Powah: Blazing"
-	reward_table.1DB1EEDA7B79672B.title: "RailCraft: レール"
 	reward_table.1EC6956FA2BB2B00.title: "基本ストレージ: 報酬"
 	reward_table.21B1896C13F84C09.title: "MA: Tier 2 シードバッグ"
 	reward_table.2A2E3EFEF58354A9.title: "Immersive: 建材"
@@ -15397,7 +15343,6 @@
 	reward_table.67D8094B10FAA687.title: "EvilCraft: 報酬"
 	reward_table.73E94318B401E916.title: "IF: 上級報酬"
 	reward_table.74164DBBE7919A3B.title: "Mekanism Reactors: 報酬"
-	reward_table.75FE7CDF68581EDE.title: "RailCraft: ランダム"
 	reward_table.7609CF2A167B45C8.title: "Theurgy: 塩"
 	reward_table.779C873798AE0A92.title: "Mahou: パウダー"
 	reward_table.79C7738D7CEDABD4.title: "MA: Tier 5 シードバッグ"
@@ -15498,7 +15443,6 @@
 	task.12A2CE1C3AE8A033.title: "ブルーバンデッドミツバチ"
 	task.13266875BDB5077D.title: "AllRightsReserved"
 	task.14DEFFB80CC96BC1.title: "ME Dense Covered Cables"
-	task.14FA4A933C39A406.title: "チェスト付きボート"
 	task.15698B55CCAD2433.title: "AllRightsReserved"
 	task.15795AB2872E2DEE.title: "シュート"
 	task.15BD622D04888DD8.title: "カート"
@@ -15657,7 +15601,6 @@
 	task.33143F38732A38AB.title: "ヒント"
 	task.335D80E83360A7DB.title: "エーテルガス...？うん。"
 	task.337725ECA2C04090.title: "論理輸送機"
-	task.338A6DA0D711B7DC.title: "ME パターンプロバイダー"
 	task.339A5D32CC00D60C.title: "AllRightsReserved"
 	task.341403FEFBFC92C0.title: "シアン染料"
 	task.345245C32DB7B4D4.title: "レッドストーンハニカム"

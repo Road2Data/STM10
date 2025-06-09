@@ -439,15 +439,30 @@
 					type: "random"
 				}
 				{
-					exclude_from_claim_all: true
-					id: "5DE4B3BE0F590D71"
-					table_id: 4196188979167302596L
-					type: "random"
-				}
-				{
 					id: "26ADAC29B5369011"
 					type: "xp"
 					xp: 500
+				}
+				{
+					exclude_from_claim_all: true
+					id: "379111F3143E2F58"
+					table_id: 5564196992594175882L
+					type: "choice"
+				}
+				{
+					id: "1BE2AA59C7542818"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"apothic_enchanting:endless_quiver": 1
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
 				}
 			]
 			size: 1.5d
@@ -476,15 +491,30 @@
 					type: "random"
 				}
 				{
-					exclude_from_claim_all: true
-					id: "1434B9579016D3A0"
-					table_id: 4196188979167302596L
-					type: "random"
-				}
-				{
 					id: "2D22E6C0EABD5BFF"
 					type: "xp"
 					xp: 500
+				}
+				{
+					exclude_from_claim_all: true
+					id: "266FC267EC7C0A5F"
+					table_id: 5564196992594175882L
+					type: "choice"
+				}
+				{
+					id: "4D7436B8E5F00BB1"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"tombstone:curse_of_bones": 5
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
 				}
 			]
 			size: 1.5d
@@ -1299,15 +1329,30 @@
 					type: "random"
 				}
 				{
-					exclude_from_claim_all: true
-					id: "3B094578896C0276"
-					table_id: 4196188979167302596L
-					type: "random"
-				}
-				{
 					id: "48C26A872754A4F8"
 					type: "xp"
 					xp: 500
+				}
+				{
+					id: "764664B426DF7A28"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:swift_sneak": 5
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "198DAEA00A2201D6"
+					table_id: 5564196992594175882L
+					type: "choice"
 				}
 			]
 			size: 1.5d

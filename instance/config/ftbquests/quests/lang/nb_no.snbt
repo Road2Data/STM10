@@ -5114,14 +5114,6 @@
 	quest.41F04EF882EF31E1.quest_subtitle: "Finally!"
 	quest.41FCD7F5B7E6E261.quest_desc: ["Finally, it is time to electrolyze the clay dust and get that sweet, sweet aluminium dust"]
 	quest.41FCD7F5B7E6E261.quest_subtitle: "A good source of silicon too"
-	quest.420158B1736A1354.quest_desc: [
-		".... is not yet implemented."
-		""
-		"Instead, head to the giant castle in the Final Plateau and grab some door blocks!"
-		""
-		"There is a kobold that spawns in as a \\\"placeholder\\\" but you will get nothing from killing it."
-	]
-	quest.420158B1736A1354.title: "The Final Boss"
 	quest.4204702AA6FBF40B.quest_desc: [
 		"Standing on this item will charge up any powered item from any mod."
 		""
@@ -6983,12 +6975,6 @@
 	]
 	quest.5A94A2664BFDD7B9.title: "Basic Storage"
 	quest.5A9E8222AEA6EF6F.title: "Charoite Armor"
-	quest.5AA3E5DFECB4AC4D.quest_desc: [
-		"Naturally, AE2 provides its own way to dramatically speed up crystal growth. "
-		""
-		"Place these around your Budding Crystals, give them some power, and watch your crystals grow!"
-	]
-	quest.5AA3E5DFECB4AC4D.title: "Growth Accelerator"
 	quest.5AAD0E516762BA53.quest_desc: ["Do you feel like you are levitating yet? Might be all that shulker from that Soul Vial."]
 	quest.5AAD0E516762BA53.quest_subtitle: "Prescient Crystal"
 	quest.5AB8651FCB1E2F72.title: "Elytra Blueprint"
@@ -7114,17 +7100,6 @@
 	]
 	quest.5CC9CB0911954215.quest_desc: ["A Reed Nest will work in any overworld biome, and will lure in a Mason Bee or a Reed Bee."]
 	quest.5CC9CB0911954215.quest_subtitle: "Lures bees in any Overworld Biome"
-	quest.5CD8D169181C7339.quest_desc: [
-		"These last three items are more or less some extra toys provided by AE2 and don't necessarily fit under any of these quest trees. "
-		""
-		"The &bCharged Staff&f is just a simple powered staff which deals 3 hearts of damage and consumes 300AE per hit. It also uses pre-1.9 combat mechanics, meaning that you can spam-click with this like in the good old days. "
-		""
-		"The &bEntropy Manipulator&f, when &oused&r on certain blocks in the world, will smelt them in-place, such as sand to glass and metal ores to metal ingots. If not, it will simply light a fire on the block. "
-		""
-		"Finally, the &bMatter Cannon&f functions similarly to the Color Applicator as a dedicated cell for holding 'ammo' items such as Matter Balls and iron/gold nuggets, which can then be fired out to deal damage to mobs or break blocks. Heavier 'ammo'Matter Balls in a Matter Cannon can be substituted with &bPaint Balls&f, which will apply a paint splatter effect on the face of whatever block being fired at. &bLumen Paint Balls&f are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world."
-	]
-	quest.5CD8D169181C7339.quest_subtitle: "Too hot for the ATF"
-	quest.5CD8D169181C7339.title: "The... Weapons?"
 	quest.5CF175DA7BDA52F3.quest_desc: [
 		"The &dHephaestus Forge&r can be upgraded into higher tiers using things like Spawner Scraps, Arcane Crystals, and more!"
 		""

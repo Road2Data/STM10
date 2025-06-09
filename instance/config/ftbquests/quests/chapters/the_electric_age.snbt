@@ -20,6 +20,11 @@
 		{
 			dependencies: ["5BE1F2AE0A8926E0"]
 			id: "37652D345503DFF4"
+			rewards: [{
+				id: "0F75F5E46CA4B5C1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "30502014858726FA"
 				item: { count: 1, id: "modern_industrialization:electric_compressor" }
@@ -53,6 +58,11 @@
 		{
 			dependencies: ["37652D345503DFF4"]
 			id: "268309AF3C0453C9"
+			rewards: [{
+				id: "270322175440EC3A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "1D10AB3FFC0F5163"
 				item: { count: 1, id: "modern_industrialization:polarizer" }
@@ -64,6 +74,11 @@
 		{
 			dependencies: ["268309AF3C0453C9"]
 			id: "6DAE6B319E915EC8"
+			rewards: [{
+				id: "1E85B7F1146749CC"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "679AA6B323BECFE0"
 				item: { count: 1, id: "modern_industrialization:electric_blast_furnace" }
@@ -75,6 +90,11 @@
 		{
 			dependencies: ["6424EB9C1160C74F"]
 			id: "26466877B66368BE"
+			rewards: [{
+				id: "30D46B7151E4A566"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "35BB27615D8861C5"
 				item: { count: 1, id: "modern_industrialization:redstone_battery" }
@@ -120,6 +140,11 @@
 		{
 			dependencies: ["26466877B66368BE"]
 			id: "5BE1F2AE0A8926E0"
+			rewards: [{
+				id: "1214798A6ECBA97E"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [
 				{
 					id: "37392C251E30A72D"

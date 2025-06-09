@@ -1849,5 +1849,26 @@
 			x: 8.5d
 			y: 2.0d
 		}
+		{
+			dependencies: [
+				"3514E9C1A8C7400C"
+				"3E6706BC4C318A40"
+			]
+			id: "0A4F525FD38421D6"
+			tasks: [
+				{
+					id: "7F77F86E2AC8416C"
+					item: { count: 1, id: "industrialforegoing:simulated_hydroponic_bed" }
+					type: "item"
+				}
+				{
+					id: "2B899EC74071F6BF"
+					item: { components: { "industrialforegoing:hydroponic_simulation_processor": { } }, count: 1, id: "industrialforegoing:hydroponic_simulation_processor" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 6.5d
+		}
 	]
 }

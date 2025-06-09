@@ -4,94 +4,95 @@
 	order_index: 0
 	rewards: [
 		{
-			count: 2
-			id: "428FEFDCEFEA2751"
-			item: {
-				count: 1
-				id: "ae2:certus_quartz_crystal"
-			}
-			random_bonus: 2
-			weight: 4.0f
-		}
-		{
-			count: 4
-			id: "60C9534712C9D517"
-			item: {
-				count: 1
-				id: "ae2:certus_quartz_dust"
-			}
-			random_bonus: 4
-			weight: 5.0f
-		}
-		{
-			count: 4
-			id: "72BBB230EFF309C6"
-			item: {
-				count: 1
-				id: "ae2:silicon"
-			}
-			random_bonus: 4
-			weight: 3.0f
-		}
-		{
-			count: 2
-			id: "08B66FFFD86F3AD2"
-			item: {
-				count: 1
-				id: "ae2:printed_silicon"
-			}
-			random_bonus: 1
-			weight: 2.0f
-		}
-		{
-			count: 2
-			id: "03F3B4042D1EB832"
-			item: {
-				count: 1
-				id: "ae2:charged_certus_quartz_crystal"
-			}
-			weight: 3.0f
-		}
-		{
-			count: 2
-			id: "542D67CE11091970"
-			item: {
-				count: 1
-				id: "ae2:fluix_crystal"
-			}
-			random_bonus: 2
-			weight: 2.0f
-		}
-		{
-			id: "61457CAE8D9BA634"
-			item: {
-				count: 1
-				id: "ae2:fluix_dust"
-			}
-			random_bonus: 2
-			weight: 2.0f
-		}
-		{
-			count: 2
+			count: 8
 			id: "6E53AAC2EA215B56"
 			item: {
 				count: 1
 				id: "ae2:logic_processor"
 			}
-			random_bonus: 1
 			weight: 2.0f
 		}
 		{
+			count: 8
 			id: "19E943E055FECA19"
 			item: {
 				count: 1
 				id: "ae2:calculation_processor"
 			}
-			random_bonus: 1
+			weight: 2.0f
 		}
-		{ id: "76D48291478B26DD", item: { count: 1, id: "ae2:engineering_processor" } }
-		{ id: "732BE89A7C1FC09A", item: { count: 1, id: "ae2:formation_core" } }
-		{ id: "5E06E4BFE3DA4112", item: { count: 1, id: "ae2:annihilation_core" } }
+		{
+			count: 8
+			id: "76D48291478B26DD"
+			item: {
+				count: 1
+				id: "ae2:engineering_processor"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 16
+			id: "732BE89A7C1FC09A"
+			item: {
+				count: 1
+				id: "ae2:formation_core"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 16
+			id: "5E06E4BFE3DA4112"
+			item: {
+				count: 1
+				id: "ae2:annihilation_core"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 16
+			id: "43CC7A945A73BB22"
+			item: {
+				count: 1
+				id: "ae2:silicon"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 16
+			id: "307D0CCA3C2978EE"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 16
+			id: "2056B826F2B48F8F"
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 16
+			id: "00BBF9532D3DEF25"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 16
+			id: "79BFCF02626AE4A3"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 4.0f
+		}
 	]
 	use_title: true
 }

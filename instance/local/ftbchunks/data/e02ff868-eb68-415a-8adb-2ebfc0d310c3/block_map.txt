@@ -39,6 +39,7 @@
 #80497A minecraft:dirt
 #F4A7C0 domum_ornamentum:double_crossed
 #3B0AD1 minecraft:dripstone_block
+#4D144F extendedae:ex_pattern_provider
 #009B14 minecraft:farmland
 #E7F264 minecraft:flower_pot
 #A06A0A alltheores:fluorite_ore
@@ -92,6 +93,7 @@
 #2D6ABE pneumaticcraft:oil
 #77C440 herbsandharvest:orange_fruit_leaves
 #F6678E minecraft:oxeye_daisy
+#05E6F2 ae2:pattern_provider
 #29B1B4 regions_unexplored:peat_dirt
 #6F0723 regions_unexplored:peat_grass_block
 #389F1B regions_unexplored:peat_mud
@@ -111,6 +113,7 @@
 #86FC77 minecraft:sand
 #B815CF alltheores:silver_ore
 #468B47 ae2:sky_stone_block
+#2242C3 advanced_ae:small_adv_pattern_provider
 #8638B9 minecraft:smooth_basalt
 #6B495B minecraft:spawner
 #FAE367 minecraft:spruce_fence

@@ -3,9 +3,6 @@
 	loot_size: 1
 	order_index: 4
 	rewards: [
-		{ id: "01F2BD48DEFF1924", item: { count: 1, id: "modularrouters:distributor_module" } }
-		{ id: "0E2E787D5574EB32", item: { count: 1, id: "modularrouters:energy_distributor_module" } }
-		{ id: "284CF6D89102139A", item: { count: 1, id: "modularrouters:puller_module_2" } }
 		{
 			count: 4
 			id: "4A7A9B595C82C89C"

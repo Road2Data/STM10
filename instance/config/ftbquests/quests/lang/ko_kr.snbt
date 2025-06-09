@@ -22,7 +22,6 @@
 	chapter.26E6ED94168A05C4.title: "프로덕티브 비"
 	chapter.29EFE8220836C79A.title: "&a2장&r: &6ATM의 별"
 	chapter.2A6EBEEBAB882679.title: "파와"
-	chapter.2FB24A5A597459FC.title: "레일크래프트"
 	chapter.306DBE1EBB85D02E.title: "전기의 시대"
 	chapter.3456E0C530C0038E.title: "이블크래프트"
 	chapter.37BC0E99F564D560.title: "증기 시대"
@@ -59,7 +58,6 @@
 	chapter.792AD692F1468B1F.chapter_subtitle: ["플러스 별 자동화!"]
 	chapter.792AD692F1468B1F.title: "&a4장&r: &d크리에이티브"
 	chapter.7A5C327771634A7D.title: "건축 팁"
-	chapter.7A72E12C3839D165.title: "자연의 기운"
 	chapter.7AF827D2D101D343.title: "유물"
 	chapter_group.02FE661031A105D8.title: "마법"
 	chapter_group.15E5B587D291A4AA.title: "도구 및 장비"
@@ -3075,9 +3073,6 @@
 	quest.1EB887F8072439A3.title: "&b밝은 파란색 분필"
 	quest.1EBD5E4410A6DF34.quest_subtitle: "유령 벌에게 소울륨 단검을 먹이세요"
 	quest.1EBD5E4410A6DF34.title: "소울륨 벌"
-	quest.1EBF234015B26F15.quest_desc: ["&a&lRoots Classic&r에서 추가된 기본 방어구입니다. 하지만 얻으려면 의식이 필요합니다!"]
-	quest.1EBF234015B26F15.quest_subtitle: "14"
-	quest.1EBF234015B26F15.title: "&2실반 장비"
 	quest.1ECD4331DDFBBB52.quest_desc: ["토레야 나무는 약 40 블록 높이로 솟아 있는 거대한 보라색/분홍색 나무입니다.\\n\\n잎은 모든 방향으로 뻗어 나가고 토레야 덩굴이 그 잎에서 늘어집니다."]
 	quest.1ECFA72CF2BA4B45.quest_desc: ["간단한 공급기이며 한 번에 떨어뜨릴 양을 설정할 수 있습니다."]
 	quest.1F09F091F5CF4711.quest_desc: ["이 장신구는 사거리를 늘려 줍니다."]
@@ -3357,8 +3352,6 @@
 	quest.21693C4DE6531D73.title: "분쇄기"
 	quest.216DA9782EBDFF34.quest_desc: ["이 모드는 비현실적인 것 같아요. 당신이 가진 책이나 아이템은 상관없지만, 악마가 당신의 모든 명령을 따르고 당신을 위해 노예처럼 일할 것이라고는 생각하지 않아요.\\n\\n그럼에도 불구하고 퀘스트를 따라 그렇게 할 수 있습니다."]
 	quest.216DA9782EBDFF34.title: "&b&l오컬티즘"
-	quest.2171DC0B13C4BD43.quest_desc: ["&a&l루츠 클래식&r은 JEI에서 보기에는 작아 보일 수 있지만, 정말 많은 것들이 있다는 것을 약속할 수 있습니다! \\n\\n루츠는 자연의 선물을 사용하여 의식을 만드는 것에 관한 모든 것입니다.\\n\\n저를 믿으세요, 이 아이템들을 모두 찾을 수 있을 거예요!"]
-	quest.2171DC0B13C4BD43.title: "&a&l루츠 클래식"
 	quest.21770049843DD275.quest_subtitle: "2/2부"
 	quest.217DB12EA32E1724.quest_desc: ["&b주입 수정&r은 씨앗의 티어를 올리는 데 필요합니다. 예를 들어 수정을 인페리움 라텍스 4개와 결합하면 프루덴티움 라텍스 1개를 얻을 수 있습니다.\\n\\n나중에는 파괴되지 않는 주입 수정을 제작할 수 있습니다."]
 	quest.217DB12EA32E1724.title: "&b주입 수정"
@@ -3384,8 +3377,6 @@
 	quest.21A0FD474FBB49F7.title: "&d폐허가 된 성채&r: &d&l엔더 가디언&r의 Home"
 	quest.21A90474590FCDB8.quest_desc: ["\"화로\"는 더 빠른 속도와 더 나은 효율을 위해 상위 버전으로 변환할 수 있는 바닐라 화로의 상위 버전입니다."]
 	quest.21A90474590FCDB8.title: "화로"
-	quest.21AB14A8553896E9.quest_desc: ["여러분, 제 말을 제대로 못 들으신 것 같은데, &e&l프로덕티브 비&r라고 말씀드렸잖아요! 아, 다른 모드가 있네요! \\n\\n이것은 &e&l프로덕티브 비&r와 관련이 있는데, 나무 번식을 위해 필요할 거예요.\\n\\n아니요, 나무는 밀을 사용하여 번식하지 않고, 벌을 사용합니다.\\n\\n&o나무와 벌&r."]
-	quest.21AB14A8553896E9.title: "&2&l프로덕티브 나무"
 	quest.21B0744FA3A42425.quest_desc: ["2개로 충분한 랜턴을 왜 200개나 가져야 할까요? \\n\\n다양한 유형의 랜턴, 랜턴 색상, 심지어 랜턴을 지탱하는 사슬까지!"]
 	quest.21B0744FA3A42425.title: "&l&6추가 랜턴"
 	quest.21B8116BDADD7476.quest_subtitle: "파파야 + 카카오"
@@ -3455,8 +3446,6 @@
 	quest.227BEFEF59977CC4.quest_subtitle: "장미목 + 티크"
 	quest.227DBA8836021B0B.quest_desc: ["Ars Nouveau에서 기계의 동력 시스템은 &9Source&r(이)라고 불립니다. \\n\\nSource를 모으려면 Source Jar가 필요합니다.\\n\\nSource는 양동이로 옮기거나 Source Jar를 파괴하고 획득하여 옮길 수도 있습니다."]
 	quest.227DBA8836021B0B.quest_subtitle: "근원 저장 중"
-	quest.228CB313BAB6406E.quest_desc: ["분명히 이것은 기본적으로 제작법이 없었습니다! 마치 모드 개발자가 당신이 &5크리에이티브&r 기관차를 서바이벌에서 사용하는 것을 원하지 않는 것 같군요. \\n\\n저는 그것들이 너무 OP라고 생각하지 않았으니 &5기차&r를 즐겨 사용하세요!\\n\\n그것들은 연료나 에너지가 필요 없는 일반 &3기관차&r처럼 작동합니다! &6레일&r만 있으면 됩니다."]
-	quest.228CB313BAB6406E.title: "&5&l크리에이티브 &8기관차"
 	quest.228D1C880563CCBB.quest_desc: [
 		"아, 이거 보니 옛날 생각나는군. 거의 증기 시대에 돌아온 것 같아."
 		""
@@ -3518,8 +3507,6 @@
 		"이제 병렬화 블록을 추가하여 여러 레시피를 동시에 실행하고 공정 시간을 단축할 수 있습니다!"
 	]
 	quest.22DB72BE40115A95.quest_subtitle: "LAF를 자주 하세요!"
-	quest.22E007025C19EC0A.quest_desc: ["&l&7레일크래프트&r는 기차와 함께 장식을 위한 몇 가지 돌을 추가합니다! \\n\\n채석된 돌과 심연의 돌은 함께 연마된, chiseled 또는 벽돌 버전으로 제작할 수 있습니다!\\n\\n또한 계단과 반쪽 블록도 잊지 마세요!"]
-	quest.22E007025C19EC0A.title: "&l&7레일크래프트&r 돌"
 	quest.22F5F931D38E5187.quest_desc: ["크림슨 돌은 약탈자 전초 기지에서 발견되며, 약간 희귀하지만 상자를 2개밖에 주지 않아서 도움이 되지 않습니다! \\n\\n새로운 제작법에 사용되지는 않지만 &6&lforge&r에서 영혼 사용량을 줄여줍니다."]
 	quest.22F5F931D38E5187.title: "&c크림슨 돌"
 	quest.230463E830D6FFEB.quest_desc: ["이제 플라스틱이 있으니, 다음 단계는 완성된 PCB를 얻는 것입니다. 먼저 압력 챔버에서 &3빈 PCB&r를 만드세요."]
@@ -4269,8 +4256,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_sugar.png width:200 height:100 align:center}"
 	]
 	quest.2A6FC21142E75DD5.title: "설탕 호수! (&b물&r)"
-	quest.2A72B262AF4F11C9.quest_desc: ["&6소코트라 드래곤&r 묘목을 얻으려면 &7벵게&r와 &4코코볼로&r를 교배해야 합니다.\\n\\n&7벵게&r를 얻으려면 &4코코볼로&r와 &f발사&r를 교배해야 합니다.\\n\\n&4코코볼로&r를 얻으려면 발사와 &8흑단나무&r를 교배해야 합니다.\\n\\n&f발사&r를 얻으려면 &c아카시아&r와 &e티크&r를 교배해야 합니다.\\n\\n&f티크&r를 얻으려면 &2정글&r과 &8흑단나무&r를 교배하면 됩니다."]
-	quest.2A72B262AF4F11C9.title: "&6소코트라 드래곤&r 묘목"
 	quest.2A787B99A8B0C767.quest_desc: [
 		"매우 중요한 블록이자 아주 일반적인 블록입니다! 대부분의 &l철 마법&r 구조물에서 제작하거나 찾을 수 있습니다. \\n\\n이것들은 &e마법 책&r에서 &3두루마리&r를 추가하고 제거하는 데 사용됩니다! &e마법 책&r을 책 슬롯에 넣고 그 아래에 &3두루마리&r를 넣으세요. &3두루마리&r를 제거하려면 클릭한 다음 오른손에서 당신의 보관함으로 가져가세요."
 		"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
@@ -4579,7 +4564,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
 	]
 	quest.2D457E53BB6D63C7.title: "영구 동토 숲"
-	quest.2D474F8075E9DBD0.quest_desc: ["먼저 JEI에 명시된 패턴대로 주조 제단과 입석을 배치해야 합니다.\\n\\n다음으로 다이아몬드 블록, 막대기, 블레이즈 가루를 제단에 넣어야 합니다.\\n\\n그 후, 제단 주위에 향로 4개를 놓고, 석탄 블록 하나, 아카시아 껍질 하나, 초록빛 껍질 하나, 자작나무 껍질 하나를 각각 넣으세요. 그리고 부싯돌과 강철로 모두 불을 붙이세요!\\n\\n그 다음, Shift 키를 누른 상태로 제단을 우클릭하여 의식을 시작하세요! 작동하지 않으면 입석의 패턴을 확인하세요."]
 	quest.2D592669F4D41793.quest_desc: ["원자로와 마찬가지로, 틀은 &d케이싱&r으로 만들어야 하지만, 벽은 대신 &9터빈 유리&r로 만들 수 있습니다!"]
 	quest.2D592669F4D41793.title: "터빈 건설"
 	quest.2D64EF8D803AF9DA.quest_desc: ["저희가 만들 수 있는 가장 비싼 차원문입니다. 먼저 &d드래곤 알&r을 얻기 위해 &d드래곤&r에게 계속해서 우유를 짜낼 필요 없이, &l&bHNN&r 또는 &l&2MA&r를 사용하거나 추출기를 사용하여 더 많이 만들 수 있습니다! \\n\\n다음으로, 마법 부여를 통해 &d주입된 드래곤의 숨결&r이 필요합니다. \\n\\n거기에서 차원문을 만들고 마법 부여하려면 &9영혼이 깃든 스컬크 선반&r이 필요합니다. \\n\\n차원문이 왜 작동하지 않는지 궁금하시다면, 이미 &2&l오버월드&r에 있기 때문입니다! 농담이고 사용할 수 없습니다!"]
@@ -4884,8 +4868,6 @@
 		"하지만 다른 복잡한 합금에서 보았듯이, 그것들은 복잡하지만 항상 우리에게 매우 유익합니다. 이것도 마찬가지입니다."
 	]
 	quest.30954ADF34DB05A7.quest_subtitle: "복합 합금"
-	quest.309B0B2898893B4E.quest_desc: ["&b&l스티브의 카트&r는 upgrading... 카트에 관한 모든 것입니다! \\n\\n어떤 종류의 상위 버전으로 변환이 있을까요? 싱크대 빼고는 거의 모든 것이 있습니다!\\n\\n드릴부터 총, 아케이드 기계까지! 카트로 무엇을 더 원하시나요?"]
-	quest.309B0B2898893B4E.title: "&l&b스티브의 카트"
 	quest.309B6B8368E535A0.quest_desc: ["라우터는 틱이 발생할 때마다 액션을 수행합니다.\\n\\n기본값은 20틱 또는 1초입니다.\\n\\n속도 상위 버전으로 변환을 통해 틱 수를 줄일 수 있습니다!"]
 	quest.30A61E1A1EFA81E6.quest_desc: ["&2강철잎&r은 엄밀히 말하면 &9&l황혼의 숲&r의 상자 안에서 발견되는 주괴입니다. 갑옷의 각 부분은 서로 다른 마법 부여를 제공합니다!"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
@@ -5800,9 +5782,6 @@
 		"저희의 &aLexica Botania&r를 던져 넣으면 &6엘프 지식&r으로 상위 버전으로 변환되어 보타니아 여정에 대한 더 많은 통찰을 얻을 수 있습니다."
 	]
 	quest.3A20210242A1C865.title: "엘프와의 교감"
-	quest.3A2047CC0F59C6CC.quest_desc: ["후반 게임용 &a&l루츠 클래식&r 갑옷"]
-	quest.3A2047CC0F59C6CC.quest_subtitle: "17"
-	quest.3A2047CC0F59C6CC.title: "&a와일드우드 장비"
 	quest.3A2249D94C019F0E.quest_subtitle: "은 연두색 + 벚나무"
 	quest.3A27B65A0B4FFB5B.quest_desc: ["ME 아이템 출력! 결과 아이템을 ME 시스템으로 바로 되돌려 보내세요."]
 	quest.3A27B65A0B4FFB5B.quest_subtitle: "ME 아이템 출력"
@@ -6677,8 +6656,6 @@
 	quest.41F04EF882EF31E1.quest_subtitle: "드디어!"
 	quest.41FCD7F5B7E6E261.quest_desc: ["드디어 점토 가루를 전기 분해하여 달콤한 알루미늄 가루를 얻을 시간입니다."]
 	quest.41FCD7F5B7E6E261.quest_subtitle: "실리콘의 훌륭한 공급원이기도 합니다."
-	quest.420158B1736A1354.quest_desc: ["...은(는) 구현되지 않았습니다.\\n\\n대신 마지막 고원에 있는 거대한 성으로 가서 문 블록을 얻으세요!\\n\\n\"임시\"로 스폰되는 코볼트가 있지만, 죽여도 아무것도 얻을 수 없습니다."]
-	quest.420158B1736A1354.title: "&c최종 보스"
 	quest.4204702AA6FBF40B.quest_desc: ["이 아이템 위에 서 있으면 모든 모드의 동력 아이템을 충전할 수 있습니다.\\n\\n또한 로빗에도 필요합니다."]
 	quest.420FE84DEE12CCE0.quest_desc: ["&e금 화로&r는 120 틱의 요리 시간으로 철 화로보다 좋습니다.\\n\\n&7은&r 또는 철 화로로 제작할 수 있으며 &b다이아몬드 화로&r로 제작됩니다!"]
 	quest.420FE84DEE12CCE0.title: "&e황금 화로"
@@ -8817,8 +8794,6 @@
 	quest.552CA2ABE659A507.quest_desc: ["&c용암&r이 들어가고, 에너지가 나옵니다."]
 	quest.552CA2ABE659A507.title: "&c마그마틱 발전기"
 	quest.552F0B9B00F4F914.quest_desc: ["이 퀘스트는 &6AllTheMods Staff&r 또는 AllTheMods 모드팩에서 사용하기 위해 &2커뮤니티 기여자&r가 작성했습니다. \\n\\n모든 &6AllTheMods&r 팩은 &eAll Rights Reserved&r에 따라 라이선스가 부여되므로, 이 퀘스트는 &6AllTheMods Team&r에서 출시하지 않은 공개 팩에서는 명시적인 허가 없이 사용할 수 없습니다.\\n\\n이 퀘스트는 의도적으로 숨겨져 있습니다. 이 퀘스트가 보인다면 편집 모드에 있는 것입니다."]
-	quest.553220A2CD7CAFE4.quest_desc: ["크리스마스 동안 모든 resents...상자 외형이 바뀌지만, 화로는 몹시 눈에 거슬립니다! 이제 포장지로 바꿀 수 있습니다! &l철 화로&r에 우클릭하면 연휴 준비 완료! 연휴가 끝나면 Shift + 우클릭으로 포장을 풀 수 있습니다!"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "모두 포장 완료"
 	quest.55328778D7078E24.title: "중간 전압 시대"
 	quest.553ADA7040B652CD.quest_desc: ["&4&l채굴 드릴&r, &2&l원형 톱&r, 그리고 &b&l화학 투척기&r는 보통 1,000mB 또는 1 양동이 분량의 &b액체&r를 담을 수 있습니다. \\n\\n보통이라는 건 항상 그렇다는 의미는 아닙니다! 대형 탱크를 사용하면 이제 2,000mB 또는 2 양동이 분량을 담을 수 있습니다. \\n\\n많아 보이지 않겠지만, 저를 믿으세요. 정말 많습니다."]
 	quest.553C44F85E508DE3.quest_desc: ["이것은 단일 라우터가 아닌 여러 라우터에 사용되기 때문에 특별합니다.\\n\\n여러 라우터가 동시에 작동하게 하려면 각 라우터에 동기화 업그레이드가 필요합니다.\\n\\n자체 GUI에서 조정해야 합니다."]
@@ -8866,8 +8841,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
 	]
 	quest.55B9B9C3AA01D323.title: "&5너무 커버린 꽃"
-	quest.55BF254B1831359B.quest_desc: ["&5갈라도리안 드릴&r은 우리가 카트에 부착할 수 있는 최고의 드릴입니다.\\n\\n그 위대함 때문에 제작하는 데 difficult...더 많은 노력difficult...이 필요합니다.\\n&3안정화된 금속&r이 아주 많이 필요하다고만 해두죠! 제작법을 따르세요!"]
-	quest.55BF254B1831359B.title: "&5갈라도리안 드릴"
 	quest.55C47B868C5ECF54.quest_desc: ["광물 찾는 데 도움이 필요하신가요? 이것을 하나 만들어서 아무 기계의 에너지 슬롯에 설치하여 충전하세요."]
 	quest.55C4824DAD905512.quest_desc: ["이 퀘스트는 &6AllTheMods Staff&r 또는 AllTheMods 모드팩에서 사용하기 위해 &2커뮤니티 기여자&r가 작성했습니다.\\n\\n모든 &6AllTheMods&r 팩은 &eAll Rights Reserved&r에 따라 라이선스가 부여되므로, 이 퀘스트는 &6AllTheMods Team&r에서 명시적인 허가 없이 출시되지 않은 공개 팩에서 사용할 수 없습니다.\\n\\n이 퀘스트는 의도적으로 숨겨져 있습니다. 이 메시지가 보인다면 편집 모드에 있는 것입니다."]
 	quest.55C8DD9A754545BD.quest_desc: ["분쇄기는 원광을 가루로 분쇄하며, 추가 가루를 생성할 확률이 25%입니다."]
@@ -9225,8 +9198,6 @@
 		"참고: 산소통은 추운 행성에서만 작동하지만, 상위 버전으로 변환할 수 있습니다."
 	]
 	quest.59ADE76689E381AA.title: "우주복을 사용하고 싶지 않으신가요?"
-	quest.59B6C6BF0550D13D.quest_desc: ["기차와 함께 사용할 수 있는 새로운 유형의 유리입니다! 또는 아래쪽 가로띠도요.\\n\\n특정 용도로 사용하도록 강요할 수는 없습니다."]
-	quest.59B6C6BF0550D13D.title: "&7&l레일크래프트&r 유리"
 	quest.59E68086A8B99EA7.quest_desc: [
 		"&c&l화염술사&r(파이 로맨서와는 다름)는 &lIron's Spells&r에서 추가된 또 다른 중립 몹입니다. 그는 아마도 자신과 가까운 몹에게 &c불&r을 붙일 것입니다 though...\\n\\n그와 모든 &c불&r 관련 물건, 잉크, 심지어 &c불 두루마리&r까지 거래할 수 있습니다.\\n\\n그와 싸우다가 몸의 모든 털을 잃을 위험을 감수하고 싶다면 대비하십시오. 그는 60 하트를 가지고 있습니다. 그는 &c화염 마법&r으로 당신에게 &c불&r을 붙일 것이고, 의심의 여지조차 없을 것입니다.\\n\\n죽을 때 그는 신비로운 라텍스, 잉크, &c불 룬&r 및 &c화염 마법&r을 드롭합니다!"
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
@@ -9299,7 +9270,6 @@
 	quest.5A9D6672385D3D82.quest_desc: ["상위 버전으로 변환 시 청금석 4개가 아닌 1개만 사용합니다."]
 	quest.5A9D6672385D3D82.quest_subtitle: "청금석 저장 중"
 	quest.5A9E8222AEA6EF6F.title: "차로아이트 갑옷"
-	quest.5AA3E5DFECB4AC4D.quest_desc: ["당연히 AE2는 수정 그로우 속도를 획기적으로 높이는 자체적인 방법을 제공합니다.\\n\\n이것들을 싹이 트는 수정 주위에 놓고 약간의 힘을 가하면 수정이 자라는 것을 볼 수 있습니다!"]
 	quest.5AAD0E516762BA53.quest_desc: ["벌써 공중에 뜬 기분이 드시나요? 그 영혼 바이알에서 나온 셜커 때문일 수도 있습니다."]
 	quest.5AAD0E516762BA53.quest_subtitle: "선견지명 수정"
 	quest.5AAF6CA41209B365.title: "&3바이브라늄 도구"
@@ -9519,9 +9489,6 @@
 	quest.5CD0E6F349F2F32D.quest_desc: ["두려워 마세요. 이건 우글리 부글리가 아니라 완전히 자란 에델우드입니다!\\n\\n나무 꼭대기에는 조각된 에델우드 통나무가 있고, 에델우드 가지가 뻗어 나와 있습니다. 이 가지들을 부수면 에델우드 막대기를 얻을 수 있습니다.\\n\\n통나무 내부는 비어 있으며, 가마솥과 유사한 공간입니다. 신기하게도 가마솥처럼 물도 담을 수 있습니다!"]
 	quest.5CD65553EF60029B.quest_desc: ["하늘 추적자의 곡괭이는 채굴된 블록을 플레이어의 인벤토리로 즉시 순간이동시킵니다."]
 	quest.5CD65553EF60029B.quest_subtitle: "티어: &54"
-	quest.5CD8D169181C7339.quest_desc: ["이 마지막 세 가지 아이템은 AE2에서 제공하는 일종의 추가 장난감이며, 반드시 이러한 퀘스트 트리에 속하지는 않습니다.\\n\\n&b충전된 스태프&f는 단순한 전원 공급 스태프로, 타격당 하트 3개의 피해를 주고 300AE를 소비합니다. 또한 이전 1.9전투 기능1.9을 사용하므로 옛날처럼 스팸 클릭을 할 수 있습니다.\\n\\n&b엔트로피 조작기&f는 세계의 특정 블록에 &o사용&r하면 모래를 유리로, 금속 광물을 금속 주괴로 제련합니다. 그렇지 않으면 단순히 블록에 불을 붙입니다.\\n\\n마지막으로 &b물질 대포&f는 물질 공 및 철/금 조각과 같은 '탄약' 아이템을 보관하기 위한 전용 셀로서 색상 적용기와 유사하게 작동하며, 이를 발사하여 몹에게 피해를 주거나 블록을 파괴할 수 있습니다. 물질 대포의 더 무거운 '탄약' 물질 공은 &b페인트 공&f으로 대체할 수 있으며, 이는 발사되는 블록 표면에 페인트 얼룩 효과를 적용합니다. &b루멘 페인트 공&f은 물질 대포에서만 사용되는 페인트 공의 변형으로, 페인트 얼룩은 세계에 나타나면 약간의 빛을 발산합니다."]
-	quest.5CD8D169181C7339.quest_subtitle: "ATF가 감당하기엔 너무 뜨겁습니다"
-	quest.5CD8D169181C7339.title: "The... 무기 말인가요?"
 	quest.5CE44C58A470E48E.quest_desc: ["&l&3아티팩트&r 모드는 &l&3아티팩트&r를 추가하여 Minecraft 경험을 훨씬 쉽고 재미있게 만들어주는 멋진 모드입니다! \\n\\n모든 &l&3아티팩트&r는 탐험, 고고학 또는 미믹 처치를 통해 찾을 수 있습니다!\\n\\n미믹은 지하 캠프장에서 일반 상자처럼 보입니다! 하지만 너무 가까이 다가가면 공격할 것입니다!"]
 	quest.5CE44C58A470E48E.title: "&l&3유물"
 	quest.5CF175DA7BDA52F3.quest_desc: [
@@ -10764,8 +10731,6 @@
 		"또한, 그것을 캘 수 있는 특별한 곡괭이도 필요합니다. 이를 위해 &d영혼과 조화된 곡괭이 머리&r에 악마를 주입하여 이 새로운 종류의 광석을 파괴할 수 있는 곡괭이를 만들어야 합니다."
 	]
 	quest.686AEC3EF1140D15.title: "새로운 광물을 위한 새로운 도구"
-	quest.686B25F2E9D8CC97.quest_desc: ["이 글을 쓰는 시점은 7월 말이라 할로윈까지 약 3개월 남았습니다. 하지만 으스스해지기엔 너무 이른 때는 없죠! Spirit Halloween처럼 실제로 시작되기 3개월 전부터 으스스해질 수 있습니다. 이번에는 Spook-alator로 화로를 오른손 클릭하면 됩니다! 추수감사절을 준비할 시간이 되면 shift 오른손 클릭하여 Un-Spook-Alate하세요!"]
-	quest.686B25F2E9D8CC97.quest_subtitle: "이것은 핼러윈이다"
 	quest.686EB173C94301C0.quest_desc: ["&e&l아이언의 마법&r &b얼음 갑옷&r!"]
 	quest.686EB173C94301C0.quest_subtitle: "20"
 	quest.686EB173C94301C0.title: "&b냉기술사 의상"
@@ -13250,7 +13215,6 @@
 	reward_table.13DF975BE0A23373.title: "파와: 나이트로"
 	reward_table.1AE4A39086CA5564.title: "MA: 티어 4 씨앗 가방"
 	reward_table.1C750D27FEF7C386.title: "파와: 블레이징"
-	reward_table.1DB1EEDA7B79672B.title: "레일크래프트: 레일"
 	reward_table.1EC6956FA2BB2B00.title: "기본 저장소: 보상"
 	reward_table.21B1896C13F84C09.title: "MA: 2티어 씨앗 가방"
 	reward_table.2A2E3EFEF58354A9.title: "몰입감 넘치는: 건축 블록"
@@ -13277,7 +13241,6 @@
 	reward_table.67D8094B10FAA687.title: "이블크래프트: 보상"
 	reward_table.73E94318B401E916.title: "IF: 고급 보상"
 	reward_table.74164DBBE7919A3B.title: "Mekanism 원자로: 보상"
-	reward_table.75FE7CDF68581EDE.title: "레일크래프트: 랜덤"
 	reward_table.7609CF2A167B45C8.title: "신성 마법: 소금"
 	reward_table.779C873798AE0A92.title: "마법: 가루들"
 	reward_table.79C7738D7CEDABD4.title: "MA: 5단계 씨앗 가방"
@@ -13377,7 +13340,6 @@
 	task.12A2CE1C3AE8A033.title: "파란띠무늬벌"
 	task.13266875BDB5077D.title: "AllRightsReserved"
 	task.14DEFFB80CC96BC1.title: "ME 조밀 차폐 케이블"
-	task.14FA4A933C39A406.title: "상자가 실린 보트"
 	task.15698B55CCAD2433.title: "AllRightsReserved"
 	task.15795AB2872E2DEE.title: "슈트"
 	task.15BD622D04888DD8.title: "수레"
@@ -13534,7 +13496,6 @@
 	task.33143F38732A38AB.title: "힌트"
 	task.335D80E83360A7DB.title: "에테르 가스 이해하기"
 	task.337725ECA2C04090.title: "논리 수송기"
-	task.338A6DA0D711B7DC.title: "ME 패턴 공급기"
 	task.339A5D32CC00D60C.title: "AllRightsReserved"
 	task.341403FEFBFC92C0.title: "청록색 염료"
 	task.345245C32DB7B4D4.title: "레드스톤 벌집"

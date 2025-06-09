@@ -456,18 +456,12 @@
 			]
 			shape: "gear"
 			size: 1.5d
-			tasks: [
-				{
-					id: "338A6DA0D711B7DC"
-					item: { components: { "ftbfiltersystem:filter": "item_tag(ae2:pattern_provider)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-				{
-					id: "299121F0AFF40604"
-					item: { count: 1, id: "ae2:pattern_access_terminal" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				count: 8L
+				id: "688E878D0B45C32C"
+				item: { count: 1, id: "ae2:pattern_provider" }
+				type: "item"
+			}]
 			x: 14.0d
 			y: -2.5d
 		}
@@ -655,9 +649,17 @@
 					type: "random"
 				}
 				{
-					id: "5B350C13999DBBE2"
-					type: "xp"
-					xp: 100
+					id: "6B0977BDE288B19F"
+					item: {
+						count: 1
+						id: "mysticalagriculture:fluix_seeds"
+					}
+					type: "item"
+				}
+				{
+					id: "0BB96AF1415C0759"
+					type: "xp_levels"
+					xp_levels: 4
 				}
 			]
 			shape: "diamond"
@@ -779,9 +781,17 @@
 					type: "random"
 				}
 				{
-					id: "2C476542501AA8F8"
-					type: "xp"
-					xp: 100
+					id: "0BC60894E25AA540"
+					item: {
+						count: 1
+						id: "mysticalagriculture:sky_steel_seeds"
+					}
+					type: "item"
+				}
+				{
+					id: "19329A86318B118E"
+					type: "xp_levels"
+					xp_levels: 16
 				}
 			]
 			shape: "diamond"
@@ -1211,13 +1221,18 @@
 			shape: "rsquare"
 			tasks: [
 				{
-					id: "58BF9A4EAD7C88E6"
+					id: "08D08A1400F7348F"
+					item: { count: 1, id: "ae2:blank_pattern" }
+					type: "item"
+				}
+				{
+					id: "5C04057C2C878E13"
 					item: { count: 1, id: "ae2:pattern_encoding_terminal" }
 					type: "item"
 				}
 				{
-					id: "08D08A1400F7348F"
-					item: { count: 1, id: "ae2:blank_pattern" }
+					id: "7020DDBA512422E9"
+					item: { count: 1, id: "ae2:pattern_access_terminal" }
 					type: "item"
 				}
 			]
@@ -1242,6 +1257,7 @@
 			]
 			shape: "rsquare"
 			tasks: [{
+				count: 8L
 				id: "5639418C0364E5A1"
 				item: { count: 1, id: "ae2:molecular_assembler" }
 				type: "item"
@@ -1330,30 +1346,6 @@
 			}]
 			x: 20.0d
 			y: -2.5d
-		}
-		{
-			dependencies: ["51DE3157DE3E57B8"]
-			id: "5AA3E5DFECB4AC4D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1D1F6812A2846E82"
-					table_id: 5871764666515020368L
-					type: "random"
-				}
-				{
-					id: "679C3844EFDF6FDE"
-					type: "xp"
-					xp: 100
-				}
-			]
-			tasks: [{
-				id: "3837D36BE3CC29A6"
-				item: { count: 1, id: "ae2:growth_accelerator" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: -3.5d
 		}
 		{
 			dependencies: ["4597D3B3BDC2BED5"]
@@ -1613,42 +1605,6 @@
 			}]
 			x: 6.5d
 			y: 2.5d
-		}
-		{
-			dependencies: ["2FB231069D2E4E77"]
-			id: "5CD8D169181C7339"
-			rewards: [
-				{
-					id: "653C5DBC5B2DFB83"
-					table_id: 5871764666515020368L
-					type: "random"
-				}
-				{
-					id: "79695D39F0DA9907"
-					type: "xp"
-					xp: 10
-				}
-			]
-			shape: "square"
-			tasks: [
-				{
-					id: "3AC5F84892DC0717"
-					item: { count: 1, id: "ae2:charged_staff" }
-					type: "item"
-				}
-				{
-					id: "68BE70918BD7F81B"
-					item: { count: 1, id: "ae2:entropy_manipulator" }
-					type: "item"
-				}
-				{
-					id: "3B720F63D105F7DF"
-					item: { count: 1, id: "ae2:matter_cannon" }
-					type: "item"
-				}
-			]
-			x: 16.0d
-			y: 0.5d
 		}
 		{
 			dependencies: ["2F16B6A173525277"]
@@ -2015,21 +1971,13 @@
 					type: "loot"
 				}
 				{
-					id: "491E04D42B94AB28"
+					id: "208C11202E93A88C"
 					type: "xp_levels"
 					xp_levels: 1
 				}
-				{
-					count: 4
-					id: "4381AD7A36F83306"
-					item: {
-						count: 1
-						id: "extendedae:entro_crystal"
-					}
-					type: "item"
-				}
 			]
 			tasks: [{
+				count: 8L
 				id: "6EA4AD7C8B04A86E"
 				item: { count: 1, id: "extendedae:ex_molecular_assembler" }
 				type: "item"
@@ -2045,27 +1993,22 @@
 			id: "7A63D357EFBCD3E9"
 			rewards: [
 				{
-					exclude_from_claim_all: true
-					id: "2B80576F5961700E"
-					table_id: 5871764666515020368L
-					type: "choice"
-				}
-				{
-					id: "6653FB198E126CF0"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
-					count: 4
-					id: "3D3EB02AF6F8C9E5"
+					count: 8
+					id: "7906FFADA7145B48"
 					item: {
 						count: 1
-						id: "extendedae:entro_crystal"
+						id: "extendedae:pattern_provider_upgrade"
 					}
 					type: "item"
 				}
+				{
+					id: "07FE1728F653145C"
+					type: "xp_levels"
+					xp_levels: 1
+				}
 			]
 			tasks: [{
+				count: 8L
 				id: "16E3D61FD64C63EA"
 				item: { count: 1, id: "extendedae:ex_pattern_provider" }
 				type: "item"
@@ -2284,6 +2227,9 @@
 				"22C4318523A43B49"
 				"02EDBB6360525814"
 			]
+			dependency_requirement: "all_started"
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "36E4D09F9ABC33AF"
 			rewards: [
 				{
@@ -2684,8 +2630,8 @@
 				item: { count: 1, id: "advanced_ae:quantum_alloy_plate" }
 				type: "item"
 			}]
-			x: 23.0d
-			y: 10.5d
+			x: 6.0d
+			y: 9.5d
 		}
 		{
 			dependencies: [
@@ -2714,8 +2660,8 @@
 				item: { count: 1, id: "advanced_ae:quantum_leggings" }
 				type: "item"
 			}]
-			x: 23.0d
-			y: 12.0d
+			x: 7.0d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -2744,8 +2690,8 @@
 				item: { count: 1, id: "advanced_ae:quantum_boots" }
 				type: "item"
 			}]
-			x: 24.5d
-			y: 12.0d
+			x: 8.0d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -2774,8 +2720,8 @@
 				item: { count: 1, id: "advanced_ae:quantum_chestplate" }
 				type: "item"
 			}]
-			x: 21.5d
-			y: 12.0d
+			x: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -2804,8 +2750,8 @@
 				item: { count: 1, id: "advanced_ae:quantum_helmet" }
 				type: "item"
 			}]
-			x: 20.0d
-			y: 12.0d
+			x: 5.0d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -2878,6 +2824,35 @@
 			}]
 			x: 21.0d
 			y: -12.0d
+		}
+		{
+			dependencies: ["361CCBD353D6FF34"]
+			dependency_requirement: "one_started"
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "47D3275E9D97A31D"
+			rewards: [
+				{
+					id: "59D3C6891561F7FE"
+					item: {
+						count: 1
+						id: "appmek:chemical_cell_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "3B2F0EB37ABB3EB0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "038ADFAB624970F5"
+				item: { count: 1, id: "appmek:chemical_storage_cell_1k" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 0.5d
 		}
 	]
 }

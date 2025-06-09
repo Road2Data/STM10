@@ -203,7 +203,6 @@
 			dependencies: [
 				"55399A94007EF769"
 				"72DE8EE98BAE41F9"
-				"65919828A84BE817"
 			]
 			id: "72819B86AFD8C3CD"
 			rewards: [
@@ -245,40 +244,6 @@
 			]
 			x: 0.0d
 			y: 4.0d
-		}
-		{
-			dependencies: ["148E823B4CA0AB6E"]
-			id: "11DAE80F2849AF05"
-			rewards: [
-				{
-					id: "53199B9325644979"
-					item: {
-						count: 1
-						id: "refinedstorage:storage_housing"
-					}
-					type: "item"
-				}
-				{
-					id: "1FD54B8ACAF6F642"
-					item: {
-						count: 1
-						id: "refinedstorage:1k_storage_part"
-					}
-					type: "item"
-				}
-				{
-					id: "141D84880FA74EAD"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "749B147D454BAFA0"
-				item: { count: 1, id: "refinedstorage:1k_storage_part" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: 0.0d
 		}
 		{
 			dependencies: ["449EB787EED7F543"]
@@ -458,118 +423,27 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["11DAE80F2849AF05"]
-			id: "2740A31B9DE96309"
-			rewards: [
-				{
-					id: "27EC10F37F5053C9"
-					item: {
-						count: 1
-						id: "refinedstorage:1k_storage_part"
-					}
-					type: "item"
-				}
-				{
-					id: "0E84D86FB5F26360"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
-					id: "6B2E6F4423F750CC"
-					item: {
-						count: 1
-						id: "refinedstorage:storage_housing"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "7CC10802F742E8EF"
-				item: { count: 1, id: "refinedstorage:4k_storage_part" }
-				type: "item"
-			}]
-			x: -3.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["2740A31B9DE96309"]
-			id: "7D0F98DDAC710B65"
-			rewards: [
-				{
-					id: "678C7937586295DD"
-					item: {
-						count: 1
-						id: "refinedstorage:4k_storage_part"
-					}
-					type: "item"
-				}
-				{
-					id: "6588231062E79DE7"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
-					id: "4E7995B8631E3252"
-					item: {
-						count: 1
-						id: "refinedstorage:storage_housing"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "6024D284133038CB"
-				item: { count: 1, id: "refinedstorage:16k_storage_part" }
-				type: "item"
-			}]
-			x: -4.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7D0F98DDAC710B65"]
-			id: "65919828A84BE817"
-			rewards: [
-				{
-					id: "6235CD737A3C7AA7"
-					item: {
-						count: 1
-						id: "refinedstorage:16k_storage_part"
-					}
-					type: "item"
-				}
-				{
-					id: "66A4F3F444891E12"
-					item: {
-						count: 1
-						id: "refinedstorage:storage_housing"
-					}
-					type: "item"
-				}
-				{
-					id: "4BC2619962C842B8"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			tasks: [{
-				id: "6011B6F0E29DB0A1"
-				item: { count: 1, id: "refinedstorage:64k_storage_part" }
-				type: "item"
-			}]
-			x: -3.5d
-			y: 1.0d
-		}
-		{
 			dependencies: [
 				"72819B86AFD8C3CD"
 				"0C2C37DD3F286F4C"
 			]
 			id: "15EA9DEF0ED037E7"
-			rewards: [{
-				id: "20E54E6141E73470"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "550D56503482B522"
+					item: {
+						count: 1
+						id: "refinedstorage:pattern"
+					}
+					type: "item"
+				}
+				{
+					id: "41999D3A1EEC1907"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			tasks: [
 				{
 					id: "556D63F38F6E5A59"
@@ -937,53 +811,149 @@
 			y: 6.5d
 		}
 		{
-			dependencies: ["65919828A84BE817"]
-			id: "043C4F5EBAEEE6F6"
+			dependencies: ["15EA9DEF0ED037E7"]
+			id: "68C2D635C7B20D05"
 			rewards: [
 				{
-					id: "65D03F4011038DFA"
+					id: "264255E5FFDE1893"
 					item: {
 						count: 1
-						id: "refinedstorage:64k_storage_part"
+						id: "refinedstorage:security_manager"
 					}
 					type: "item"
 				}
 				{
-					id: "58905BFC85385106"
+					count: 4
+					id: "17CF5ED51C117685"
+					item: {
+						count: 1
+						id: "refinedstorage:range_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "64693753222E232F"
 					type: "xp_levels"
 					xp_levels: 1
 				}
+			]
+			tasks: [{
+				id: "5D2E845830829B94"
+				item: { count: 1, id: "refinedstorage:wireless_transmitter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["68C2D635C7B20D05"]
+			id: "5FA237F0B49C68A0"
+			rewards: [{
+				id: "34929A75589238F1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "5357A8493300F233"
+				item: { count: 1, id: "refinedstorage:wireless_grid" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["68C2D635C7B20D05"]
+			id: "6B9481360B5FA999"
+			rewards: [{
+				id: "25DA3F4F93DDFC13"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "0D4193DF08868905"
+				item: { count: 1, id: "refinedstorage:wireless_autocrafting_monitor" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["68C2D635C7B20D05"]
+			id: "485C61D9CBBCD6E1"
+			rewards: [{
+				id: "58C09E5D440C1EDB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "2E720229B651F4F4"
+				item: { count: 1, id: "refinedstorage_quartz_arsenal:wireless_crafting_grid" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"485C61D9CBBCD6E1"
+				"5FA237F0B49C68A0"
+				"6B9481360B5FA999"
+			]
+			id: "3FD2055C1C6EE785"
+			rewards: [
 				{
-					id: "35684C366DA7799A"
+					id: "4BF72FA625B9D0FE"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+				{
+					count: 4
+					id: "1A99A15F440035F8"
 					item: {
 						count: 1
-						id: "extradisks:advanced_storage_housing"
+						id: "refinedstorage:range_upgrade"
 					}
 					type: "item"
 				}
 			]
 			tasks: [{
-				id: "788A53196B88A304"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:parts/items/256k)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "46DF5B10EEF314E9"
+				item: { count: 1, id: "universalgrid:wireless_universal_grid" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 2.0d
+			x: -3.5d
+			y: 10.5d
 		}
 		{
-			dependencies: ["043C4F5EBAEEE6F6"]
-			id: "2887BA64FC0B195D"
+			dependencies: ["148E823B4CA0AB6E"]
+			id: "7D6A8F79A13B4FED"
+			rewards: [{
+				id: "012B3EB19E6FAD0E"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "111AB07B3B3E4067"
+				item: { count: 1, id: "refinedstorage:1k_storage_part" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D6A8F79A13B4FED"]
+			id: "5AA017C9DE35FFD3"
 			rewards: [
 				{
-					id: "21AD9257A4929888"
+					id: "1EBE0DDB050D2D51"
 					item: {
 						count: 1
-						id: "extrastorage:storagepart_256k"
+						id: "refinedstorage:1k_storage_part"
 					}
 					type: "item"
 				}
 				{
-					id: "745D6FD3EACA1369"
+					id: "6568611966BCD38C"
 					item: {
 						count: 1
 						id: "refinedstorage:storage_housing"
@@ -991,7 +961,135 @@
 					type: "item"
 				}
 				{
-					id: "6691637AC081CDC9"
+					id: "55B4ECB45FED6AEA"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "5688A4F79B298713"
+				item: { count: 1, id: "refinedstorage:4k_storage_part" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5AA017C9DE35FFD3"]
+			id: "45D2C6AA55BEABCA"
+			rewards: [
+				{
+					id: "47F65679137F2309"
+					item: {
+						count: 1
+						id: "refinedstorage:4k_storage_part"
+					}
+					type: "item"
+				}
+				{
+					id: "49B682E9ABB97A36"
+					item: {
+						count: 1
+						id: "refinedstorage:storage_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "15FCC6943D10F71E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "62CB159FF7A85ACF"
+				item: { count: 1, id: "refinedstorage:16k_storage_part" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45D2C6AA55BEABCA"]
+			id: "0F140044044CD48E"
+			rewards: [
+				{
+					id: "0967E4910D0634C4"
+					item: {
+						count: 1
+						id: "refinedstorage:16k_storage_part"
+					}
+					type: "item"
+				}
+				{
+					id: "3F3CE8F295E41FE2"
+					item: {
+						count: 1
+						id: "refinedstorage:storage_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "5D450D553666F612"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "06ABBBCC9CB93E8D"
+				item: { count: 1, id: "refinedstorage:64k_storage_part" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F140044044CD48E"]
+			id: "67128C59A9431A33"
+			rewards: [
+				{
+					id: "1A3DD843F1D12AD2"
+					item: {
+						count: 1
+						id: "refinedstorage:64k_storage_part"
+					}
+					type: "item"
+				}
+				{
+					id: "5A5107B4D76380C2"
+					item: {
+						count: 1
+						id: "refinedstorage:storage_housing"
+					}
+					type: "item"
+				}
+				{
+					id: "506F68AFFF0219B0"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "31FD08585254C262"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:parts/items/256k)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67128C59A9431A33"]
+			id: "627EFF2A74B7C833"
+			rewards: [
+				{
+					id: "65B5BB7664B5B1F4"
+					item: {
+						count: 1
+						id: "extrastorage:storagepart_256k"
+					}
+					type: "item"
+				}
+				{
+					id: "63C0330FCE20C3C4"
 					item: {
 						count: 1
 						id: "extradisks:advanced_storage_housing"
@@ -999,25 +1097,25 @@
 					type: "item"
 				}
 				{
-					id: "3E9D6CD4932D1B77"
+					id: "3430EEE8FA3909BC"
 					type: "xp_levels"
 					xp_levels: 1
 				}
 			]
 			tasks: [{
-				id: "5CF46DF9C03DBCE5"
+				id: "676FC5FA7684763B"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:parts/items/1024k)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 1.0d
+			x: -7.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["2887BA64FC0B195D"]
-			id: "641E3776520A7FD3"
+			dependencies: ["627EFF2A74B7C833"]
+			id: "33280815A08C48D2"
 			rewards: [
 				{
-					id: "2528FF27CFB4A9C5"
+					id: "22829ACE957417A0"
 					item: {
 						count: 1
 						id: "extrastorage:storagepart_1024k"
@@ -1025,8 +1123,7 @@
 					type: "item"
 				}
 				{
-					count: 2
-					id: "332A1FB52DAC6F0D"
+					id: "5F7655C147380CDB"
 					item: {
 						count: 1
 						id: "extradisks:advanced_storage_housing"
@@ -1034,25 +1131,25 @@
 					type: "item"
 				}
 				{
-					id: "46436D6C4318F782"
+					id: "48ADCA37AC64F2AE"
 					type: "xp_levels"
 					xp_levels: 1
 				}
 			]
 			tasks: [{
-				id: "48C540BB6A2E8420"
+				id: "52D0A3CFB4309B25"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:parts/items/4096k)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 2.0d
+			x: -6.0d
+			y: 1.5d
 		}
 		{
-			dependencies: ["641E3776520A7FD3"]
-			id: "0646EF20CAFE547D"
+			dependencies: ["33280815A08C48D2"]
+			id: "47481DF5C5B8E8F1"
 			rewards: [
 				{
-					id: "214272ACC3866A40"
+					id: "34A6CB26AC855422"
 					item: {
 						count: 1
 						id: "extrastorage:storagepart_4096k"
@@ -1060,8 +1157,7 @@
 					type: "item"
 				}
 				{
-					count: 2
-					id: "74C1DA4BBAFFE747"
+					id: "2B8E82C56D067845"
 					item: {
 						count: 1
 						id: "extradisks:advanced_storage_housing"
@@ -1069,25 +1165,25 @@
 					type: "item"
 				}
 				{
-					id: "4758E62AFCA89563"
+					id: "1E89B564226FAA7A"
 					type: "xp_levels"
 					xp_levels: 1
 				}
 			]
 			tasks: [{
-				id: "5AC326B453942E23"
+				id: "604C31CFC5BDC88D"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:parts/items/16384k)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 3.0d
+			x: -4.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["0646EF20CAFE547D"]
-			id: "4E3575ED0C2257A1"
+			dependencies: ["47481DF5C5B8E8F1"]
+			id: "3DB8C3992264E7FD"
 			rewards: [
 				{
-					id: "1DD511216BD05130"
+					id: "6CCDDACB172BFA87"
 					item: {
 						count: 1
 						id: "extrastorage:storagepart_16384k"
@@ -1095,7 +1191,7 @@
 					type: "item"
 				}
 				{
-					id: "52C7C9708FC60CBB"
+					id: "2E21632B0310886B"
 					item: {
 						count: 1
 						id: "extradisks:advanced_storage_housing"
@@ -1103,18 +1199,18 @@
 					type: "item"
 				}
 				{
-					id: "266CD18A48FCE833"
+					id: "2401F555A9A139FB"
 					type: "xp_levels"
-					xp_levels: 4
+					xp_levels: 1
 				}
 			]
 			tasks: [{
-				id: "48F6C4E63348B1D2"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:parts/items/65536k)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "7261763A3BF60067"
+				item: { count: 1, id: "extradisks:65536k_item_storage_part" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 3.0d
+			x: -3.0d
+			y: 1.5d
 		}
 	]
 }

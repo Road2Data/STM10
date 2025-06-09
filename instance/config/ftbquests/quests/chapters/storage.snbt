@@ -1982,22 +1982,10 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["134608BB2B04D96E"]
 			icon: {
 				id: "minecraft:oak_chest_boat"
 			}
 			id: "544791880F315D5A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "66BA6B781711F99A"
-				table_id: 2217624173230631680L
-				type: "random"
-			}]
-			tasks: [{
-				id: "14FA4A933C39A406"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:chest_boats)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
 			x: 1.5d
 			y: 3.5d
 		}

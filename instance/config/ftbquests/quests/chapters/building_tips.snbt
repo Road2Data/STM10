@@ -955,7 +955,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(mod(mcwfurnitures))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 9.0d
 			y: 4.0d
 		}
 		{
@@ -1571,7 +1571,7 @@
 				item: { components: { "ftbfiltersystem:filter": "and(mod(handcrafted))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 11.5d
+			x: 9.0d
 			y: 2.0d
 		}
 		{
@@ -1595,29 +1595,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["0FE30548F25FEDB1"]
-			icon: {
-				id: "railcraft:magenta_strengthened_glass"
-			}
-			id: "59B6C6BF0550D13D"
-			rewards: [{
-				id: "349C1E1E6A18FF3F"
-				item: {
-					count: 1
-					id: "minecraft:iron_block"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "40B245AFD0DAB3A0"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(railcraft:strengthened_glass)item_tag(railcraft:steel_tank_gauge)item_tag(railcraft:iron_tank_gauge))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -9.0d
-			y: -0.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["44688FC2E34FF09F"]
@@ -1740,8 +1718,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:deepslate)item(minecraft:stone)item(minecraft:granite)item(minecraft:andesite)item(minecraft:diorite)item(minecraft:tuff)item(minecraft:blackstone)item(minecraft:basalt))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -2.5d
+			x: 0.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["09955CF85F579E0F"]
@@ -1763,8 +1741,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(biomeswevegone:dacite)item(biomeswevegone:red_rock)item(biomeswevegone:mossy_stone)item(biomeswevegone:rocky_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -1.5d
+			x: -1.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["09955CF85F579E0F"]
@@ -1871,8 +1849,8 @@
 				item: { components: { "ftbfiltersystem:filter": "and(mod(storagedelight))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 4.5d
+			x: 12.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["6F65216B13E9FFA9"]
@@ -1926,40 +1904,6 @@
 			}]
 			x: -5.5d
 			y: 2.5d
-		}
-		{
-			dependencies: ["09955CF85F579E0F"]
-			icon: {
-				id: "railcraft:quarried_stone"
-			}
-			id: "22E007025C19EC0A"
-			rewards: [
-				{
-					count: 16
-					id: "6D883E065044B7F4"
-					item: {
-						count: 1
-						id: "railcraft:quarried_stone"
-					}
-					type: "item"
-				}
-				{
-					count: 16
-					id: "3ED212B8B2BE22C6"
-					item: {
-						count: 1
-						id: "railcraft:abyssal_stone"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "50BED71A6677392E"
-				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:abyssal_stone)item(railcraft:quarried_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: -3.5d
 		}
 		{
 			dependencies: ["6F65216B13E9FFA9"]
@@ -3013,6 +2957,17 @@
 			}]
 			x: 0.0d
 			y: -10.0d
+		}
+		{
+			dependencies: ["2094D1CE4BA66091"]
+			id: "251A184650B5FAEB"
+			tasks: [{
+				id: "2B74CF91D228C440"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(luminax:blocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
 		}
 	]
 }

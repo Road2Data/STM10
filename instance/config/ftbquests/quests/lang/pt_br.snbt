@@ -5109,14 +5109,6 @@
 	quest.41F04EF882EF31E1.quest_subtitle: "Finalmente!"
 	quest.41FCD7F5B7E6E261.quest_desc: ["Finalmente, é hora de eletrolisar o pó de argila e obter aquele doce pó de alumínio"]
 	quest.41FCD7F5B7E6E261.quest_subtitle: "Uma boa fonte de silício também"
-	quest.420158B1736A1354.quest_desc: [
-		".... ainda não está implementado."
-		""
-		"Em vez disso, vá para o castelo gigante no Planalto Final e pegue alguns blocos de porta!"
-		""
-		"Há um kobold que aparece como um “espaço reservado”, mas você não ganhará nada matando-o."
-	]
-	quest.420158B1736A1354.title: "O chefe final"
 	quest.4204702AA6FBF40B.quest_desc: [
 		"Ficar sobre este item carregará qualquer item energizado de qualquer mod."
 		""
@@ -6985,12 +6977,6 @@
 	]
 	quest.5A94A2664BFDD7B9.title: "Armazenamento Básico"
 	quest.5A9E8222AEA6EF6F.title: "Armadura Charoíta"
-	quest.5AA3E5DFECB4AC4D.quest_desc: [
-		"Naturalmente, o AE2 oferece sua própria maneira de acelerar drasticamente o crescimento do cristal. "
-		""
-		"Coloque-os ao redor dos seus cristais em desenvolvimento, dê-lhes algum poder e observe seus cristais crescerem!"
-	]
-	quest.5AA3E5DFECB4AC4D.title: "Acelerador de crescimento"
 	quest.5AAD0E516762BA53.quest_desc: ["Você já sente que está levitando? Pode ser todo aquele shulker daquele Soul Vial."]
 	quest.5AAD0E516762BA53.quest_subtitle: "Cristal Presciente"
 	quest.5AB8651FCB1E2F72.title: "Projeto do Élitra"
@@ -7116,17 +7102,6 @@
 	]
 	quest.5CC9CB0911954215.quest_desc: ["Um Reed Nest funcionará em qualquer bioma do mundo superior e atrairá um Mason Bee ou Reed Bee."]
 	quest.5CC9CB0911954215.quest_subtitle: "Atrai abelhas em qualquer bioma do mundo superior"
-	quest.5CD8D169181C7339.quest_desc: [
-		"Esses três últimos itens são mais ou menos brinquedos extras fornecidos pelo AE2 e não cabem necessariamente em nenhuma dessas árvores de missões. "
-		""
-		"O &bCharged Staff&f é apenas um simples bastão poderoso que causa 3 corações de dano e consome 300AE por acerto. Ele também usa mecânica de combate pré-1.9, o que significa que você pode clicar com spam como nos velhos tempos. "
-		""
-		"O &bManipulador de Entropia&f, quando usado&r em certos blocos no mundo, irá fundi-los no local, como areia em vidro e minérios metálicos em lingotes de metal. Caso contrário, simplesmente acenderá um fogo no quarteirão. "
-		""
-		"Finalmente, o &bMatter Cannon&f funciona de forma semelhante ao Color Applicator como uma célula dedicada para armazenar itens de 'munição', como Matter Balls e pepitas de ferro/ouro, que podem então ser disparadas para causar dano a mobs ou quebrar blocos. 'Munição'Matter Balls mais pesadas em um Matter Cannon podem ser substituídas por &bPaint Balls&f, que aplicará um efeito de respingos de tinta na face de qualquer bloco que esteja sendo disparado. &bLumen Paint Balls&f são uma variante das bolas de tinta usadas exclusivamente pelo Matter Cannon, cujos respingos de tinta também emitem um pouco de luz que já esteve presente no mundo."
-	]
-	quest.5CD8D169181C7339.quest_subtitle: "Muito quente para o ATF"
-	quest.5CD8D169181C7339.title: "As armas?"
 	quest.5CF175DA7BDA52F3.quest_desc: [
 		"O &dHephaestus Forge&r pode ser atualizado para níveis mais altos usando coisas como Spawner Scraps, Arcane Crystals e muito mais!"
 		""
