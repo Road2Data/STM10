@@ -2171,7 +2171,6 @@ Files created:
  - instance\mods\rftoolspower-1.21-7.0.3.jar
  - instance\mods\rftoolsutility-1.21-7.0.3.jar
  - instance\mods\rhino-2101.2.7-build.74.jar
- - instance\mods\RootsClassic-1.21.1-1.5.5.jar
  - instance\mods\sawmill-1.21-1.5.18-neoforge.jar
  - instance\mods\ScalableCatsForce-NeoForge-3.6.2-build-0-with-library.jar
  - instance\mods\Searchables-neoforge-1.21.1-1.0.2.jar

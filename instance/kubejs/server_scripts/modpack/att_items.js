@@ -88,14 +88,13 @@ allthemods.shaped('allthetweaks:oblivion_shard', ['DAB', 'ECF', 'BGD'], {
 
 
 // Pulsating Black Hole
-allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', 'GHI'], {
+allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', ' HI'], {
   A: 'irons_spellbooks:fire_upgrade_orb',
   B: 'ae2:quantum_ring'  ,
   C: 'pneumaticcraft:micromissiles' ,
   D: 'justdirethings:paradoxmachine',
   E: 'pocketstorage:psu_4',
   F: 'occultism:stable_wormhole',
-  G: 'rootsclassic:crystal_staff',
   H: 'industrialforegoing:mycelial_explosive',
   I: 'evilcraft:lightning_bomb'
 }).id('allthemods:pressure/allthetweaks/pulsating_black_hole')

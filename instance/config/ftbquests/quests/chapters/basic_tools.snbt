@@ -1017,23 +1017,6 @@
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
-			id: "2DB53A77C3CD90F1"
-			optional: true
-			rewards: [{
-				id: "241C76938C2954B9"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "224A2A7012749DFC"
-				item: { components: { "ftbfiltersystem:filter": "or(item(rootsclassic:living_pickaxe)item(naturesaura:infused_iron_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: -3.0d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
 			id: "5CD65553EF60029B"
 			optional: true
 			rewards: [{
@@ -1351,23 +1334,6 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["5151CDD8FCDE7A07"]
-			id: "122282C288EAD366"
-			optional: true
-			rewards: [{
-				id: "370436B390F2DE50"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "236DA60F43220525"
-				item: { components: { "ftbfiltersystem:filter": "or(item(rootsclassic:living_sword)item(naturesaura:infused_iron_sword))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 2.0d
-			y: 4.0d
-		}
-		{
 			id: "16AAC61729C44881"
 			invisible: true
 			optional: true
@@ -1452,23 +1418,6 @@
 			}]
 			x: 0.0d
 			y: 3.0d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
-			id: "70DB76D3E7704E2C"
-			optional: true
-			rewards: [{
-				id: "29340F9AE760DEA3"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "427C079B92F20671"
-				item: { count: 1, id: "rootsclassic:engraved_blade" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: 8.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
