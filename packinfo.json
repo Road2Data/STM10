@@ -77,10 +77,6 @@
       "sha512": "fa19bf9a5f8f01b9eb7c68998d726311ec9675841ade2f5ddb7967ed8a32b7bdf1876b3328aa08ea2d77078c1890b56516fd3a77b7f304a55d018c7726202bd9",
       "md5": "31bdd527cb4da482ebdfa2724424bd41"
     },
-    "/mods/NaturesAura-41.6.jar": {
-      "sha512": "3e72c88479a76925c6e8e6253b25a3c6e7600f66c9303c9ea210235bbcd21753d6e76861434d628d14245433eb4f64acac5fb0624be7e27f00083ab690c607bd",
-      "md5": "1a3fe29b3570babd54ffc864c07dabf4"
-    },
     "/kubejs/assets/atm/textures/questpics/relics/relics_chest_endship.png": {
       "sha512": "248fe64f227249c6d20be61e51e420e592ede9bb01aca471d6aa1c15859c6515111abf5c125470b981c301883b5c916b9f75afb56a525d25fd2a49321abbaa32",
       "md5": "0cfb7d29ca513496d81efb108e026fa7"
@@ -1968,10 +1964,6 @@
     "/kubejs/assets/kubejs/textures/block/magical_soil_side.png.mcmeta": {
       "sha512": "5b3b2082e2550380aab3ef91b5e97b92dcef9bd9a41ebf686ce7259b94a62fbe3eae944310e0cc4d0726b81a42ee5ff9ce19663a6d9e63435ba42b543f830fa8",
       "md5": "df595558d76f6a9f357887250e37ec52"
-    },
-    "/kubejs/assets/atm/textures/questpics/gettingstarted/started_roots.png": {
-      "sha512": "194c61de04d8103935253ffe9c548cd77d6825cf7b4f58515484214f99a12f0b9bb4829aa887d9cc6bf4d28e798705c5c725a05657cdccbac961aee64289eaa9",
-      "md5": "e9e50c45579a1b477bdb2380b6219d6e"
     },
     "/kubejs/data/hostilenetworks/data_models/lonestar_skeleton.json": {
       "sha512": "1aeb2811c3ae6c4428149c8f7f5043dbdbb8b18a25afab582e59be0aac090bce63e538899526275df65850200e417e29470aa7a8dac2687219d45485566bd1c4",

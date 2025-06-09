@@ -1017,23 +1017,6 @@
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
-			id: "5CD65553EF60029B"
-			optional: true
-			rewards: [{
-				id: "62FDA68D032C051F"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "52018603FAA8E26D"
-				item: { count: 1, id: "naturesaura:sky_pickaxe" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
 			id: "3B542DC05240242C"
 			optional: true
 			rewards: [{
@@ -1362,45 +1345,11 @@
 			}]
 			tasks: [{
 				id: "6A098C929647B0A6"
-				item: { components: { "ftbfiltersystem:filter": "or(item(naturesaura:sky_sword)item(irons_spellbooks:magehunter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { count: 1, id: "irons_spellbooks:magehunter" }
 				type: "item"
 			}]
 			x: 3.0d
 			y: 5.0d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
-			id: "5D46EEC88D662443"
-			optional: true
-			rewards: [{
-				id: "436E69F5BDCECDBA"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "51AA75A2DC748648"
-				item: { count: 1, id: "naturesaura:depth_sword" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: 6.5d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
-			id: "7B1818D2C5C2BB18"
-			optional: true
-			rewards: [{
-				id: "39DC36E274780620"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "44F471C85DF505E9"
-				item: { count: 1, id: "naturesaura:depth_pickaxe" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -4.0d
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]

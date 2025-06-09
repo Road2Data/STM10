@@ -231,7 +231,7 @@ ServerEvents.recipes(allthemods => {
                 [
                     'psp',
                     'bct',
-                    'php'
+                    'p p'
                 ],
                 {
                     p: 'kubejs:modularium_plate',
@@ -239,7 +239,6 @@ ServerEvents.recipes(allthemods => {
                     b: 'productivebees:spawn_egg_configurable_bee[entity_data={id:"productivebees:configurable_bee",type:"productivebees:time_crystal"}]',
                     c: 'modular_machinery_reborn:casing_plain',
                     t: 'productivetrees:time_traveller_sapling',
-                    h: 'naturesaura:clock_hand'
                 }
             )
 })

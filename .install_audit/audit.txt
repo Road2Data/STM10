@@ -2104,7 +2104,6 @@ Files created:
  - instance\mods\MysticalAgradditions-1.21.1-8.0.7.jar
  - instance\mods\MysticalAgriculture-1.21.1-8.0.17.jar
  - instance\mods\MysticalCustomization-1.21.1-6.0.0.jar
- - instance\mods\NaturesAura-41.6.jar
  - instance\mods\NaturesCompass-1.21.1-3.0.3-neoforge.jar
  - instance\mods\NeoAuth-1.21.1-1.0.0.jar
  - instance\mods\netherportalfix-neoforge-1.21.1-21.1.1.jar
