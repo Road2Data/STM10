@@ -226,29 +226,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["2EDE91023F7924FB"]
-			icon: {
-				id: "minecraft:barrier"
-			}
-			id: "11E957CDEFA0CAAB"
-			rewards: [{
-				id: "4BB724E0CCCAF4E3"
-				item: {
-					count: 1
-					id: "utilitarian:angel_block"
-				}
-				type: "item"
-			}]
-			shape: "square"
-			tasks: [{
-				dimension: "allthemodium:the_beyond"
-				id: "6514595CBD4DE6C6"
-				type: "dimension"
-			}]
-			x: 8.0d
-			y: 3.5d
-		}
-		{
 			dependencies: ["4B2146C9527C54E7"]
 			icon: {
 				id: "minecraft:sculk_shrieker"
