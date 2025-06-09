@@ -4,19 +4,14 @@
 ServerEvents.recipes(allthemods => {
     // Tools
     allthemods.remove({ id: 'mekanismtools:steel/tools/sword'})
-    allthemods.remove({ id: 'railcraft:steel_sword'})
     allthemods.remove({ id: 'immersiveengineering:crafting/sword_steel'})
     allthemods.remove({ id: 'mekanismtools:steel/tools/pickaxe'})
-    allthemods.remove({ id: 'railcraft:steel_pickaxe'})
     allthemods.remove({ id: 'immersiveengineering:crafting/pickaxe_steel'})
     allthemods.remove({ id: 'mekanismtools:steel/tools/axe'})
-    allthemods.remove({ id: 'railcraft:steel_axe'})
     allthemods.remove({ id: 'immersiveengineering:crafting/axe_steel'})
     allthemods.remove({ id: 'mekanismtools:steel/tools/shovel'})
-    allthemods.remove({ id: 'railcraft:steel_shovel'})
     allthemods.remove({ id: 'immersiveengineering:crafting/shovel_steel'})
     allthemods.remove({ id: 'mekanismtools:steel/tools/hoe'})
-    allthemods.remove({ id: 'railcraft:steel_hoe'})
     allthemods.remove({ id: 'immersiveengineering:crafting/hoe_steel'})
     allthemods.remove({ id: 'mekanismtools:steel/tools/paxel'})
 
@@ -52,10 +47,6 @@ ServerEvents.recipes(allthemods => {
     allthemods.remove({ id: 'immersiveengineering:crafting/armor_steel_chestplate'})
     allthemods.remove({ id: 'immersiveengineering:crafting/armor_steel_leggings'})
     allthemods.remove({ id: 'immersiveengineering:crafting/armor_steel_boots'})
-    allthemods.remove({ id: 'railcraft:steel_helmet'})
-    allthemods.remove({ id: 'railcraft:steel_chestplate'})
-    allthemods.remove({ id: 'railcraft:steel_leggings'})
-    allthemods.remove({ id: 'railcraft:steel_boots'})
 
     // Shields
     allthemods.remove({ id: 'the_bumblezone:honey_crystal_shield'})

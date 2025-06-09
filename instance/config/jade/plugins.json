@@ -152,12 +152,6 @@
     "dim_block_base": true,
     "dim_tank": true
   },
-  "railcraft": {
-    "signals": true,
-    "track_component": true,
-    "locomotive": true,
-    "switch_track": true
-  },
   "tombstone": {
     "graves": true
   },

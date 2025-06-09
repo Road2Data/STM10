@@ -76,11 +76,10 @@ ServerEvents.recipes(allthemods => {
 }).id('allthemods:allthetweaks/nexium_emitter')
 
 // Oblivion Shard
-allthemods.shaped('allthetweaks:oblivion_shard', ['DAB', 'ECF', 'BGD'], {
+allthemods.shaped('allthetweaks:oblivion_shard', [' AB', 'ECF', 'BG '], {
   A: 'forbidden_arcanus:eternal_stella',
   C: 'evilcraft:mace_of_destruction[cyclopscore:fluid_content={amount:4000,id:"evilcraft:blood"}]',
   B: 'evilcraft:piercing_vengeance_focus',
-  D: 'stevescarts:module_galgadorian_drill',
   E: 'cataclysm:meat_shredder',
   G: 'twilightforest:snow_queen_trophy',
   F: 'cataclysm:void_forge'

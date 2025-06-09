@@ -269,24 +269,6 @@ ServerEvents.recipes(allthemods => {
                 {count: 64, item:'pneumaticcraft:compressed_iron_block'}
             ]
         )
-    //Railcraft
-
-        allthemods.recipes.kubejs.shaped('railcraft:creative_locomotive', 
-            [
-                'EF ', 
-                'CAC', 
-                'BDB'
-            ],
-            {
-                A: 'allthetweaks:atm_star_shard',
-                B: 'allthemodium:unobtainium_gear',
-                C: 'railcraft:charge_motor',
-                D: 'minecraft:minecart',
-                E: 'minecraft:redstone_lamp',
-                F: 'minecraft:netherite_ingot'
-        }
-    )
-
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

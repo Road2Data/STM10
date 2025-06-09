@@ -1219,10 +1219,6 @@
     "modId": "pylons",
     "version": "5.2.1"
   },
-  "railcraft-reborn-1.21.1-1.2.5.jar": {
-    "modId": "railcraft",
-    "version": "1.2.5"
-  },
   "Rainbows-1.21-1.5.jar": {
     "modId": "rainbows",
     "version": "1.5"
@@ -1431,10 +1427,6 @@
   "starbunclemania-1.21.1-1.4.0.0.jar": {
     "modId": "starbunclemania",
     "version": "1.4.0.0"
-  },
-  "stevescarts-1.21-1.2.13-neoforge.jar": {
-    "modId": "stevescarts",
-    "version": "1.2.13"
   },
   "storagedelight-25.03.09-1.21-neoforge.jar": {
     "modId": "storagedelight",

@@ -353,12 +353,6 @@ key_pneumaticcraft.boots.jet_boots:key.keyboard.unknown
 key_key.immersiveengineering.magnetEquip:key.keyboard.unknown
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
-key_key.railcraft.change_aura:key.keyboard.unknown
-key_key.railcraft.loco.reverse:key.keyboard.unknown
-key_key.railcraft.loco.faster:key.keyboard.unknown
-key_key.railcraft.loco.slower:key.keyboard.unknown
-key_key.railcraft.loco.mode:key.keyboard.unknown
-key_key.railcraft.loco.whistle:key.keyboard.unknown
 key_key.constructionstick.change_restriction:key.keyboard.unknown
 key_key.constructionstick.change_upgrade:key.keyboard.unknown
 key_key.constructionstick.change_direction:key.keyboard.unknown

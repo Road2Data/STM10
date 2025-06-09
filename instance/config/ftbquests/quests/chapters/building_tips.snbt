@@ -2001,28 +2001,6 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["0A21773B773F34F8"]
-			icon: {
-				id: "railcraft:lime_iron_tank_valve"
-			}
-			id: "5F7F753FD72BFBBF"
-			rewards: [{
-				id: "5BA5888DF2511CAD"
-				item: {
-					count: 1
-					id: "minecraft:iron_block"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6D2E8755BB3463FF"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(railcraft:iron_tank_valve)item_tag(railcraft:iron_tank_wall)item_tag(railcraft:steel_tank_valve)item_tag(railcraft:steel_tank_wall))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 4.0d
-		}
-		{
 			dependencies: ["2094D1CE4BA66091"]
 			icon: {
 				id: "pneumaticcraft:wall_lamp_inverted_orange"

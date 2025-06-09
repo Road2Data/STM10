@@ -55,7 +55,7 @@ ServerEvents.tags('item', allthemods => {
 
     allthemods.add('c:dusts', 'immersiveengineering:dust_coke')
 
-    allthemods.add('almostunified:hide', ['immersiveengineering:coke', 'immersiveengineering:dust_coke', 'railcraft:coal_coke_block', 'immersiveengineering:slab_coke'])
+    allthemods.add('almostunified:hide', ['immersiveengineering:coke', 'immersiveengineering:dust_coke', 'immersiveengineering:slab_coke'])
 })
 
 ServerEvents.tags('fluid', allthemods => {

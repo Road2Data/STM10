@@ -1,4 +1,3 @@
-#18041B railcraft:abyssal_stone
 #597A42 alltheores:aluminum_ore
 #FA75A8 minecraft:andesite
 #F84007 minecraft:andesite_stairs
@@ -109,7 +108,6 @@
 #5D17E5 minecraft:redstone_wall_torch
 #4DAA1C alltheores:ruby_ore
 #61160F theurgy:sal_ammoniac_ore
-#57E28B railcraft:saltpeter_ore
 #86FC77 minecraft:sand
 #B815CF alltheores:silver_ore
 #468B47 ae2:sky_stone_block

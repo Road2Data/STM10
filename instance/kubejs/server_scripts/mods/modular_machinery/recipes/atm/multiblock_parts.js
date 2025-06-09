@@ -34,12 +34,11 @@ ServerEvents.recipes(allthemods => {
         allthemods.shaped('4x modular_machinery_reborn:casing_firebox',
             [
                 'csc',
-                'shs',
+                ' h ',
                 'csc'
             ],
             {
                 c: 'modular_machinery_reborn:casing_vent',
-                s: 'railcraft:refined_firestone',
                 h: 'pneumaticcraft:heat_pipe'
             }
         )

@@ -41,11 +41,9 @@ ServerEvents.tags('item', allthemods => {
 
     // Tiny Coal
     allthemods.add('atm10:tiny_coals', [
-        'utilitarian:tiny_coal',
         'actuallyadditions:tiny_coal',
     ])
     allthemods.add('atm10:tiny_charcoals', [
-        'utilitarian:tiny_charcoal',
         'actuallyadditions:tiny_charcoal',
     ])
 

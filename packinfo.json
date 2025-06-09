@@ -97,10 +97,6 @@
       "sha512": "280eabf3ddcf3771972717dc0dd3e75d0d3b7993b87b87755e0deb554879e80484b824b0df879ade446205b6f43c30225be8e303c09c58eb5c37caf28763171d",
       "md5": "3f4dab1d9d7b677b6d1c420da7782e8a"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_item.png": {
-      "sha512": "93172719bedefa4d33fe22ecb92fff90988d8e568525a60ea2477ffd14550f55af73607ea859ca546374c72811bf6965dc9c1466f2ff8ef10ac046c675888551",
-      "md5": "ef28d4b5a33fa2c0d2b0380dfd16139b"
-    },
     "/kubejs/assets/atm/textures/questpics/theurgy/theurgy_ferment.png": {
       "sha512": "5f5293710c65cc7b494828598796915ce0868e51c1688f56411dc5a0c857f5fbbc281b4bb0ee5803b37b799fc2940effb36ea427137f5e9772c29fa3aa5ebfeb",
       "md5": "db579befbe45ba0125b34d3229b5451e"
@@ -169,10 +165,6 @@
       "sha512": "906740908da4ebd7fcc1ac4c3c9d8a0ac8cbbc26d2b530758abb0672d0a194fdd33073e5495445718476973cf591e784a4abcd7ef7ec59bd0f0cdc82d7bfa416",
       "md5": "62d23f5f8cae413e65e5e833868de79e"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_electric_speed.png": {
-      "sha512": "1291a7e7ea54f7cc1171345b64355b45bc9b5794e50dc52de3a58e1eefc439a5b88e5a1f65a63bf88436aed85b2c6533caf58948b8463ab049b9485b0cde3854",
-      "md5": "6441ccee757b81352d440bbca81a5f9c"
-    },
     "/kubejs/assets/atm/textures/questpics/mek/basic_sps_shape.png": {
       "sha512": "6bb905b5955d813828cca20abbce01936b94375990e83f00f6147c716db66737f349cd43617765d72262e9ef9254bcf9134d0b8f8b5e3108c807759a76a4ca64",
       "md5": "f116a7bcac73e090dd6660c1579c640a"
@@ -212,10 +204,6 @@
     "/mods/mcw-windows-2.3.0-mc1.21.1neoforge.jar": {
       "sha512": "3f947bfadf24e66adfad34c20849b7a51f240244631f6d27820f7758a5ca79a74a78117468c4c13b6404422df7a4aaf6a229a69aa9cc32379d0a868584a8893d",
       "md5": "c7713f6d44173160d732bb3b120cc081"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_reinforced2.png": {
-      "sha512": "254c2961f608538532e5deccfe0395492a6d31d68854f0092ad51d17d5387d8d82b0562dd655727b71fd007370340acb5c0709efec0ff623e84f546cbd984e7b",
-      "md5": "1862120403d7b64275f9d08ea755d35b"
     },
     "/kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_unobtainium.json": {
       "sha512": "404e0ec05b22a57a5d8327f87fca611815c0b5faffc2f6d720963600fbe2127fd47bbe16f884a7d25a7a81e2625dfda271ba7ee9144a6f01543ee28003fbe331",
@@ -285,10 +273,6 @@
       "sha512": "61e965b44d3335be64705d57f5d20e37886ae3698ea1a6072c54162060c0b6443a66747c147907c748b47d0be4c21d29d0055cfd92be67b128e10c8c21663b65",
       "md5": "f087e2ae80e594d4ccd79e9f10240ef3"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_cartcell.png": {
-      "sha512": "a8dfbf366f2cb902f860fc03fdd50a0a16de95447e0ff289bc86853d9ff08c97037ed3a6043c2146891782b4ac8994efad85f0254e6354d0b694148ec08b637e",
-      "md5": "3760e54bb927bfd009a5445bed493598"
-    },
     "/kubejs/data/compactmachines/advancement/recipes/misc/new_machine_small.json": {
       "sha512": "04624c56d30a7fd6cba328f8bd339278f9e595455e2597f42b947c6b137cc04096ca52403cbdc1a21470dbb6064052bedbc27960044d9d1b66cad1e2d76ea84b",
       "md5": "f0e2c167ef84b2b5d435c77b3c3fd763"
@@ -296,10 +280,6 @@
     "/kubejs/assets/atm/textures/questpics/immersive/immersive_bottler.png": {
       "sha512": "1cd9082e6695ae1d7b66a391f294e1ac9e1f4f04800b0f6c342fa902c52636c69df74d6a41bb7620dfd84cf9c5273f7edd2223e11f58954f6723bdaffdaf68a1",
       "md5": "664f0cc1107d0e18f0abe8f9198ad4e3"
-    },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_sulfur_ore_lower.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
     "/config/ftbquests/quests/chapters/hostile_neural_networks.snbt": {
       "sha512": "5e4bfa2842a53ef9eae8ccac425b579370e86f9a7edcc8046c807c54c03ae43815593b9966b44d35239521fc6fc249de9f160956b845e41718156d3a6b26d26b",
@@ -745,10 +725,6 @@
       "sha512": "e572401caa0ac178aa1f55eec64510904aaf22924790039d9e8084e6f63bb545aa47904aa9da84e523ca44ea47a0f80440c68d94e369554261eefe58a0846dec",
       "md5": "b4c20cf6a80c2edadf74ff53226c2750"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_fluid.png": {
-      "sha512": "71928fc454d0c306e0302298797cd671fc0d0ea7db78b9b259de17c64bfb7b3465c042504d2478ffce97b2713da9a8ed50d26468d4d02caf76e76f70185fd275",
-      "md5": "cb3894ecda3621e6d3a58530b2f3adf9"
-    },
     "/kubejs/assets/atm/textures/questpics/relics/relics_chest_stronghold.png": {
       "sha512": "9d265604b621b966536aba0b9db57afd2cb493b58d93353c1d80fac6cb2d3c3ef45cecae4c3941138f9bbbe3b74c284ba19bd98f7c63e03bdcb26eb15d7309da",
       "md5": "298a3e5a2b78aca693cd4f0e1af6fec8"
@@ -1125,10 +1101,6 @@
       "sha512": "d354b11045019bf081a573e3e042b49e7075b332efffece9fd08aad7d1ac1ef673ba8349b85c729baa35ae8a4301d4a4708d1e0d0c1677b5397adcbe52227955",
       "md5": "1e37229a832d8243a2ba9f512cedf7c3"
     },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_tin_ore_small.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
-    },
     "/kubejs/assets/mysticalagriculture/textures/item/seeds/xychorium_gem_seeds.png": {
       "sha512": "79239cc683a7ebc70469080b92b6e971049acff05a57b440d506121ae2a964f8f81ecdaa512cb37a3931ff3c02bbf2479e049a154043206fad0569d9ccecb6af",
       "md5": "05d9f2f1e23e8be09f11afa50e8a218d"
@@ -1148,10 +1120,6 @@
     "/kubejs/assets/atm/textures/questpics/bumblezone/bumble_canyon.png": {
       "sha512": "a0bb23c583329d4bcd3b79f79056bd9a93676fd76fcbbcc2365562c7f78d5299f41bdb9da57b8a73b6c6781750b408da198f09eb99ddae50aa8ad94ee40ef4df",
       "md5": "a1a4e9ab5ce317ba5f7385adfd70c444"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_crusher.png": {
-      "sha512": "83cb161c08c6f4f027d43898784c0ebe0d762d3258aaca7e1158586896c7cd83d138bff0261eec563772c4ea66986702329042b05eaf942a8b99ed7d379b3aa2",
-      "md5": "9f2c148e6003bd1fe2f8f0d0e654ab25"
     },
     "/kubejs/assets/atm/textures/questpics/cataclysm/cataclysm_title_leviathan.png": {
       "sha512": "54c0aedd00546f99e3601e237f2a9008ee675e1b38f1674a29d0db34d565bdd5d0c837ed91a40234602f818b3651e78521a0d790794764c6d57e00d40d72f18f",
@@ -1200,10 +1168,6 @@
     "/mods/blockui-1.0.200-1.21.1-snapshot.jar": {
       "sha512": "ffbd9860f203e8e801416a342a058fefc5e4111f5d15afef9c0a38ecdaa7a56362f72f785270932cb8d9908c90a7bca7523d0bd104cdde02d308ee54d0f887dd",
       "md5": "25e69ec7429ce958886a2aab335cb0ed"
-    },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_middle.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
     "/kubejs/assets/atm/textures/questpics/immersive/immersive_coke.png": {
       "sha512": "7d767c0d78fef6ce2072bec3d848a42c4dc41880203420a86ed14e2a6120da67a84e4cd5c438b9b1a0d79e1b1b8bc770154e7946c4f4778efb48975ff31a2db0",
@@ -1945,10 +1909,6 @@
       "sha512": "3ec8d43e34df4d0fde514ea8f42f3ed8f4889a1154ed0f08f36f2415b42a8daabb5a76b933edfd572ce48c49a3377400c7c002c384e8262af9571cbd84df11bf",
       "md5": "74d5a50da10fa897189d270e0803f61d"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_tank.png": {
-      "sha512": "7f53350df6181bf845b15faee79c9414b4256be4fb26c5f6806445d6db3d26b31213e4769613caa1f3e5fb9cb32f30bccf994f26b3f3c8092a26a3d1a42e337f",
-      "md5": "237da59544b47fd08ff47a1a1c086e2b"
-    },
     "/kubejs/assets/atm/textures/questpics/chap2/atmstar_layer6.png": {
       "sha512": "6b4c85a29d5bf788e1ccb65e2bea49b1326517d2f8298981167d64cb2c08c15397a7e6a818db8980560b10896b3948dd1a2f382b05fb6c2e8b5236cf7e5e801b",
       "md5": "74d42fde8503cdb8e72242a9224561f3"
@@ -2148,10 +2108,6 @@
     "/kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_oxidizer.js": {
       "sha512": "6b5fcef27fdf6a4d90839841567fa3defaf54620c0ccaf931ed0f0eff347d6e33cd5e6f9b08679bc9b7b1f45d59c68748b7fc6da9800815e8c120e1dd1c870c8",
       "md5": "8a8ccbaa22e4dae8d87e88ce2b430e95"
-    },
-    "/config/ftbquests/quests/chapters/railcraft.snbt": {
-      "sha512": "ac03b77dbaf0747351487a4a781031d66284f09bb49ffb438536bbfe12bd6b09119baad3de5cf69bbacdc0d2ebc729dc54647877994bf58e36b500b7fd756ae3",
-      "md5": "d9156968a9c56ddba360465a50abc87e"
     },
     "/config/ftbquests/quests/chapters/justdirethings.snbt": {
       "sha512": "a71017401301e69e6a488003cc8a8b30dfbe956058db62a1aad85917692b21085eeceb93cbf66230f80da1eb647587e3c45f37135450270dec57ebe3fea04ed9",
@@ -2368,10 +2324,6 @@
     "/mods/crashutilities-9.0.4.jar": {
       "sha512": "b728916508cdbb866331173599c79edb0a4e90548d57f197f2b441e34b1a7e8a47c214c182c4ffb713ee9b8bc19579902e584a71c1053978d9fecda585cb33b3",
       "md5": "8a6dd8e1ebe0e5e8acf3bd377f98361c"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_junction.png": {
-      "sha512": "5e8679c14138a50eee68476163a4cf14b9174d5573b4a0bc49908a1799cbd72c963f2b9f63a47584f93338d841a43489833b45bbbdbce861518b72e1f87e582c",
-      "md5": "00393ddee3121c6a105958dc271a7ac2"
     },
     "/packmenu/resources/assets/packmenu/buttons/language.json": {
       "sha512": "10533f41e6f723b6fe15b34eb189de518005e1a232e22ac225a395758fe02cef2d07dff34034dd7cbd80a6d3f504bbf9dd300f4f148f76e00b4ccdc772bc1b40",
@@ -2613,10 +2565,6 @@
       "sha512": "ef16264025a08ae9dee907ee7a2908709c0e61a980b5013391a79f8a117099c8d126ba58a8790c7f41267cc164a3628bb13468f7d155eaff311b610ad3143855",
       "md5": "2f864f865cf3cfcfd15501a9a1d25c8e"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_cartdispen.png": {
-      "sha512": "d865df4012603def99b151ab43ca186052d3b554e9fc83518a3d234060ee189fb27edfc1ca11c83e9b02630d0d9bcb7a953bd354e576150266d2af71d958bc82",
-      "md5": "3a49804cc34a6d1e3de20f245925e665"
-    },
     "/kubejs/data/hostilenetworks/data_models/crystallized_moth.json": {
       "sha512": "784686e4a254c1990b190c6d9d097e6fe7071f5479e4d658d7d26e108b7c563bd7f2b1f0844530fe9443f1c854fac6478eac4a893f044f39fbe72cfde54b5321",
       "md5": "d9bdfea9188e0a4eaff566320305a47a"
@@ -2729,10 +2677,6 @@
       "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
       "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_turbine.png": {
-      "sha512": "38b7fd9a6ca1b67b4443c017fad5721459f254443940125ed7adce902f3e8927248f60f7d39e978ba67c26dd7433e0362b79d058a4e4aa2d43b269828bfd2fd1",
-      "md5": "8206f8fb39ed20dae829af7b1362db6e"
-    },
     "/config/the_bumblezone/general.toml": {
       "sha512": "220309cb41aa5347ef00d943a6a393b1954a932786bbbcf65b6f13459d44cb6e28605603b3fcd2af374941cfa0b93666298f03ff254f56437f11b4a89335416c",
       "md5": "90fd52e742794298d1a82b82861ae2a1"
@@ -2792,10 +2736,6 @@
     "/kubejs/assets/atm/textures/questpics/pneumaticcraft/pressure_chamber.png": {
       "sha512": "eebb55cb356ea79f5513592335867ce0aca5a403768a2e576e8184caaaa0b35f7e7dd6bc494c81afe1782e59088db65d9083cc4d6585ca85ba3fe7a5b66abd6b",
       "md5": "e73d905defab77702c1899799651aa58"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/railcraft.png": {
-      "sha512": "8b1fd307d6e8891ef15aa15386da7db0c2d00ecc3774bf6699544aaf2a27cba208057dd4ef5822ad2096b28dfc0e1fda3145b36987bbbbfd4b7fe4216e0b2e79",
-      "md5": "bc486df30222cf46bfbe7a5c28b04fcf"
     },
     "/kubejs/assets/atm/textures/questpics/undergarden/undergarden_barren.png": {
       "sha512": "f6640d5fa1a4ca6f2a474a8de78dff82cf351294e2ab9bd0627df095f1ae96834beefb4ea52190891fb8a11bba02febdede4c68c4e2d642adc27683c5f333d80",
@@ -2917,10 +2857,6 @@
       "sha512": "6f733c665d8ce2dbc4aa0f7b264db99a0dcdbf1a8d4736650af9abefb0fa12c7ca8f4c3fe230a519560717a61f1b3289c553675e83c5aa0cc3392972b0b1d9d3",
       "md5": "831df63f7e455addd14108ef918d6d12"
     },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_silver_ore_lower.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
-    },
     "/mods/Iceberg-1.21.1-neoforge-1.3.2.jar": {
       "sha512": "19d33195cfee0a640f40fb64d82346df7ac970ddb43ed68ba2dacb4793b18d577fd57dd43a4c2e94f731487c024b8d7ebcc52721764ec9d8a87bd68fc7df5c96",
       "md5": "68473a4ca9a827669c13d3855c8dc0e2"
@@ -3017,10 +2953,6 @@
       "sha512": "07bf0ecbde56cb1629f925e955ff80db6ac055a1c2d8924ea68ebf03dc8f2456e66056aebe9624c69899adfb57699d5cc4e1714d6fdcd3c4f37a5eff9f3f3ec9",
       "md5": "05e297c58590f1b121f9bc3d50ec5639"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_wye.png": {
-      "sha512": "62b8ff92c572d9b9fba77eaf331c94b230ae8eec5c0568347fdcbb779ac790874b3c108cbdae6913e0ffeb38bc4bcdede3a0b6c017c6c526fdc3c294fd620478",
-      "md5": "4e0e2c01f3b368155ca61ee8ca447a52"
-    },
     "/kubejs/data/bigreactors/neoforge/biome_modifier/yellorite.json": {
       "sha512": "5ada73d0dd14fbaa5d49df81ec0959c63adbe1ab58f14c3f996f8f7bc44760331ddd36e21d01c884fecb331ebe1cb63fbbe370e838441a8654cf532cec84d975",
       "md5": "d9b4ce165eaf4f4335e898ed68965b0f"
@@ -3032,10 +2964,6 @@
     "/kubejs/assets/atm/textures/questpics/undergarden/undergarden_muncher.png": {
       "sha512": "014b634ac5caa043f0889f8b085b4a4144251bef89d8a200b71c5e4ef0a3153693201664dbcfebb63e440734a5e9f7dd90d3db8659e84a34f02807e66dbc173b",
       "md5": "4c24e58b3b05d0a9a6806ea3b84c7212"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_abandoned.png": {
-      "sha512": "c4077f4c48d187fc1068327380e4cbfc9c087f6243e5618bfb1d737a12194d3784f4611f9adf74a777b27bf5e43a1490fc5fc382ceb7dcc81614bcad6b26adf1",
-      "md5": "4e6f9dc7607e22774fed967d1293f190"
     },
     "/kubejs/assets/atm/textures/questpics/immersive/immersive_lightning1.png": {
       "sha512": "5648bee2704463ce372542022532ce60522a4e27a652ecb55ff545205f762983b792de812ad516c92ca47540b6b9cfd085ee645eb204402e5b73b0a503c79d95",
@@ -3229,10 +3157,6 @@
       "sha512": "505657b0219a8616f3cc755db423907342bd640b1a766aafe1f5bf6fea3cc041ba5061c8c49103268ae89309692a9b8991571ab8d815f6aaebed3896bbc604df",
       "md5": "e8ef41c530804113b4ed1934c6371dda"
     },
-    "/config/railcraft-client.toml": {
-      "sha512": "912b168d78ecd65c0acd17cb2797e6f8f2e636d86f7f3a93cf581dd20447590c90584c6caac71dfea2912b54395496ff1eda97cbd1b29e2141cd9b34abf3688b",
-      "md5": "4751fde5fbb54475f3b9ab28f2d5b6fa"
-    },
     "/kubejs/server_scripts/mods/Mekanism/Compatibility.js": {
       "sha512": "46740774aefbc151406750ab86b5612cd864904c0faef12d3980cf4dcad1a62a488add66a8e0e5d4ab4c85c46021341af9176661b3568a54358f237cab3b5cbb",
       "md5": "d8300fc017032ca48a8add5e098c871d"
@@ -3240,10 +3164,6 @@
     "/kubejs/assets/atm/textures/questpics/chap3/creative_crucible1.png": {
       "sha512": "bee2af94cb0ce7ee2213d8d9c997e4abb411b97663825a9cd623661f90c99301d85686687f0c89d59d893a2e8732ad560b26af263fff97bddc6eac8f35310abb",
       "md5": "4f51b2ff7a4c112cf1080433c4640a00"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_big_boiler.png": {
-      "sha512": "79fb4a18c88657e30706b634379cf63c9f61b459264fe7cbfa14877089f23bf69e685c69f2d02bc1b8247be58b5fc861a24667a27444ce7875fe1ba605b25cae",
-      "md5": "f17b777183e467f7fb8fa6f3380bcc8b"
     },
     "/kubejs/assets/atm/textures/questpics/cataclysm/cataclysm_maledictus.png": {
       "sha512": "c71a44ab8ba2425edb5008037ada491e1c3d68b5803ae779bff00e2bfb4d9ae1f3fa45811174a6a528a85360318fc3491d5b1e258977ecfba813ddd37c64e2df",
@@ -3413,10 +3333,6 @@
       "sha512": "80abf8c55a108882a026b5ff7679ccb2907954a68c95e54c5e557f409787a1e5a8b73025dc2b683a13f2d36f3c815b8072ea478d5e514d2bbbac511ec40cb58a",
       "md5": "83f455f80be2164b23525561e851852e"
     },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_tin_ore_large.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
-    },
     "/config/mysticalcustomization/tiers/magical.json": {
       "sha512": "e20fd3e3daaa33e2b6472b1253adac6b544162f9ccdf6d71ad046bcb2cb4a5e6866e5f74074d42086e253e0cf2cc27299d95a231c5b3ac7c170cd3b296f15bab",
       "md5": "5d9905f60bc2cbc87dc50708ba7e3186"
@@ -3552,10 +3468,6 @@
     "/kubejs/assets/atm/textures/questpics/building_tips/building_breadzaa1.png": {
       "sha512": "99a70f6c1dd81eb59bc27ac96d01ef1ee6e0187adfae7648191f434382ead4aa0faf08c27180065186169d4211a039645364885dae043755d236f008fbc9f186",
       "md5": "66397b2aeefd0c2ce89fb59e869f9801"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_traindispens.png": {
-      "sha512": "c0eec44f3671e2fbdf5a77942ea92a2d09ba2f243f49055030e2c6767f379756bbf2c776d490adfa918787b9e360c7f28c06b31119c2f0cc0afc393079b18174",
-      "md5": "96fefbdc3c8257880664bede8815fbca"
     },
     "/packmenu/resources/assets/packmenu/buttons/options.json": {
       "sha512": "542e0bcf4c8e5dc325eabca24b65654814af137733505ad616a12fec1aa15f3662e5cb68e95a8f83db68afdff8b3591cb2390c9f83c55543e5c773e332696d87",
@@ -4257,10 +4169,6 @@
       "sha512": "bb96891f12aa0594e57827539323bd986098be6a571b5089f7830b89dfe87a75312f17d013cf774cc158ecac2585ef823135e980d46a06ca0e00b0da25316a9e",
       "md5": "9cd266c33adb9de3c8ec3403efc5b712"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_carttank.png": {
-      "sha512": "31f9376f0f2d934f50d1c50b9a7024bfd237ce4dc4621c2078cb66f7b5a66acd2ddba9c893da3c30aa339966af6a74cef7213452b88c3e98d79e37d7cc18d5ef",
-      "md5": "b546cb4d5af04eea61c6beedaeda1f3d"
-    },
     "/config/potionsmaster/redstone.json": {
       "sha512": "136ee1d3bcd43e8e2bc5b6f13f2d94fc89bb8fde443748d4d3486f1225e41b6dcbf2f97e5acd9e0b7339605ddb0dea5cae652c58647850fc8cb356695bcee0dd",
       "md5": "df1f1499c868ecd343c0326c8a733a99"
@@ -4376,10 +4284,6 @@
     "/kubejs/assets/atm/textures/questpics/iron_spells/spells_outfit_archevoker.png": {
       "sha512": "ac55c079fae8c28efa2a92ae2d767b38fe0050b343e8cd9ddecb222866e6981d557544a2a8dcf2103bea5cf550264c55791c994d42596d276af61ef2038a362b",
       "md5": "b9fdddcd5cc4316fbeb0008aac2374ce"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_reinforced3.png": {
-      "sha512": "2650b85589435679dc40d036c720ea686fda2abd83c6d8fa5c02389b8716eb49d02647b8404b4e8fadccfb3ee36a464eb1476504cf807f46536e7f73f770c28d",
-      "md5": "9ab0b76c29f34135c7890fe7783b45df"
     },
     "/kubejs/assets/atm/textures/questpics/chap2/atmstar_layer5.png": {
       "sha512": "9afaedd09723c01b52956fd79db5b53c13372b23ef89fa613e1d977e893464dd48dfda8b1b93174036eddc8ab64a86bca9b94b3d79166cd8753facae82020aeb",
@@ -4517,10 +4421,6 @@
       "sha512": "b7cd56d4dc4518926b3fd2867b1529b9dc4d3026f141e1895fca6777a28fd4dc3abcf4d41151d3d92001d37ab37c4cf47cb5fa20429bc73b1d3c6a5680a0513b",
       "md5": "8b32db21761e176445ad3a589e1ebed5"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_cartdispensed.png": {
-      "sha512": "6161473576503073a463fdb085acb6957419a52daa6d6319720f2fade9469901e6b3507f96a0ef2fd14d1ab3f630a3f3624b6ce9c177b159ec48afa2765dc170",
-      "md5": "6ca738fb03370dfc975f59e580c32a3a"
-    },
     "/config/mysticalcustomization/crops/kivi.json": {
       "sha512": "d1151826180da6bebcd9ebcb5a438d19c17b21e43b8b78cf142fdfb1a7fb1ae6792b03b117d3b3febf8a83324ce6bfbef6f64cdd6c5bddc62dae6f041f370ff3",
       "md5": "898b69c352591d349cbee60d11952d3b"
@@ -4600,10 +4500,6 @@
     "/config/ftbquests/quests/reward_tables/mekanism.snbt": {
       "sha512": "9355adf5df35a46fc6bb13ff2a22cdc48baf180b496b0a30abcbb800e8af58aa6b2949368731e96952a8d27397222e1e29e5132b9fcdd1fa5ce081dfddb1bf69",
       "md5": "9d187c547cf96c42362dc3e0e869fd6c"
-    },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_sulfur_ore_upper.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
     "/mods/minecolonies-1.1.981-1.21.1-snapshot.jar": {
       "sha512": "5939d0417747d40dba22e62a3f3ae9fd08bfce36b142df94d4c088a935bca6048a38ff2641ed4546f8903dae5285da064f63b5ab32b65bb5244de2d422b8943b",
@@ -4821,10 +4717,6 @@
       "sha512": "f8650319ba02dc49762489349e11156566c1b2b2d4c87a50e43c8ea8b1c460e86b0e8e25fd5d9b078b0562bd7ba3371bf4aa5bc5b3d0e1d38d2f7ec7de77a03f",
       "md5": "9adbe27d076fd4d6af61dcdda8899388"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_small_boiler.png": {
-      "sha512": "f3f20236c00fbf2b9ffa694ca9879a01f1330b2d947057f715e90d7ba9e61ab784c46fa329c7260271b1ae8b5f99589b5ea4a46b19f92c5a370b50991d8951a1",
-      "md5": "015a450ac8b5e8823f7596e09016574d"
-    },
     "/mods/heyberryshutup-1.21.0-2.0.4.jar": {
       "sha512": "08f14679789f385f254d7835033ce1acd9c1e054e28a72879151f0e2a30d6cd121c5d3ba33d82d69727b87deb23ffab08da70077b21ad466eba68281dce81892",
       "md5": "395f1c098041c4a7752c1cd149d2bcf6"
@@ -4840,10 +4732,6 @@
     "/config/ftbquests/quests/lang/en_us.snbt": {
       "sha512": "3f04a3178ded3d0f286bf34dbe3fac57dbab139d3c11101966ccc3a279c4b7cce37e857a08755faa2a9766848fa0ad56bd815eb37c78f38fc65b554fe58f5bc5",
       "md5": "3c938da6c5475935e7ce7609ff0844d5"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_oven.png": {
-      "sha512": "3059319193b020420888465af9a3df03064e78cb284bed4a3acabd00db250abe2e9cbca9b35b190e30a44f870abcf4e71be9363f69a7813d48d482f75f14c86e",
-      "md5": "541a87fe5fab300d20275e25de1503b2"
     },
     "/kubejs/assets/atm/lang/es_es.json": {
       "sha512": "89293c5967e861f80e07c73502d2dce1dae9ad6c506c79de89b42c7fd6f70ab0cfa4cbb6968024300fe9f3982e955cbfcc377628a25c912306d82c78805c5ea5",
@@ -5036,10 +4924,6 @@
     "/mods/sophisticatedstorage-1.21.1-1.4.38.1166.jar": {
       "sha512": "df9fb60b0fc3569c1e31919b3cf0bed79fc6b53c849bc93ecade5def259f6e1d9d71df9f2e2fa305922f9ac8274e8d6f87ffdb9411552e56bb30b0a7d5233508",
       "md5": "59b6cfdc9fef5ff39790ec692ada2a80"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_electric_rail.png": {
-      "sha512": "30b7c6d0eda354a98f824c1986598137e65e4b37454d9a5db7cd6c1353f7cdd112b8a463adf7b6a8f3a2c6f35f54dbd320b082392135b0dcab7f6cc9b8133382",
-      "md5": "2028825d0ad34867c852e1d5b0d3008b"
     },
     "/kubejs/assets/atm/textures/questpics/building_tips/building_chaosorder1.png": {
       "sha512": "4cdfd65ad2bfbba36eef77d5f303c6435f5ff109ad27d964cfdfa74c8b59b12078b8023153a046994284173d618de96ff92e195c1b89df334aaf84f9b3040d34",
@@ -5709,10 +5593,6 @@
       "sha512": "ade23654fc6d52aba91583484e858aa095389b78074da82052c137971bd2ead2eca78e0fe6a74156252f60c7f025e6c698a7223b7d774693d322df9c86566fc3",
       "md5": "0c09e3d4895d80a43b7e559ceafdadc4"
     },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_lead_ore.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
-    },
     "/kubejs/assets/modern_industrialization/textures/block/machines/runic_multis/overlay_front.png": {
       "sha512": "d15eb933b64e3f6eb2eda59ad35089fe4b95f66525ed081563406cac6f6834441db6b539a5571fc042d541cee36176e8557eaf10b7ba8b5017965e9ac8b9a823",
       "md5": "c0d12fdcc54fa91d2d579a641abb2487"
@@ -5785,10 +5665,6 @@
       "sha512": "411d052a0eba475885bd43a66f1c1626b28206b946757e3451a9fdd8eba66d04a5ff53ea6a37e209d5a701e5a8a01f7c9bf3a9f9d0072932c3ea1aeca372b968",
       "md5": "ff223d34d1fbc90f65f8d2f95fa61771"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_steam.png": {
-      "sha512": "4ad4c90c531e462ac238fb951f6498c8d5e5d4994c3502a3b6b687ef1bf09d424eb2ba3575440575a392e6dfce116e58d4da7337db8b2f3ba4c7b0c530be8175",
-      "md5": "5a76ca1f2979b99f5da44031e402b6e4"
-    },
     "/kubejs/server_scripts/mods/Xycraft/Extractor.js": {
       "sha512": "394704fe0c61f714b1f7fbfcc07c45244136b30b9125eaafc05fccf486ea2c47f656a25781081215dcb5c616671b5d800653a540ba16312b1338c9a3134d2eae",
       "md5": "0d6bc375a7649ba7ae7f5aa1125b63dd"
@@ -5825,17 +5701,9 @@
       "sha512": "3d0e8a9335a10a72e41fa65b4b00061affe1bc75dfb2b086fd588141a7ce58ff293ae2dff29bd7899f14848d744cc6d53674a42a2a079ada7925a20a7b7da059",
       "md5": "6377125562f30f178354bdf35fe338a1"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_furnace.png": {
-      "sha512": "00ff714c361290d5a16eb4c0a020506d6953af8c1e1bd2163cfb88dc28ddffd53810455213bc19a62f0079f020017b835c3aea9fa8748bcae69553c64e559546",
-      "md5": "04d91222d53cbd7129838727ebf648d2"
-    },
     "/kubejs/server_scripts/mods/Handcrafted/Recipes.js": {
       "sha512": "874ffce74e56085850c1f0c48ffc0464128c884d7e8590ab189603802b2140478e84ac793c30e073f1939117efd3a07e40ab1c9427fa34fdb48ebc42d40c9863",
       "md5": "835ad2d47845da130cb27a8a757cc86e"
-    },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_small.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
     "/config/ftbquests/quests/data.snbt": {
       "sha512": "e360136fbb07c07dcd6ca533dd133f314212cc44b605b31081f471d740d3114ecf44d5fb56470711098f97d4d795723138ba327188b83563d30add7f2ca49018",
@@ -6197,10 +6065,6 @@
       "sha512": "725841b2a8395cd3bfbcc2b5b7f7f8b26b2cb7115222e065a2ad27e8466c15a7d55e5d4705d281e9b2a009d7105b9a89a8090e66891c0431451d115850baae3b",
       "md5": "28a46fa08ac284bac1eec1fa2b3ebb61"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_carttracks.png": {
-      "sha512": "ecf7f404e6dc4ef5a66debc536ecb215d731f356705b5e324f44d36e702345042f23321ac8771d9d71ebe94d8bb6741578787b8703cb29e47ec8a7312e3afe96",
-      "md5": "786630d900746f57a43b4ad71ec4f1e1"
-    },
     "/config/ftbquests/quests/reward_tables/immersive_alloys.snbt": {
       "sha512": "b9deea51451430f3294739f69d1692fb1caba7c2cf71548f34587fce44c8df6d72e48e9b334073a0817a4293f2f0dd9c069508718fd5b2ff5df1c9c7cfd15225",
       "md5": "f4eebe9f6f384448d333bddf9a9080e8"
@@ -6240,10 +6104,6 @@
     "/kubejs/assets/kubejs/textures/item/calcinated_base.png": {
       "sha512": "5107022d91f97147892424e5f6f19af202c16befd9b7a433490820158df8577cfc6eede5f3493d180f2977894c1022242c1e3a9a11d4647a228b6271a04cfab0",
       "md5": "e9593696848eee7db41a427014cdbb4a"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_electric.png": {
-      "sha512": "c0f82138e85a495b56ef6821e7fc4674615c871b10786678c1ca9555893bac102c4d517ff728785916f4e44dd155e513df640400c3ba571ebf62f91b455555ab",
-      "md5": "6c8ceaeecea1986f6c7b623318f4de12"
     },
     "/kubejs/assets/kubejs/textures/block/drive/magenta_cell.png": {
       "sha512": "52860d9e6dd6a14498b89d4a0ac30638ce3a457353916da1a3814c61789bd6e1717c23d38794f446c51831059de1208951822a9a685644241482bddc10b540a7",
@@ -6401,10 +6261,6 @@
       "sha512": "d9bc83f6149444aab8c24131c9fd73365f8f38446bb7920307896cf44e750cf5928bde76d8380f795fa8077c750292b9380ed468b8df2636927d0f364de4806b",
       "md5": "7fa4a83ac6deb59414900f602c306db1"
     },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_zinc_ore.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
-    },
     "/kubejs/assets/kubejs/textures/item/atm_star_shard_2.png": {
       "sha512": "a8a56eed17104dc17699ecd2fe47ba86507b2d1a508cf8fea46e484b545181bd4e3cbdd42cb5e5f57e340745d87190fd2538059b7f98aacde5d3f0102ee8876e",
       "md5": "1ac04267522aae74e7d5372c23306802"
@@ -6436,10 +6292,6 @@
     "/kubejs/assets/atm/textures/questpics/logistics/basic.png": {
       "sha512": "89b39c680fb574b093c87e2f6fd9b424ab23eb162befe59dc67936ad8cd97ddf8776d5cc91a4b66e6db6a709dbb316e98b4b9ca4c00fb41afa86638ac38bfa3c",
       "md5": "c6d288a2df955d9b9a7db1dba055e160"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_strap.png": {
-      "sha512": "40123136445aa63909499d37f4672489befdff7cc93aa436ac7f08a4d045c960b5eacf9ab20ae6246ef57af761f0d1475ed660199c3123f9464d9e9b72475591",
-      "md5": "84ac240c17cb71f93742d304d825227e"
     },
     "/mods/treetap-1.21.1-0.4.3.jar": {
       "sha512": "2e6c06f7783c0aefeebd119f199a6b940c55fdafca121a884a78519c2a2bec18c89778fea5e5cc80e0b3ffa7a06e4c982fc2aa3b11ebd0dd4733e2e9f9804547",
@@ -6749,10 +6601,6 @@
       "sha512": "6621fd950ab4a2383b83c614bda657bac2fbf73d2d5b242427a264be6cb5b784a815666655ceb9e2d2b0779c3c5438665fea3f9e546b1ca237aa9022163be540",
       "md5": "a2c16e86a51002eb4f3dcb5a8d504e16"
     },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_upper.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
-    },
     "/config/ironjetpacks/jetpacks/steel.json": {
       "sha512": "5ed3a33ce34e8be7c06b9f52fab872de3723ba9e27d473e0dab191cc5b398956b068e7ecec76fcc9c9379de039cd9bb146c59e55fb36f3aed5fdf11594fd8d33",
       "md5": "4de00da7b11a4f52b7b301fed30327c4"
@@ -6912,10 +6760,6 @@
     "/kubejs/assets/atm/buttons/options.json": {
       "sha512": "efead41941b10cb57b16ad72504a70099e4e46724a80930901cc9f62fd4a4ebd3602fd783684eb8b9885cfa9c2154e72b647b158c3859ba96721f9c425b327bf",
       "md5": "ee0159ef50ec8d3452d51737a19e95f4"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_reinforced4.png": {
-      "sha512": "2d2cecf88afbf34fdbce62f8482284de3011bf99a49c7c4130196f6c6276b3c1537f1f0822495dbaa40a6becedfcdcb321509b3ed2faa03d3c90e571c9bd173c",
-      "md5": "f266e125918890331621cb0256e0242f"
     },
     "/config/mysticalcustomization/crops/crimson_iron.json": {
       "sha512": "ebbddbcd7b8a9294195dc8d7d4f7f566f8f76c1ccd3dc44f02032b896d4ccb7a00c79dcab2ab659a74e3a65ce24dfdd2482ac49172c2f1840abb08ec4b21164c",
@@ -7105,10 +6949,6 @@
       "sha512": "f890dd63a2ed9242830ac87109e2bc45eb860f5df96c42958ff5f1a2c21e36dc9e54df85ba870e83b25572bb98210f7a4999827458c8dda33fc41378d01c5b97",
       "md5": "f91d78bcae81b4bcd5968e536df74ae8"
     },
-    "/mods/stevescarts-1.21-1.2.13-neoforge.jar": {
-      "sha512": "2816a01be69f26661fac6657841c41d58c2520bed0b66f4675388a1eb5d43d8d01ec9efdad84368e3f42916c5309452d1f9029e96250369c1b367d032786412d",
-      "md5": "1de91fb24003a759801f7e37cef1616c"
-    },
     "/kubejs/data/atm10/tags/worldgen/biome/allthemodium_spawnable.json": {
       "sha512": "7163ba6f68d0c0e04d137a730ab0a0caf90c33885f44d4293ad3119bd5026f75151710fa10bef1921712f9ef13c6476e506920bbae4513a09e1126c763f4333a",
       "md5": "1f5d783f3d578124f59f86db52019f9a"
@@ -7136,10 +6976,6 @@
     "/kubejs/assets/kubejs/textures/item/netherrack_cell.png": {
       "sha512": "c9c3020174c56ee1dcac6ebb383289817371ab360aef6307c6924959a3d9a879098b311867a324e0245084dd848060678b933310ec61e1f49d27fa872968aa09",
       "md5": "378c5ebaac1fb8517194e45cd773e3ac"
-    },
-    "/mods/railcraft-reborn-1.21.1-1.2.5.jar": {
-      "sha512": "0f6d55a94b9490931f2dfbc5719b25ef60c423cae886065c34f5f80bfcf3d7b38ae815d16f1b8b6b3d3cfaad4024344339ab05179e029ed23d380384b66dcb5d",
-      "md5": "a503f6cf2eb8335b944a2b9c1657943f"
     },
     "/kubejs/assets/atm/textures/questpics/theurgy/theurgy_fluid.png": {
       "sha512": "8b64d98dd9b6e1242594821f0698a18dddaba910cfb8275f2d04c8f3998196085fd0b29fd5923e2274ab7dc65b9789a62f6f8a8d9c9902263bedcd9dc86f1b1b",
@@ -7585,10 +7421,6 @@
       "sha512": "80502f23f7f9dd9c11e004a66813c513ce709cfcde764d81a5e8630c1f765b87f72f72475e4a31ee8b750a95b30e1fe738c5202c2251b859f25382ebf5e82151",
       "md5": "44693698be261e77cc893c49079335a6"
     },
-    "/kubejs/server_scripts/mods/Railcraft Reborn/tags.js": {
-      "sha512": "5601df8e7d9d2b9b93e0e2cff855f6aac690d7bb108caffb3828ba13a8637f71996a9db7f27f29f53bb287663c3f4c8beae6578f70a89c29f7feaaf077477ff3",
-      "md5": "8825932c8f335c3bbbaaf0d12ea15f3e"
-    },
     "/kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/small_blimp_biomes.json": {
       "sha512": "3352adceb2ed18a3b7a94478d9b739327cbceffa8043bbc6747eb4a41d6a187f6ecd00821f08f62a276751fc4722802a65a5d0cbd11da97f2a73118330358761",
       "md5": "412ac258042331f3c8ddbf356712f3d1"
@@ -7612,10 +7444,6 @@
     "/config/Mekanism/machine-usage.toml": {
       "sha512": "e6c703c527c76f248e693aa870f36c13a82776bfc1f8959ac5108d875be863686dfade78d6661e6808196c3fde788f192da550ffbf0ac2707121486ecfa65790",
       "md5": "e5bda5a96bcbd38874f6f239a9590cfc"
-    },
-    "/kubejs/data/railcraft/neoforge/biome_modifier/add_silver_ore.json": {
-      "sha512": "868b3c6b48d39915c2691a061e854ce6001dad33d034fe6413fcb2bbfeffbc900f11987b65e6b42302cd818975ce2bca66a7b8857654b4deaf9577de5558277f",
-      "md5": "bf5f7fed5e5b20af01d1af23f050f67c"
     },
     "/mods/functionalstorage-1.21.1-1.4.3.jar": {
       "sha512": "41ae7b7113548849a6ab8b9ebe92d6b8266f4b2f66d2557d85e798362eb96c3a0895a2cd4a8ecb84f51ba23d939a1fb5484cb2e02faa5ead3dd0af39b410d019",
@@ -8029,10 +7857,6 @@
       "sha512": "6aefdce14eaac333608da1a3d118783f195d7cfd392527dac250a22d2bb30d05c91578806f292060f05d2e4f90e154a75b85f305f36b4f31011c1c9822863e48",
       "md5": "8613740b959fa05d3b5a48659c165566"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_unloader.png": {
-      "sha512": "575fd97cb6d5b93cebce49214f4f221746d83a72e98049e412b60ec5763bce8f4e0d6a112fa9c46cc386cb2151bd53bee04dee20d19ffd76040bcf0fe04dc136",
-      "md5": "4936bff19c8e2aefdfb87f7887e12bc3"
-    },
     "/kubejs/assets/atm/textures/questpics/building_tips/building_unka2.png": {
       "sha512": "436e1b26b25095936dcffb10750e2b04234fc4078c803526b6e55295043504682a194b9ddc23840e485c3624464d949d77a08108db673ff2d91fae3dad4826b6",
       "md5": "4a9c1eeef28e90a520546edf6c3bf734"
@@ -8309,10 +8133,6 @@
       "sha512": "4fa121588829c6b74a3fd6995853253202d7947d8b002815603036e845efd0d7c188e40c554e42924f7c4e95fb17552552b6282111a7bc5016c14205736347a5",
       "md5": "93283169718de116f7923e50d7c52095"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_steam_locomotive.png": {
-      "sha512": "44639efa1f3ba14a628ece8d7c3417b51f5a7bd109276ea4b464769c9688e1bcd7184651cb91dab546259359717be691f325ed963e5da3d155dcc287db348a1f",
-      "md5": "dcdd681a71f977625d6eb8f1e7ee2241"
-    },
     "/mods/mcw-paths-1.1.0neoforge-mc1.21.1.jar": {
       "sha512": "e6eefdf3f680399ad2e9aeb4996fcf7166a9e63ded0f2aa6519ea66c8390beb9417507efbfda1abbcefb3e5e9e4ab295440c62ad7ae851105dd621ab66ea4fee",
       "md5": "81e4c5e517c800568401bb0012fb0dee"
@@ -8365,10 +8185,6 @@
       "sha512": "35b87ddba5558d3d0c786045b70681034d9c59218c179da080dcff49c039c4cf1e49ae47f0502368065f74905b4231ea3a8f4ef7ee8d43cdc6cdc00b3408abdb",
       "md5": "85ed290ae8776f6029cf3956d5659bf5"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_coke.png": {
-      "sha512": "90516c10a2f781fb16929b5b172023aaca38483cc97584bf866d513e861b5125f2525315d1fb912f3a503f74fe91a0f32ba74aa7c9824340c12804930dc4027d",
-      "md5": "dfdc29f270c4f106ac7526b7efe5f82c"
-    },
     "/kubejs/assets/atm/textures/questpics/forbidden/forbidden_tier1.png": {
       "sha512": "cdbe37da2750b984aecc39b64d10448bf583300bb02501e7c6efcd2a23c0554dd249d617ef19488434a8471a01a9c5819e79a2e474c87d66faccf767460c467d",
       "md5": "cb3ace1bd0c3ea8b693915be05691f36"
@@ -8417,10 +8233,6 @@
       "sha512": "1a32d1017d8103fbb25f95ece7b9ba67dec41551bf0b0ac17a63afb7fee001b56ebdce90ecffd570bba1aade8de78ace870058837fdf021ebee2ec54d8e516b8",
       "md5": "81c43486a94e125ea2ad20269ede5d5d"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_turnout.png": {
-      "sha512": "5c08afd4e63fd07ba73f443cd417845136d7fbbfa81c914ae0028a4e2bab229bd5c48005ed902b313dd862d79b0e2c1433765362e78f2063422fd60d4367c338",
-      "md5": "5fee0ca82a369cd718de8ed070f07fa7"
-    },
     "/kubejs/assets/atm/textures/questpics/furnaces/furnace_netherite_off.png": {
       "sha512": "3d4a6279428f4c27d257ed75b01c233e978c5c409d37f28b3b801ecf884cfca2dd4f4d8a187ddf7f393a9a15c2c5c1464f5e6aff5625fad45bd2568c354f7ad6",
       "md5": "60bd3458bc5e2d2b34e681249e91919a"
@@ -8464,10 +8276,6 @@
     "/kubejs/server_scripts/mods/ExtendedAE/InfinityCellRecipes.js": {
       "sha512": "9e509138cb3523524d92fcd72e6c0c75076c1cc593387acef24ab94cf9b037ad4816ed5e287ff2d9eeb84e9fd29fcf1b7e88ef72fafba96c36a204cea0e5f1ef",
       "md5": "f02794c0356ef2bc8ed02c3852f1033d"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_reinforced1.png": {
-      "sha512": "793a7ebb26f787bdb218d68503610d660c6f04f86e0fe345e0fb3f1c5c3f09533139e04e2c4635f582279a4ae6d8c59ca0d927a7c43d2b86817e991e3f86e085",
-      "md5": "1e453135a59402d3480da85ce54f6f18"
     },
     "/kubejs/assets/atm/textures/questpics/extremereactors/reprocessorfull.png": {
       "sha512": "039c22169f4f2e43896aecb54743ebec8e89cef11ffd8babbeb8819d6de718f5a6fd24349afaa5e68dc1a6539d06533bf7e307f99b9bc88c31ce09b05ac40aac",
@@ -8681,10 +8489,6 @@
       "sha512": "3edc19ccaf7c6704eb124e7ef6abda0bbc49b1bb6819d1e23ce794294abf712d585f3048ddbbdda92ba19c17297dde8ec1137009165aaf64e559feb09b285b2b",
       "md5": "e2ea79150fe65f3e8292283b3adb0132"
     },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_speed.png": {
-      "sha512": "5cd342365ced1e69fc77784805f580d178b195b7de812ff532985feaf88c61da13927033d25e10cb5a42acc64b788c4973b024e3e172d7aaa6d1549c680b6ef6",
-      "md5": "4f91e477b0d84bb52218d9c63fbc6127"
-    },
     "/config/ftbquests/quests/chapters/chapter_2_the_star.snbt": {
       "sha512": "3147528bd7e9ef30c339741f691235774da4446aa1855726b4e3ac15eb1e4e4d3e58a052b3ac61334e3dfbe33682bf1cdbc572f6712b08a99b1a5622b86ed4a9",
       "md5": "a0f1df5730c7be59565c113a61e9aa83"
@@ -8860,10 +8664,6 @@
     "/kubejs/assets/kubejs/textures/item/atm_star_shard_1.png": {
       "sha512": "56c821e5e031abc7a81268889fa4ead53f2b5a7f1f888cf8fcc233a659710ae0ad48b9132b5671ac6e99ab28f03be4274e5b6b1d4c8f01a65ef2232e6e8f45c3",
       "md5": "337c4dec7d902ef9aa64f4b55064f86b"
-    },
-    "/kubejs/assets/atm/textures/questpics/railcraft/rail_tunnel.png": {
-      "sha512": "6a4a21dd033958659b8fa16d19564005b18c8896541e94e78331476e1af0ef4481f87542586b41a43fd3b5c99207f7d6094dd811e0fc55b972645a220ed7c060",
-      "md5": "01adb43435b523c22ad835c316a71e4b"
     },
     "/config/ftbquests/quests/reward_tables/uncommon.snbt": {
       "sha512": "c23846dbc4b16d26eac00b0ec952597edca7fece326f61e6d2c74a3fe0ab76f8a309147605199fd5de8021c1aff852e79389a96d5d1bed18079603cec2525a21",

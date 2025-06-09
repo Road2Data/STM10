@@ -112,10 +112,6 @@
 	quest.00764A738DA6451C.quest_desc: ["Kill 4 &dEndermites&r. \\n\\nWe're just killing everything now aren't we?"]
 	quest.007A11C49E06F15F.quest_desc: ["These can be Crafted. \\n\\nThe &9Crafting Component Blueprint&r is one of the most important &9Blueprints&r. \\n\\nIt is used to help the &6Engineer's Workbench&r make small Mechanical Components for cheaper than Crafting Tables. \\n\\nIt also can be used for Crafting unique Items like Light Bulbs and Circuits!"]
 	quest.007A11C49E06F15F.title: "&9Crafting Components Blueprints "
-	quest.008D186B4E0ED14F.quest_desc: [
-		"The Steam Oven is another machine that uses Steam for something useful. \\n\\nBy putting Steam into the Steam Oven it will act as a furnace to any items in it. Making Ingots from Ores and cooking food items. \\n\\nIt's a 2x2x2 machine of Steam Oven blocks."
-		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
-	]
 	quest.008D186B4E0ED14F.title: "Steam Oven"
 	quest.008DBEF8893F1B63.quest_desc: ["Of all the elements, Helium is the most stable; it will not burn or react with other elements. Helium has the lowst melting point and boiling points. It exists as a gas, except under extreme conditions where it can be transitioned into the 4th State of Matter, Plasma."]
 	quest.008DBEF8893F1B63.quest_subtitle: "Massive Multiblock"
@@ -245,10 +241,6 @@
 	]
 	quest.02057E81D8139BAE.title: "&aSuiting Up"
 	quest.02089D95AA679502.quest_subtitle: "Drops from the Arachnarch's Loot Bag"
-	quest.020E6AF37A0421C8.quest_desc: [
-		"The Water Tank is like having a barrel outside. Just this barrel is much bigger. It collects water and can hold water for Steam Locomotives. \\n\\nThe amount of water is makes is dependent on the biome and visible to the sky. \\n\\nIt's made by a 3x3x3 Water Tank blocks with the center being hollow."
-		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
-	]
 	quest.020E6AF37A0421C8.title: "Water Tank"
 	quest.02190383FEE793ED.quest_desc: ["All that is left to do is use a &eChemical Reaction&r to pull the Chlorine off the Iridium!"]
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \\n\\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
@@ -369,8 +361,6 @@
 	quest.034FC4BCCCD7D154.quest_subtitle: "Tier 3 Base Upgrade"
 	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
 	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r Spawn Egg"
-	quest.035C52EF63AD23A7.quest_desc: ["Hence the name of the mod, &lRailCraft&r, and what it revolves around, &5Trains&r, &6Rails&r are pretty important. \\n\\nThe &2Vanilla&r ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)"]
-	quest.035C52EF63AD23A7.title: "&6&lRails&r!"
 	quest.036ACCD0FFFF5B37.title: "Entropic Crystals"
 	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
 	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
@@ -1102,11 +1092,6 @@
 	]
 	quest.0A3C464EF7CDD5F6.title: "&4Hellshelves"
 	quest.0A3F4D7A15E61B43.quest_subtitle: "Theseus's Hull"
-	quest.0A43FD0B5C76C1C5.quest_desc: [
-		"&l&7RailCraft&r adds a Blast Furnace multiblock for us to transform Iron into Steel! \\n\\nTo build it you'll need 34 Blast Furnace Bricks. It'll be 3 blocks wide, 3 blocks long, and 4 blocks tall. The two blocks in the exact center need to be hollow. You'll know it's done when it forms all together and allows you to access its GUI. \\n\\nThere you can put Iron ,in any form, to get Steel and Granulated Sand."
-		"{image:atm:textures/questpics/railcraft/rail_furnace.png width:100 height:100 align:center}"
-	]
-	quest.0A43FD0B5C76C1C5.title: "Blast (Steel) Furnace"
 	quest.0A443DC4A0F4AD61.quest_subtitle: "Concurrency Ahead"
 	quest.0A443DC4A0F4AD61.title: "Entro Infused Ingots"
 	quest.0A467A0CFFCF1490.quest_subtitle: "Beech + Luck"
@@ -2324,11 +2309,6 @@
 	quest.1682CED78D9D4BA7.title: "&9&lTwilight Forest"
 	quest.1697CC05D08B388D.quest_subtitle: "Yummy Fried Chicken!"
 	quest.1697CC05D08B388D.title: "The Chickens Must Go"
-	quest.1698565EBB68DC85.quest_desc: [
-		"The &6Wye Track&r is the second track made by using a Spike Maul. It directs two &6Tracks&r into one. If you have one &6Track&r intersected by another the &6Wye&r will move &7Carts&r on the first &6Track&r into the intersecting one."
-		"{image:atm:textures/questpics/railcraft/rail_wye.png width:100 height:100 align:center}"
-	]
-	quest.1698565EBB68DC85.title: "&6Wye Tracks"
 	quest.16A04B2FC3F0D902.quest_desc: ["&7Cloggrum&r Tools act just like Iron Tools, these just look more like Mud than Iron does! \\n\\nThe Sword does more damage than an Iron Sword though."]
 	quest.16A04B2FC3F0D902.title: "&7Cloggrum&r Tools"
 	quest.16A6C47E35F3B9D0.quest_desc: [
@@ -2351,11 +2331,6 @@
 	quest.16E4EA08B647E8E0.quest_desc: ["No matter which path you took for your Digital Storage, one of these is needed to make the &6Star&r!"]
 	quest.16E4EA08B647E8E0.title: "Wireless Terminals"
 	quest.16FA120455D36B58.quest_subtitle: "Orange + Mangrove"
-	quest.170118E3C3C072E5.quest_desc: [
-		"The &6Junction&r is the last &6Track&r made by the Spike Maul. It acts as a normal intersection for &6Tracks. &7Carts&r keep going the same way as before but now &6Tracks&r can intersect. What happens if 2 &7Carts&r hit each other on it? THEY EXPLODE!!! I'm kidding but &eElectric Locomotives&r will though."
-		"{image:atm:textures/questpics/railcraft/rail_junction.png width:100 height:100 align:center}"
-	]
-	quest.170118E3C3C072E5.title: "&6Junction Tracks"
 	quest.1705175C20CE91DD.quest_desc: ["Eclipse Alloy is a new material added by JDT. Eclipse Alloy is aquired by performing Goo Spread on Netherite Blocks using tier four goo. Eclipse Alloy Ore is affected by fortune."]
 	quest.1705175C20CE91DD.title: "Eclipse Alloy"
 	quest.1710B3D05215A71E.quest_desc: [
@@ -2401,12 +2376,6 @@
 	quest.17598C171E610752.title: "&6Large Advanced Motor"
 	quest.1759A4E2AF0D2C88.quest_desc: ["Think of the &eLight Engineering Block&r, now just make all its components much harder to make! \\n\\n1st we need &eElectrum&r, which is an Alloy of &eGold&r and &7Silver&r made in the &6&lAlloy Kiln&r. \\n\\n2nd we need 4 &8Steel Sheetmetal&r, which like the &7Iron Sheetmetal&r, needs 4 &8Plates&r combined together. \\n\\n3rd is our &8Steel Mechanical Components&r which are either one &6Copper Ingot&r and 4 &8Steel Plates&r in a Crafting Table. or made cheaper in the &6Engineer's Workbench&r."]
 	quest.1759A4E2AF0D2C88.title: "&7Heavy Engineering Block"
-	quest.175D943160C10646.quest_desc: [
-		"&l&7RailCraft&r uses many machines for different things but mostly resource creation."
-		""
-		"All of them start with Iron Ingots!"
-	]
-	quest.175D943160C10646.title: "&l&7Machines"
 	quest.17671346C7940CA8.quest_desc: ["The next evolution of our CPU wafers. These futuristic Wafers usher in the Quantum Age!"]
 	quest.17671346C7940CA8.quest_subtitle: "How many Qubits do you have?"
 	quest.176A1CC43467EF23.quest_desc: [
@@ -3399,11 +3368,6 @@
 		"Note: Tablets will not despawn."
 	]
 	quest.2162EA0216E27D68.title: "Transferring Mana from Pools"
-	quest.21693C4DE6531D73.quest_desc: [
-		"The Crusher is just as the name suggests. It can crush blocks to get the crafting materials, like bricks from a brick staircase, or dusts from ingots. \\n\\nIt needs power to work though! \\n\\nTo build one it's 3x2x2 of Crusher blocks."
-		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
-	]
-	quest.21693C4DE6531D73.title: "Crusher"
 	quest.216DA9782EBDFF34.quest_desc: ["I think this Mod is unrealistic. I don't care what Books or Items you have, I don't think the Demonic will follow your every command and work as a slave for you. \\n\\nRegardless you can follow the Quests to do so."]
 	quest.216DA9782EBDFF34.title: "&b&lOccultism"
 	quest.21770049843DD275.quest_subtitle: "Part 2 of 2"
@@ -4274,11 +4238,6 @@
 	]
 	quest.2A2E3D020B1F5126.title: "Building Wands"
 	quest.2A2ED3B4BE8C7E67.title: "Tetrahedrite Vein"
-	quest.2A30595DC6DDBFF7.quest_desc: [
-		"The &6Electric Tracks&r are used for the &eElectric Locomotives&r. They'll need to be powered by &eFrames&r and yes it will hurt you if you touch it."
-		"{image:atm:textures/questpics/railcraft/rail_electric_rail.png width:150 height:100 align:center}"
-	]
-	quest.2A30595DC6DDBFF7.title: "&6Electric Tracks"
 	quest.2A32CA82627E5FA7.quest_desc: [
 		"&2Glycerol&r + &7Hydrochloric Acid&r in the &eChemical Reactor&r make &cEpichlorohydrin&r"
 		""
@@ -4613,8 +4572,6 @@
 	]
 	quest.2CFEE04BA574921E.quest_subtitle: "Placing Blocks!"
 	quest.2CFEE04BA574921E.title: "Constructor"
-	quest.2D00F85379A4D591.quest_desc: ["The Item Loader is the most basic dispenser from RailCraft. It has to be above the &6Track&r and can be configured to what you'll want loaded onto your &7Carts&r below."]
-	quest.2D00F85379A4D591.title: "Item Loader"
 	quest.2D08BCF993B241B8.quest_desc: ["The Second Scroll you need activated to get &8&lReplica&r is the &7Scroll of Immunity Exchange&r. \\n\\nTo get it you'll need the Ritual of Immunity Exchange; which needs 1 &3Powdered Eye&r and 2 &aPowdered Emeralds&r."]
 	quest.2D08BCF993B241B8.title: "&7Scroll of Immunity Exchange"
 	quest.2D0AFABAD80A1DB5.quest_subtitle: "&f10&r &4Damage&r"
@@ -4989,8 +4946,6 @@
 	quest.30EB438C66324213.title: "Ignore Players"
 	quest.30F16A6BD3C7F4FC.title: "Cassiterite Vein"
 	quest.30F7B68093D76590.quest_desc: ["Using vials, Mana, and reagents in a &aBotanical Brewery&r, you can create &9Brews&r which are just like Potions."]
-	quest.31094CC16E710040.quest_desc: ["The &4Crowbar&r is the main tool of RailCraft. \\n\\nWhen used on a &5Locomotive&r it will change the direction it's facing. \\n\\nWhen shift clicked you can connect &5Locomotives&r and &7Carts&r. \\n\\nWhen just used on &7Carts&r they give them a slight push. \\n\\nAnd when used on special tracks they change their mode. \\n\\nThe different &4Crowbars&r just give different looks and damage."]
-	quest.31094CC16E710040.quest_subtitle: "\"What, ya gonna rob me?\""
 	quest.310969B8FE0A94DE.quest_desc: ["Another game change Apotheosis brings is to Spawners. Remember being able to mine Spawners with Silk Touch? Well it's back thanks to Apotheosis! There's also many new Modifications you can add to Spawners by right clicking any of these items."]
 	quest.310969B8FE0A94DE.title: "Apothic Spawners"
 	quest.3109C8221B6FA608.quest_desc: [
@@ -5707,11 +5662,6 @@
 	quest.38135FFD9ED64395.title: "Vibranium-Allthemodium Alloy"
 	quest.3813F5C1760C3A79.quest_desc: ["Piglin Brutes being here might cause controversey but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!"]
 	quest.3813F5C1760C3A79.title: "Kill A Piglin Brute"
-	quest.38451B61E3FC075B.quest_desc: [
-		"Wait we have Steel again does that also mean we get our (Coal) Coke back? Yes! \\nTo get (Coal) Coke you'll need a Coke Oven. To make one you'll need 26 Coke Oven Bricks and place them 3x3x3 with 1 block hollow in the center. You'll know it's done when you can access the GUI and it's all one texture. \\n\\nPlace Coal or Coal Blocks to get (Coal) Coke and Liquid Creosote! You can always put any log in to get Charcoal and Creasote."
-		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
-	]
-	quest.38451B61E3FC075B.title: "Coke Oven"
 	quest.384A7832DAE93E5A.quest_subtitle: "&f4&r &4Damage&r"
 	quest.3857D8DF87108DAB.quest_desc: ["This is a lantern that prevents hostile spawns within a large radius. "]
 	quest.3862FB1F6F76ED4F.quest_desc: ["Some spells can be put into scrolls to be used wherever needed. First, you'll need a Spell Cloth and place it down. Then, do the same ritual but onto the spell cloth. Once all the blood and powder is done right click the Spell Cloth and Boom Scroll! Some can not be turned into Scrolls so I am not held liable to wasted materials for that."]
@@ -6309,8 +6259,6 @@
 	quest.3E555B364FD88B43.title: "&4Supremium Growth Accelerator"
 	quest.3E6706BC4C318A40.quest_desc: ["The Sewer is used to make Sewage, which is used to make Fertilizer."]
 	quest.3E6706BC4C318A40.title: "Sewer"
-	quest.3E75AFE3482834C5.quest_desc: ["&lRailCraft&r is an entire mod based off &5Trains&r! \\n\\nFrom &7Minecarts&r to &eElectric Locomotives&r to &9Tunnel Bores&r! It has everything &5Train&r accessory wise as well! Traffic Lights, Steam Boilers to power &5Trains&r, and automation for it all. \\n\\nThe model Mod for Model &5Train&r Lovers!"]
-	quest.3E75AFE3482834C5.title: "&7&lRailCraft"
 	quest.3E76BC1D0FC3E9A8.quest_desc: ["Tons of the Items in &cMr Crayfish's&r Mod use Energy! \\n\\nTo power them you'll need an Electricity Generator. These take Coal or other Furnace Fuels to power up! \\n\\nThen, you'll need a Wrench to connect the Generator to your Blocks that need Energy. \\n\\nWhen the Generator is turned on with the Switch at the top and it has Fuel, it will power anything connected."]
 	quest.3E76BC1D0FC3E9A8.title: "Electric Set"
 	quest.3E78FA34A7D40044.quest_subtitle: "&fTier 2&r"
@@ -6341,11 +6289,6 @@
 	quest.3E8BA5E075ABD136.quest_desc: ["&7Ice Breakers&r First Ability is to make your Balance as solid as a rock. Knockback is decreased and slipping on &bIce&r is decreased as well. \\n \\nThe Second Ability is Earthquake! While falling select Earthquake with Left Alt and when you land it will cause a shockwave beneath you damaging all mobs nearby."]
 	quest.3E8BA5E075ABD136.quest_subtitle: "Found in Villages in Taigas or Snowy Taigas"
 	quest.3E8BA5E075ABD136.title: "Ice Breakers"
-	quest.3E8C2E7769DFBF35.quest_desc: [
-		"Unlike the &3Steam Locomotive&r you won't need to put anything into the &eElectric Locomotive&r. \\n\\nIt runs off the power from the &eFrames&r beneath the &6Electric Tracks&r. \\n\\nYes, it can only be ran off &6Electric Tracks&r."
-		"{image:atm:textures/questpics/railcraft/rail_electric.png width:100 height:100 align:center}"
-	]
-	quest.3E8C2E7769DFBF35.title: "&eElectric Locomotive"
 	quest.3E8C7D92F99496BE.quest_desc: ["The &5Eye of Abyss&r will take you to the &5Sunken City&r to fight the &5&lLeviathan&r."]
 	quest.3E8C7D92F99496BE.title: "&5Eye of Abyss&r"
 	quest.3E970E76372AB094.quest_desc: ["The &2Accelerated Planter&r works similar to normal Farmland but with some changes.\\n\\nIt's automatIically watered and it's faster than normal Farmland."]
@@ -6778,22 +6721,6 @@
 		"Trust me, this will be well worth it!"
 	]
 	quest.423FC692CA209271.quest_subtitle: "Now were working with Lasers"
-	quest.425E375A9EC127EB.quest_desc: [
-		"&6Reinforced Tracks&r are the upgraded version of normal &6rails&r! They're slighter faster and don't blow up."
-		"{@pagebreak}"
-		"1"
-		"{image:atm:textures/questpics/railcraft/rail_reinforced1.png width:150 height:100 align:center}"
-		"{@pagebreak}"
-		"2"
-		"{image:atm:textures/questpics/railcraft/rail_reinforced2.png width:150 height:100 align:center}"
-		"{@pagebreak}"
-		"3"
-		"{image:atm:textures/questpics/railcraft/rail_reinforced3.png width:150 height:100 align:center}"
-		"{@pagebreak}"
-		"4"
-		"{image:atm:textures/questpics/railcraft/rail_reinforced4.png width:150 height:100 align:center}"
-	]
-	quest.425E375A9EC127EB.title: "&6Reinforced Tracks"
 	quest.427014BDE06DE631.quest_desc: ["Everything I hit, bursts into Flames!!!!!"]
 	quest.427014BDE06DE631.quest_subtitle: "Hands"
 	quest.427014BDE06DE631.title: "&cFire Gauntlet&r"
@@ -7300,11 +7227,6 @@
 	quest.47592C1D5CD8E8B5.quest_desc: ["Using this mixer will allow you to save the dust that would normall fall on the floor, giving better returns for mixing dusts into alloys. This can also be used to turn certain blocks into other blocks, such as sand into clay! Useful when you start to need a lot of clay for blast furnaces..."]
 	quest.475B63AF0E87E318.title: "&4Supremium Watering Can&r"
 	quest.475E1B94A61B9EB0.quest_desc: ["Like the MK1 this pulls! Just not only from adjacent Inventories, but any Inventory nearby!"]
-	quest.475E307844E3AF7F.quest_desc: [
-		"The Water Boilers are some of the most helpful machines from &l&7RailCraft&r. They need a Fuel Firebox and some sort of boiler on top. The Fueled Firebox can be 1x1 2x2 or 3x3. The size of the Firebox changes how big the Boiler on top can be. For 1x1 Firebox it can only have 1x1 Boiler. For 2x2 Firebox it can be a 2x2x3 Boiler. For 3x3 Firebox it can be 3x3x4. The Liquid Fuel will take Creosote to heat up. For Solid Firebox it'll use anything a furnace can use."
-		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
-	]
-	quest.475E307844E3AF7F.title: "Boilers"
 	quest.47656073894224AF.quest_desc: ["Yes, it is just like the ones on giant Battleships! \\n\\nThe &5&lRailgun&r is a special Gun. For 1. it uses special Ammo, not Cartridges like the Revolver uses 2. it uses &cEnergy&r and needs to charge before shooting. \\n\\nThe Ammo it uses is &eItems&r from your Inventory: &7Aluminum&r, &7Iron&r, and &8Steel Rods&r, &0Graphite Electrodes&r, Sawblades, Enderpearls, Tridents, Blaze Rods, and End Rods. \\n\\nIt'll take whatever is in your Inventory, to change what it Shoots, Hold Shift and Scroll. \\n\\nNext, it needs &cEnergy&r within it to Shoot, to charge it we can use any &cItem Charger&r, including the one added by &8&lImmersive Engineering&r! \\n\\nOnce we have all this, Hold Right Click until the Railgun gets to Level 99, then release! \\n\\nThe &5&lRailgun's&r Upgrades are: Precision Scope and Heatsinks. \\n\\nIt can hold 2 Upgrades, well that makes sense it can't use anymore than that!"]
 	quest.47656073894224AF.title: "&5&lRailgun"
 	quest.476755275B948A5F.quest_desc: ["Reactors can also be used to heat up &bcoolants&r like water to create &bvapor&r, like &bSteam&r.\\n\\nTo do this, you'll need to build a reinforced reactor. This is built in the same way that you built your 3x3x3 reactor, but all of the parts will need to be &aReinforced Reactor Parts&r instead. I'd also suggest on it being bigger than a 3x3x3.\\n\\nTo input a coolant, you'll need a &9Forge Fluid Port&r. This will port in any fluids like Water into the reactor. This will also be used to export the vapor created in the reactor.\\n\\nIf you want, you can create a &aMekanism Fluid Port&r to convert the fluid Steam into the Mekanism gas Steam instead."]
@@ -7563,11 +7485,6 @@
 	quest.4A1C8125896F7F1A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.4A3DF999B969C875.quest_desc: ["With everything we've made so far, you'll be able to craft the final item we need: the &dRailgun&r!"]
 	quest.4A3DF999B969C875.title: "Railgun"
-	quest.4A44623D8A307473.quest_desc: [
-		"The &6High Speed Electric Tracks&r are like the &6Electric Tracks&r but faster! They also require what the normal &6High Speed Tracks&r require and what the &6Electric Tracks&r require. &cSpeed Boosts&r and &eFrames&r to power them. Now you have to be careful around corners and with touching them!"
-		"{image:atm:textures/questpics/railcraft/rail_electric_speed.png width:150 height:100 align:center}"
-	]
-	quest.4A44623D8A307473.title: "&6High Speed Electric Tracks"
 	quest.4A4C14AF947D93EF.quest_subtitle: "Tier: &b4"
 	quest.4A4C71C43519D5FE.quest_desc: [
 		"To summon the boss of the Nether, we need to gather a few items first. "
@@ -8430,11 +8347,6 @@
 	quest.51236544BFEF487B.quest_subtitle: "'COMIC #42: shearching 4 bobby [Fischer]'"
 	quest.51236544BFEF487B.title: "Meteorite hunting"
 	quest.512396B331108BAF.quest_subtitle: "Tier: &e5"
-	quest.5128B119DFFF0C4C.quest_desc: [
-		"The &3Steam Locomotive&r is the most basic &5Locomotive&r. It can be powered by giving it water, furnance fuel, and waiting. It'll need constant water to keep working. \\n\\nDon't worry that just means the smoke coming out of the top of it is Water Vapor, which is safe for the Environment. Well the Coal part isn't the best for the Environment... eh its &2Minecraft&r what do we care!"
-		"{image:atm:textures/questpics/railcraft/rail_steam_locomotive.png width:100 height:100 align:center}"
-	]
-	quest.5128B119DFFF0C4C.title: "&3Steam Locomotive"
 	quest.512BD9BCA43AEE83.quest_desc: [
 		"The electrolyzer will separate compounds into constituent compounds based on their electric charge"
 		""
@@ -8488,11 +8400,6 @@
 	]
 	quest.516ECA0396621C32.title: "&aGreen Sempiternal Sanctum"
 	quest.517F0135926B15EE.quest_desc: ["All simple machines come with redstone controll, and some come with filtering."]
-	quest.5180CDD196518F64.quest_desc: [
-		"The &6Strap Iron Tracks&r, like the &6Abandoned Tracks&r, are perfect for the cheapskates. They go much slower than the other &6tracks&r but no risk of derailment!"
-		"{image:atm:textures/questpics/railcraft/rail_strap.png width:150 height:100 align:center}"
-	]
-	quest.5180CDD196518F64.title: "&6Strap Iron Tracks"
 	quest.518105318E1C38B2.quest_subtitle: "&9Tier 1&r"
 	quest.519604E883E6B620.quest_desc: ["You'll need this to hold a &dWither&r in place so you can extract &bEther Gas&r from it!"]
 	quest.519604E883E6B620.title: "Statis Chamber"
@@ -8974,8 +8881,6 @@
 	quest.55C4824DAD905512.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.55C8DD9A754545BD.quest_desc: ["The Pulverizer breaks raw ores into dusts, and also has a 25% chance to create an extra dust."]
 	quest.55C8DD9A754545BD.quest_subtitle: "Breaks Ores into Dusts"
-	quest.55D7CD0FA8F1AE48.quest_desc: ["The reason we're all here, &5Trains&r. The mod is called &l&7RailCraft&r don't act surprised. \\n\\nThere's 2 different main &5Trains&r and 1 special mining &5Train&r. \\n\\nThese &5Trains&r all by themselves can get a little boring, so why not attach &7Carts&r to them! Connecting &7Carts&r with &7Carts&r and with &5Trains&r is called Coupling, and to unconnect them is to Decouple. To Couple &5Trains&r and &7Carts&r use a &4Crowbar&r or a &6Track&r with the Coupling &cTrack Kit&r."]
-	quest.55D7CD0FA8F1AE48.title: "&7&lCarts&r 'N' &5&lTrains&r!"
 	quest.55DCA040C84DCEF3.quest_desc: ["If you want to get your hands on the product the &aFluidizer&r makes, you'll need an &aOutput Port&r on one of the faces.\\n\\nThe &aFluidizer&r will need power to operate, so a &cPower Port&r is required to complete the structure."]
 	quest.55DCA040C84DCEF3.title: "Required Ports"
 	quest.55E321EFBE8956DE.quest_desc: ["If you want to be cheap with Fermenting Recipes then Fermentation Starter is perfect for you. \\n\\nVery cheap replacement for other Items in Fermenting."]
@@ -9145,11 +9050,6 @@
 	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \\n\\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
 	quest.580148D1141446A6.title: "Lost Souls"
 	quest.58095E9EBC6FF9B2.title: "Creative Power"
-	quest.5820EDEF71340A1A.quest_desc: [
-		"&6Abandoned Tracks&r are good for the cheapskates and aesthetic. They can be used to bridge accross a few blocks without support. They can only be 2 blocks away from blocks going the same direction, or one block from the opposite direction. They come at the risk of derailment though, basically your &7Cart&r will be thrown off the &6rails&r."
-		"{image:atm:textures/questpics/railcraft/rail_abandoned.png width:150 height:100 align:center}"
-	]
-	quest.5820EDEF71340A1A.title: "&6Abandoned Tracks"
 	quest.5831B3192C0E8C56.quest_desc: [
 		"Want to access your storage remotely? This can be done with either the &eStable Wormhole&r or the &aStorage Accessor&r."
 		""
@@ -9825,11 +9725,6 @@
 	quest.5E71F8A046C60346.quest_desc: ["Whoever told you PneumaticCraft wasn't about generating power?\\n\\nThe &3Pneumatic Dynamo&r allows you to turn your pressure in FE. Read the tooltip or read about it in the PNC:R to learn how it works."]
 	quest.5E71F8A046C60346.quest_subtitle: "Pressure = Power"
 	quest.5E71F8A046C60346.title: "Generating Power"
-	quest.5E750DB2244A67A1.quest_desc: [
-		"The &6Turnout track&r is the first from hitting a &6track&r with a Spike Maul. It can help go two directions, forward and to a side. It can be switched with a Switch next to the &6track&r."
-		"{image:atm:textures/questpics/railcraft/rail_turnout.png width:100 height:100 align:center}"
-	]
-	quest.5E750DB2244A67A1.title: "&6Turnout Tracks"
 	quest.5E766840DAB839A2.quest_subtitle: "Ash + Sugar Maple"
 	quest.5E799B92358A8732.quest_desc: ["In the &cNether&r, you'll run into &6Ancient Debris&r. This can be smelted down into Scraps that can be combined with Gold to create &6Netherite Ingots&r, which is an endgame metal use to craft some of the strongest tools and armor in the game."]
 	quest.5E799B92358A8732.title: "&dAncient Metals"
@@ -9983,8 +9878,6 @@
 		"While we cant yet utilize the best recipe for this processor (The best one returns 4 processors) we will be able to use it soon, once we unlock the UV Circuit Assembler in the next section."
 	]
 	quest.5F7F05E4C3310724.quest_subtitle: "Beginning of the End"
-	quest.5F7F753FD72BFBBF.quest_desc: ["More Blocks added by &l&7Railcraft&r? I'm starting to doubt if it's even about Trains!"]
-	quest.5F7F753FD72BFBBF.title: "&l&7Railcraft&r Colored Blocks"
 	quest.5F834F8C607A8B77.quest_desc: ["You have to either find these in structures in the &6&lBumblezone&r or you can trade with the &5Bee Queen&r to get one! \\n\\nWhile wearing it you can hold Space Bar to fly for a little. \\n\\nExcept like a &6B&8e&6e&r the Wings are too small to keep your fat little body off the ground."]
 	quest.5F9B8ACCE0C8389E.quest_desc: ["In order to get more fun, little &4&lMahou Tsukai&r weapons, you'll need a &7Scroll of Strengthening&r. \\n\\nTo get one, place down a &7Spell Cloth&r, then do the Ritual of Strengthening on top of it and pick up the &7Cloth&r."]
 	quest.5F9B8ACCE0C8389E.title: "&7Scroll of Strengthening"
@@ -10211,11 +10104,6 @@
 	quest.61BE7882EE0E6FAF.quest_desc: ["What rolls down stairs \\nAlone or in pairs... \\nRolls over your neighbor's dog \\nWhat's great for a snack \\nAnd fits on your back? \\nIt's Log! Log! Log!"]
 	quest.61C49BC2B384FB80.quest_desc: ["Once you've gathered enough Ender Pearls and Blaze Powders, you can make your way to the End Portal in the Overworld.\\n\\nTo do this, craft some &dEyes of Ender&r and right click to throw them in the sky. These will point in the direction of the closest End Portal.\\n\\nMake your way to the Stronghold, find the End Portal, and complete the frame using the Eyes of Ender to create the portal to &dThe End&r."]
 	quest.61C49BC2B384FB80.title: "&aFinding &dThe End"
-	quest.61C93ABE07742DCD.quest_desc: [
-		"The Steam Turbine uses Steam to make FE and EU energy. \\n\\nIt's 3x2x2 building of only Steam Turbine Housing, and it'll need a Turbine Motor in it, and Steam piped in."
-		"{image:atm:textures/questpics/railcraft/rail_turbine.png width:100 height:100 align:center}"
-	]
-	quest.61C93ABE07742DCD.title: "Steam Turbine"
 	quest.61D6C9461F10CCF1.quest_desc: [
 		"&cEvilCraft&r is not really that Evil.... just uses a lot of blood. &oFrom your enemies&r. "
 		""
@@ -11263,11 +11151,6 @@
 	quest.6BFD7854F078BF16.quest_subtitle: "Get a Grip on this"
 	quest.6C001E18093FC037.title: "Plants"
 	quest.6C0D4CBC089988ED.quest_desc: ["This rune increases the capacity of the Altar by a multiplicative amount of 7.5% per rune. These apply after regular Capacity Runes."]
-	quest.6C14D1B60124C2B2.quest_desc: [
-		"The &9Tunnel Bore&r is perfect for automatically placing &6Rails&r especially under mountains or hills. \\n\\nIt'll need 3 things to start working: &9Bore Head&r, fuel like Coal, and &6Rails&r. Once it has all 3 just let it go! \\n\\nRemember to keep track of the items going in it!"
-		"{image:atm:textures/questpics/railcraft/rail_tunnel.png width:100 height:100 align:center}"
-	]
-	quest.6C14D1B60124C2B2.title: "&9Tunnel Bore"
 	quest.6C163E005351FF6D.quest_desc: ["The &cWhistle Kit&r when active with Redstone will cause the &5Locomotives&r to set off their whistles."]
 	quest.6C163E005351FF6D.title: "&cTrack Kit&r Whistle"
 	quest.6C16670D16113DE9.quest_desc: ["In order to automate &6&lATM Star&r crafting, we'll need &6Star Shards&r. In order to get &6Star Shards&r we'll need &6Starry Bees&r. \\n\\nAnd of course, to get &6Starry Bees&r we'll need &dPatrick &aBees&r! You can rarely get &dPatrick &aBees&r by fishing in Warm Oceans! \\nIf you don't wish to convert them, you can also farm &dPatrick &aStars&r with them."]
@@ -12378,11 +12261,6 @@
 	quest.75D3F3C1D4A3EAA2.quest_desc: ["To move the heat being made by the Vortex Tube, make some &3Heat Pipes&r."]
 	quest.75D3F3C1D4A3EAA2.quest_subtitle: "We have the heat to move :)"
 	quest.75D3F3C1D4A3EAA2.title: "Moving Heat"
-	quest.75DD345164EE5CD9.quest_desc: [
-		"&6High Speed Tracks&r are like &6Reinforced Tracks&r but obviously faster. They'll need &cTrack Kits&r to help build up speed though! And careful around corners."
-		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
-	]
-	quest.75DD345164EE5CD9.title: "&6High Speed Tracks"
 	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \\n\\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
 	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
 	quest.75FE0B514448865B.quest_desc: ["Upgrades go directly into the Router and the Router can hold 5 of them. Upgrades directly affect all Modules that they can and usually can stack!"]
@@ -13139,7 +13017,6 @@
 	quest.7D3648FF86B0EB85.title: "Alloy Blade"
 	quest.7D38BC3DB3406F51.quest_desc: ["With our Wooden Pickaxe, stone shouldn't be a problem to break!\\n\\n&3Cobblestone&r unlocks the next part of the progression by using it to craft a Furnace to smelt our ores.\\n\\nYou'll also want to upgrade your pickaxe to stone to mine better ores like &bIron&r!"]
 	quest.7D38BC3DB3406F51.title: "Stone Age"
-	quest.7D40B80DBBC4E160.quest_desc: ["The Manual Rolling Machine will be your little crafting machine for many things material for railcraft! \\n\\nWhen you put the recipe in and it can make more than 1 it will autocraft while you're still looking at it. When you leave the Rolling Machine while crafting it will abort the crafting and put it in your inventory. \\n\\nYou must manually build the last recipe!"]
 	quest.7D43016926E77150.title: "&9Imperium Armor&r"
 	quest.7D49A41E4D63A596.quest_subtitle: "Reduces Catalyst Usage"
 	quest.7D52DD751DDADA1B.quest_desc: ["The basic cables for transferring power."]
@@ -13781,7 +13658,6 @@
 	task.4063C1B5F935A026.title: "Induction Cells"
 	task.408C5263C4664195.title: "Chests"
 	task.40A7CC56DACC2623.title: "ME Glass Cables"
-	task.40B245AFD0DAB3A0.title: "Railcraft Glass"
 	task.40B39896B6CD41C6.title: "Armor"
 	task.40C43560F454AD82.title: "Allthemodium Tools"
 	task.40C84C03F35EE9FA.title: "Quests By AllTheMods"
@@ -13866,7 +13742,6 @@
 	task.500548E772861A58.title: "Nether Layer Ores"
 	task.50823C029014781A.title: "Obsidian Comb"
 	task.508BC2CB4F4BC7EF.title: "AllRightsReserved"
-	task.50BED71A6677392E.title: "Railcraft Stones"
 	task.50DCADFCCAD7BB24.title: "Quests By AllTheMods"
 	task.510CE57C709D5A44.title: "Observe Hydrofluoric Acid in a Machine"
 	task.518B9569DCE0A771.title: "AllRightsReserved"
@@ -14017,7 +13892,6 @@
 	task.6CAD0E4CF3577BEB.title: "Kill 1 Warden"
 	task.6D074E91F5BFC2A8.title: "Track Kits"
 	task.6D15CFE8E1CF6D25.title: "Grave's Comb"
-	task.6D2E8755BB3463FF.title: "Railcraft Colored Blocks"
 	task.6D4F62833424ADC0.title: "Iron Comb"
 	task.6D7DD99A02A8F451.title: "Visit The Deep Dark"
 	task.6D9221A533926A7B.title: "AllRightsReserved"
