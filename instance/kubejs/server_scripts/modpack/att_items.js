@@ -39,7 +39,7 @@ ServerEvents.recipes(allthemods => {
   }).id('allthemods:allthetweaks/dimensional_seed')
 
   // Withers Compass
-  // Recipe Modified 2025.06.09-17:02 CST
+  // Recipe Modified 2025.06.09-21:05 CST
   allthemods.shaped('allthetweaks:withers_compass', ['GWG', 'BEB', 'CWC'], {
     B: 'industrialforegoing:wither_builder',
     C: 'mysticalagradditions:nether_star_crux',
