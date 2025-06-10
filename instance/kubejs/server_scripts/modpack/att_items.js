@@ -40,26 +40,27 @@ ServerEvents.recipes(allthemods => {
 
   // Withers Compass
   // Recipe Modified 2025.06.09-21:05 CST
+  // awaiting confirmation of functionality
   allthemods.shaped('allthetweaks:withers_compass', ['GWG', 'BEB', 'CWC'], {
     B: 'industrialforegoing:wither_builder',
     C: 'mysticalagradditions:nether_star_crux',
     D: 'deeperdarker:heart_of_the_deep',
-    E: 'explorerscompass:explorerscompass',
+    E: 'minecraft:recovery_compass',
     G: 'generatorgalore:netherstar_generator_64x',
-    W: 'mysticalagriculture:witherproof_bricks'    
+    W: 'mysticalagriculture:witherproof_bricks'
   }).id('allthemods:allthetweaks/withers_compass')
 
   // Philosopher's Fuel
-  allthemods.shaped('allthetweaks:philosophers_fuel', ['ABC', 'DEF', 'GHI'], {
-  A: 'generatorgalore:ender_generator',
-	B: 'ironfurnaces:rainbow_coal'  ,
-	C: 'bigreactors:insanite_block' ,
-	D: Ingredient.of(['modern_industrialization:uranium_fuel_rod_quad','create:blaze_burner']),
-	E: 'mysticalagradditions:insanium_coal_block',
-  F: 'forbidden_arcanus:smelter_prism',
-	G: 'mysticalagriculture:awakened_supremium_ingot_block',
-	H: 'generatorgalore:magmatic_generator_64x',
-  I: 'evilcraft:dark_tank[cyclopscore:fluid_content={amount:16000,id:"justdirethings:refined_t4_fluid_source"}]'
+  // Recipe Modified 2025.06.09-21:20 CST
+  // awaiting confirmation of functionality
+  allthemods.shaped('allthetweaks:philosophers_fuel', ['PEP', 'BIB', 'CAC'], {
+    A: 'mysticalagriculture:awakened_supremium_ingot_block',
+    B: 'create:blaze_burner',
+    C: 'mysticalagradditions:insanium_coal_block',
+    E: 'generatorgalore:ender_generator',
+    I: 'bigreactors:insanite_block',
+    M: 'generatorgalore:magmatic_generator_64x',
+    P: 'forbidden_arcanus:smelter_prism'
   }).id('allthemods:allthetweaks/philosophers_fuel')
 
  // Nexium Emitter
