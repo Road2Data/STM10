@@ -41,23 +41,22 @@ ServerEvents.recipes(allthemods => {
   // Withers Compass
   // Recipe Modified 2025.06.09-21:05 CST
   // awaiting confirmation of functionality
-  allthemods.shaped('allthetweaks:withers_compass', ['GWG', 'BEB', 'CWC'], {
+  allthemods.shaped('allthetweaks:withers_compass', ['GWG', 'BGB', 'CWC'], {
     B: 'industrialforegoing:wither_builder',
     C: 'mysticalagradditions:nether_star_crux',
     D: 'deeperdarker:heart_of_the_deep',
-    E: 'minecraft:recovery_compass',
     G: 'generatorgalore:netherstar_generator_64x',
+    R: 'minecraft:recovery_compass',
     W: 'mysticalagriculture:witherproof_bricks'
   }).id('allthemods:allthetweaks/withers_compass')
 
   // Philosopher's Fuel
   // Recipe Modified 2025.06.09-21:20 CST
   // awaiting confirmation of functionality
-  allthemods.shaped('allthetweaks:philosophers_fuel', ['PEP', 'BIB', 'CAC'], {
+  allthemods.shaped('allthetweaks:philosophers_fuel', ['PIP', 'BMB', 'CAC'], {
     A: 'mysticalagriculture:awakened_supremium_ingot_block',
     B: 'create:blaze_burner',
     C: 'mysticalagradditions:insanium_coal_block',
-    E: 'generatorgalore:ender_generator',
     I: 'bigreactors:insanite_block',
     M: 'generatorgalore:magmatic_generator_64x',
     P: 'forbidden_arcanus:smelter_prism'
