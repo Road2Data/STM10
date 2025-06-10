@@ -34,6 +34,7 @@
 #4E7032 minecraft:dead_tube_coral_block
 #E9B541 minecolonies:decorationcontroller
 #5E9420 minecraft:deepslate
+#9E0209 minecraft:deepslate_lapis_ore
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
 #F4A7C0 domum_ornamentum:double_crossed

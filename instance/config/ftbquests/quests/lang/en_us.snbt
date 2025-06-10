@@ -359,8 +359,6 @@
 	quest.034F2CDF0830254B.title: "&eFluid Importing"
 	quest.034FC4BCCCD7D154.quest_desc: ["Note: While you can put several base upgrades into a machine, only the highest tier takes effect."]
 	quest.034FC4BCCCD7D154.quest_subtitle: "Tier 3 Base Upgrade"
-	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
-	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r Spawn Egg"
 	quest.036ACCD0FFFF5B37.title: "Entropic Crystals"
 	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
 	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
@@ -585,8 +583,6 @@
 	]
 	quest.05618FE80F2E0372.title: "&9The Infusion Crystal"
 	quest.056E1E3B1ED14917.quest_subtitle: "Teak + Dark Oak"
-	quest.0573B6F1BE5110FD.quest_desc: ["&2&lMinecraft&r Bees are adorable but the limited things Honey gives us isn't enough to justify the work to get it. \\n\\nWell unless you can get just about anything from the Bees, then that'd be different!"]
-	quest.0573B6F1BE5110FD.title: "&e&lProductive Bees&r"
 	quest.0576C32B0FB360B0.quest_desc: [
 		"The Lunar Monstrosity has 200 Hearts and will only take 1 damage from each hit unless you use Fire. \\n\\nIt has a few attacks including Ground Spikes, Projectiles, and Exploding Tangled Heads! \\n\\nWhen you kill it, it will drop Arrows, Ingots, Tangled Skulls, Tenacious Petals, Trapped Souls, and a chance at a rare Weapon!"
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
@@ -953,8 +949,6 @@
 	quest.091C9CEBC8F9DDAC.quest_desc: ["A cornerstone of tech packs, the macerator will shred the impurities from ore, providing you with raw ore or ore dusts, which can then be turned into ingots at a better ratio. If you use the Steam Mining Drill to get ore blocks, you can macerate them at a 1:3 ratio, and then convert those even more, giving you roughly a 1:4.5 return per single ore block! Talk about value!"]
 	quest.09223F02621781BF.quest_subtitle: "Iron + Mason"
 	quest.09223F02621781BF.title: "Silver Bee"
-	quest.0923C941A9696122.quest_desc: ["Incase you have to bring 256 Million Items on an Adventure with you! \\n\\nYou'll need a few simple Items like &8MEGA Item Cell Housing&r, &5ME Chest&r, and a &5Dense Energy Cell&r. \\n\\nAnd we'll then need the &d256M MEGA Storage Component&r... this one is much harder to make. \\n\\nIf repetitive Crafting makes you hate &2&lMinecraft&r, then you might want to Craft the &2Blastproof Casing&r! \\n\\nWe'll need either 2 256M Portable Item Cells, 2 &2Blastproof Casings&r, or a mix of both to Craft the &3&lImprobable Probability Device&r."]
-	quest.0923C941A9696122.title: "256M Portable Item Cell"
 	quest.09282E3864752CEE.quest_subtitle: "Tier: &63"
 	quest.092A23FDA5D50812.quest_subtitle: "Tier: &a2"
 	quest.092BB595F75D5536.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need to start Mining underground... deep underground. \\n\\nLike Y Level 1 and below. "]
@@ -1135,7 +1129,7 @@
 	quest.0AD2B11565B484E7.title: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
 	quest.0ADBE90B33ACC9FB.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
 	quest.0ADBE90B33ACC9FB.title: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&co&6r"
-	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
+	quest.0AE28C998A3BF136.quest_subtitle: "59,049 Netherrack"
 	quest.0AE6AD813928DE4F.quest_desc: ["The External Heater can be used with Furnaces, like the &2&lVanilla&r ones, not &c&lCrude Blast Furnace&r! \\n\\nIt takes in &cEnergy&r from the Bottom and uses it for Heat. \\n\\nThe Heat comes out of the other sides of it, to adjacent Blocks. \\n\\nIt is technically used for the &4&lImproved Blast Furnace&r, by Crafting the Preheaters but I don't count that!"]
 	quest.0AEAEA976ED0C470.quest_desc: ["The &3Charging Station&r is used to charge various tools and gadgets in &aPneumaticCraft&r using pressure."]
 	quest.0AEAEA976ED0C470.quest_subtitle: "Where's the cord?"
@@ -6003,8 +5997,6 @@
 	quest.3BDB94F17765EE77.quest_desc: ["If you're looking to generate a ton of power, you can start by scaling up some of the options from the &9Mid Game Power&r section. Make your &aReactors&r bigger. Upgrade your &9Thermo Generators&r to Nitro. Go wild.\\n\\nHowever, you may need even more power."]
 	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
 	quest.3BDB94F17765EE77.title: "End Game Power Options"
-	quest.3BE5CD0C7CC4BCC6.quest_desc: ["Soul Lava is a part of &6&lAllthemodium&r. It can be found in &b&lThe Other&r very rarely underground, or common in Piglich Villages!\\n\\nWe'll need to feed a Bucket of &9Soul Lava&r to a Ghostly Bee to make a &9Soul Lava Bee&r.\\n\\nThen, you'll need to squish them or poke them for it's DNA to make a Spawn Egg!  "]
-	quest.3BE5CD0C7CC4BCC6.title: "&9Soul Lava Bee&r Spawn Egg"
 	quest.3BEDF19CD79D53D5.quest_desc: [
 		"The &aDistillation Tower&r serves as the foundation for &dOil Processing&r which can turn oil into many more useful forms"
 		""
@@ -6383,7 +6375,6 @@
 	quest.3F8A5CBEAE024748.quest_desc: ["The Eye of the Pillager, Eye of the Blaze and Eye of the Shulker are each used to locate specific structures."]
 	quest.3F8A5CBEAE024748.quest_subtitle: "I've got my Eyes on you"
 	quest.3F8A5CBEAE024748.title: "Structure Finders"
-	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r is an Effect in &l&2Vanilla&r so of course we need our own way of using and abusing it! \\n\\nYou can Brew an Awkward Potion with a &8Wither Skeleton Skull&r to create it. Then you can craft Arrows with it!"]
 	quest.3F8D515D7B81B0E3.quest_desc: [
 		"Another Smithing Template?!?!?!\\n\\nWell atleast you don't need Archeology for it!\\n\\nYou'll have to earn these by beating the Trial Spawners which are found in the Dungeon structure in &b&lThe Other&r. More specifically the Library Rooms!\\n"
 		"{image:atm:textures/questpics/allthemodium/all_library.png width:200 height:100 align:center}"
@@ -7464,8 +7455,6 @@
 		"This is the first rune you can use to upgrade your Altar."
 	]
 	quest.49F57CE3B472FF6D.title: "Altering the Altar"
-	quest.49FDD8666356A3E7.quest_desc: ["We can use either or both &2Blastproof Casing&r or 256M Portable Item Cells to Craft the &3&lImprobable Probability Device&r. \\n\\nWait did I say either or both? \\n\\nYes I did! We can use 2 &2Blastproof Casings&r or 2 256M Portable Item Cells or one of each."]
-	quest.49FDD8666356A3E7.title: "Either or &2Blastproof Casings&f and 256M Portable Item Cells"
 	quest.4A03A671757B2EBF.quest_desc: ["Durability, Fluid Level, Energy Level, Enchantment Level, and Food Value are all categories we can use with Inspection Filter.\\n\\nThen we select if we want it Greater than, Lesser than, Equal to, or a mix of those with the Numbered Amount.\\n\\nNext we give it a Numbered Amount and hit the Plus Button to add it to the Filter.\\n\\nThis can be used to only keep Tools with high Durability or Food with high Food Value."]
 	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables are different from other cables. Other Cables act as Hoppers, the items move from 1 Inventory, into the cable, then into the 2nd inventory. Logic Cables just skip the middle man which also skips a lotta lag.\\n\\nThey are just for connecting Importers and Interfaces."]
 	quest.4A05C037C0EE40BD.quest_subtitle: "Making Networks"
@@ -10711,8 +10700,6 @@
 	quest.67B87570C340C243.title: "Armor Upgrades"
 	quest.67C4A4D6DD93DB0E.quest_desc: ["Place this under the soil to allow magical seeds to grow"]
 	quest.67C4A4D6DD93DB0E.title: "&bMagical Soil&r"
-	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \\n\\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \\n\\nPersonally I think we should do both!"]
-	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
 	quest.67C9D2712EA1F637.title: "ULV Tier"
 	quest.67CCEFEBA4D79429.quest_desc: ["&eDivine Pact&r is the most difficult to obtain, you'll need to search Piglin Villages and Ancient Pyramids in &b&lThe Other&r to find them! \\n\\nIt's used to craft the Soul Binding Crystal and the End Game Multiblocks!"]
 	quest.67CCEFEBA4D79429.title: "&eDivine Pact"
@@ -11552,7 +11539,7 @@
 	quest.6FBF112811FB707C.quest_subtitle: "Ash + Birch"
 	quest.6FC4146E534C51DA.quest_desc: ["You can combine a Netherite Upgrade Template, a Netherite Helmet, and a &cMonstrous Horn&r to make the &cMonstrous Helm&r. \\n\\nIt has the same stats but when you're at half health it'll Knockback everything close to you and increase defense stats."]
 	quest.6FC4146E534C51DA.title: "&cMonstrous Helm"
-	quest.6FC55CF56BE22866.quest_subtitle: "531,441 Dirt"
+	quest.6FC55CF56BE22866.quest_subtitle: "59,049 Dirt"
 	quest.6FC7DC1F856A748D.quest_desc: ["Okay this is a long one just stick with me. First Ability allows two modes,  &6Sancity&r and &7Unholiness&r. &6Sancity&r takes some of your Healing and uses it as Damage against enemies. &7Unholiness&r does the opposite, it takes the enemies Healing to help you deal more damage. Mobs like &dEnder Dragon&r and &5Wither&r both regenerate Health. \\n \\nThe Second Ability is Repentance, while active it will Burn Undead Mobs (Zombie, Skeleton, and their cousins). \\n \\nThe Third Ability grants a small time period of Invincibility."]
 	quest.6FC7DC1F856A748D.quest_subtitle: "Found in all Villages"
 	quest.6FC7DC1F856A748D.title: "&6Holy&r &7Locket&r"
@@ -11743,8 +11730,6 @@
 	]
 	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r is a mod added specifically by the &6AllTheMods Team&r to add more content after Netherite! \\n\\nYou'll need to adventure through it to get some Items needed for the &6&lATM Star&r. \\n\\nThere is a Quest page now that you can follow for it!"]
 	quest.7154D73516548149.title: "&l&6Allthemodium"
-	quest.71581992E8E4C43E.quest_desc: ["Throw a few &8Wither Skeleton Skulls&r and an &dAbjuration Essence&r to make a &8Wither &3Glyph&r! \\n\\nIf it didn't work you might need more &aEXP&r."]
-	quest.71581992E8E4C43E.title: "&3Glyph of &8Wither"
 	quest.715B86DC82EA636B.quest_desc: [
 		"The &3Liquid Compressor&r creates pressure using certain liquids. You can put the fuel in by right-clicking the bucket onto the machine, pumping in the fluid, or by putting a bucket in the top slot in the GUI."
 		""
@@ -12192,8 +12177,6 @@
 	quest.7509E4093010EA4C.quest_desc: ["The &aSeeker Bow&r is dropped from the &3Snow Queen&r, it can shoot Arrows that home in on your targets. No more missing!"]
 	quest.7509E4093010EA4C.quest_subtitle: "Bad Aim?"
 	quest.7509E4093010EA4C.title: "&aSeeker Bow"
-	quest.750B6316267CF574.quest_desc: ["When your Hives are vacant and in the dark you may find a little Bee visitor, the Skeletal Bee. \\n\\nYou can then feed your new visitor a &8Wither Rose&r to make them a &8Withered Bee&r. "]
-	quest.750B6316267CF574.title: "&8Withered Comb Block"
 	quest.751189465F91B353.quest_desc: ["The &bCrystalline Seashelf&r is an upgrade to the &bInfused Seashelf&r. It's very good for normal Enchantments but doesn't give us enough &5Arcana&r for the next Infusion we'll need. Still good stats for normal Enchanting though!"]
 	quest.751189465F91B353.title: "&bCrystalline Seashelf&r"
 	quest.75238B267CBFFAFE.quest_subtitle: "&f4.5&r &4Damage&r"
@@ -12296,7 +12279,7 @@
 	quest.763AE58CF620695E.title: "&9Banner Patterns Blueprints "
 	quest.76406EFFF8CBA6B4.quest_desc: ["Diamonds are one of the best materials to use for tool crafting, but also allows you to visit new dimensions like the Nether!"]
 	quest.76406EFFF8CBA6B4.title: "We've Struck &bDiamonds&r!"
-	quest.764609E41957DA69.quest_subtitle: "6,561 Emerald Blocks"
+	quest.764609E41957DA69.quest_subtitle: "59,049 Emeral Blocks"
 	quest.7649D648A3688D4A.quest_desc: ["The Puller Upgrade allows Drawers to pull in items from any side."]
 	quest.76516C997B63905A.quest_subtitle: "Tier: &b4"
 	quest.76558D23A70AFF78.title: "&bIce&r Upgrade Orb"
