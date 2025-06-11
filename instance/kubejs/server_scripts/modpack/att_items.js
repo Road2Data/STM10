@@ -39,15 +39,16 @@ ServerEvents.recipes(allthemods => {
   }).id('allthemods:allthetweaks/dimensional_seed')
 
   // Withers Compass
-  // Recipe Modified 2025.06.09-21:05 CST
-  // awaiting confirmation of functionality
-  allthemods.shaped('allthetweaks:withers_compass', ['GWG', 'BGB', 'CWC'], {
+  allthemods.shaped('allthetweaks:withers_compass', ['ABC', 'DEF', 'GHI'], {
+    A: 'productivebees:configurable_comb[productivebees:bee_type="productivebees:withered"]',
     B: 'industrialforegoing:wither_builder',
-    C: 'mysticalagradditions:nether_star_crux',
-    D: 'deeperdarker:heart_of_the_deep',
-    G: 'generatorgalore:netherstar_generator_64x',
-    R: 'minecraft:recovery_compass',
-    W: 'mysticalagriculture:witherproof_bricks'
+    C: 'deeperdarker:heart_of_the_deep',
+    D: 'generatorgalore:netherstar_generator_64x',
+    E: 'irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:"irons_spellbooks:wither_skull",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]',
+    F: 'mysticalagriculture:witherproof_bricks',
+    G: 'minecraft:tipped_arrow[potion_contents={potion:"apothic_attributes:long_wither"}]',
+    H: 'ars_nouveau:glyph_wither',
+    I: 'mysticalagradditions:nether_star_crux'
   }).id('allthemods:allthetweaks/withers_compass')
 
   // Philosopher's Fuel

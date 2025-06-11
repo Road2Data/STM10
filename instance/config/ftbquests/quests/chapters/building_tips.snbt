@@ -1882,21 +1882,28 @@
 				id: "alltheores:fluorite_block"
 			}
 			id: "034DB3C64F24C7B7"
-			rewards: [{
-				id: "63BC4F2532FA4B8F"
-				item: {
-					components: {
-						"minecraft:stored_enchantments": {
-							levels: {
-								"minecraft:fortune": 2
+			rewards: [
+				{
+					id: "1BC3E760FEDB19DA"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:fortune": 3
+								}
 							}
 						}
+						count: 1
+						id: "minecraft:enchanted_book"
 					}
-					count: 1
-					id: "minecraft:enchanted_book"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "02210F9B49BFEF2C"
+					type: "xp"
+					xp: 10
+				}
+			]
 			tasks: [{
 				id: "27DF6EE4B85F1792"
 				item: { components: { "ftbfiltersystem:filter": "and(mod(alltheores)block())" }, count: 1, id: "ftbfiltersystem:smart_filter" }

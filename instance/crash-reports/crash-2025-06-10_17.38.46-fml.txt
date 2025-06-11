@@ -1,0 +1,80 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2025-06-10 17:38:46
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: lootintegrations_cataclysm --
+Details:
+	Mod file: /C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/lootintegrations_cataclysm-1.1.jar
+	Failure message: Mod lootintegrations_cataclysm requires lootintegrations 0 or above
+		Currently, lootintegrations is not installed
+		
+	Mod version: 1
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 21.0.5, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+	Memory: 530623984 bytes (506 MiB) / 1551892480 bytes (1480 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 3700X 8-Core Processor             
+	Identifier: AuthenticAMD Family 23 Model 113 Stepping 0
+	Microarchitecture: Zen 2
+	Frequency (GHz): 3.60
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: NVIDIA GeForce RTX 3090
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 24576.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.15.7270
+	Memory slot #0 capacity (MiB): 16384.00
+	Memory slot #0 clockSpeed (GHz): 3.60
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 16384.00
+	Memory slot #1 clockSpeed (GHz): 3.60
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 37581.02
+	Virtual memory used (MiB): 13741.25
+	Swap memory total (MiB): 4864.00
+	Swap memory used (MiB): 43.74
+	Space in storage for jna.tmpdir (MiB): available: 392857.47, total: 976135.06
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 392857.47, total: 976135.06
+	Space in storage for io.netty.native.workdir (MiB): available: 392857.47, total: 976135.06
+	Space in storage for java.io.tmpdir (MiB): available: 392857.47, total: 976135.06
+	Space in storage for workdir (MiB): available: 392857.47, total: 976135.06
+	JVM Flags: 3 total; -Xmx12288m -Xms1024m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	ModLauncher: 11.0.4+main.d2e20e43
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.39.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.39.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.39.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.4.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.4.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-11.0.4.jar crash_assistant TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		kotlinforforge@5.8.0
+		kotori_scala@3.6.2-build-0
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.174-universal.jar                   |NeoForge                      |neoforge                      |21.1.174            |Manifest: NOSIGNATURE

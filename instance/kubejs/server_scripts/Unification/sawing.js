@@ -41,6 +41,7 @@ ServerEvents.tags('item', allthemods => {
 
     // completing #minecraft:logs
     allthemods.add('minecraft:logs', [
+        '#integrateddynamics:menril_logs',
         '#deeperdarker:bloom_stems',
         "#deeperdarker:echo_logs",
         "#evilcraft:undead_logs",

@@ -83,7 +83,13 @@ ServerEvents.recipes(allthemods => {
 		    "results": [{"count": 4, "id": "minecraft:leather" }, {"count":4,"id":"pneumaticcraft:ingot_iron_compressed"}]
 	    }
     )
-
+	
+	//Copper Chestplate
+	//Copper Leggings
+    //Copper Boots
+    //Copper Hoe
+    //Copper Shovel
+    
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

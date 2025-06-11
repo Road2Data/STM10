@@ -1,2 +1,9 @@
 /give @p ars_scalaes:glyph_resize
 /give @p reliquary:fertile_lily_pad
+/kubejs help
+/kubejs errors client
+/kubejs errors startup
+/kubejs errors server
+/gamemode spectator
+/gamemode creative
+/kubejs errors server

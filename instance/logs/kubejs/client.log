@@ -1,23 +1,23 @@
-[21:09:38] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
-[21:09:38] [INIT] Loaded plugins:
-[21:09:38] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[21:09:38] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
-[21:09:38] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[21:09:38] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
-[21:09:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[21:09:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[21:09:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[21:09:38] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[21:09:38] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[21:09:38] [INIT] - es.degrassi.mmreborn.common.integration.kubejs.MMRKubeJSPlugin
-[21:09:38] [INIT] - es.degrassi.mmreborn.mekanism.common.integration.kubejs.MMRKubeJSPlugin
-[21:09:38] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
-[21:09:38] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[21:09:38] [INFO] Loaded script client_scripts:Mekanism-Tooltips.js in 0.003 s
-[21:09:38] [INFO] Loaded script client_scripts:RecipeViewer.js in 0.006 s
-[21:09:38] [INFO] client_scripts:server_sync_banlist.js#6: Loaded Java class 'java.util.HashSet'
-[21:09:38] [INFO] Loaded script client_scripts:server_sync_banlist.js in 0.011 s
-[21:09:38] [INFO] Loaded script client_scripts:tooltips.js in 0.002 s
-[21:09:38] [INFO] Loaded 4/4 KubeJS client scripts in 0.039 s with 0 errors and 0 warnings
-[21:09:55] [INFO] Client resource reload complete!
-[21:15:42] [INFO] Loaded Java class 'net.minecraft.world.item.DyeColor'
+[12:06:28] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[12:06:28] [INIT] Loaded plugins:
+[12:06:28] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[12:06:28] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[12:06:28] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[12:06:28] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[12:06:28] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[12:06:28] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[12:06:28] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[12:06:28] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[12:06:28] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[12:06:28] [INIT] - es.degrassi.mmreborn.common.integration.kubejs.MMRKubeJSPlugin
+[12:06:28] [INIT] - es.degrassi.mmreborn.mekanism.common.integration.kubejs.MMRKubeJSPlugin
+[12:06:28] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[12:06:28] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[12:06:28] [INFO] Loaded script client_scripts:Mekanism-Tooltips.js in 0.002 s
+[12:06:28] [INFO] Loaded script client_scripts:RecipeViewer.js in 0.006 s
+[12:06:28] [INFO] client_scripts:server_sync_banlist.js#6: Loaded Java class 'java.util.HashSet'
+[12:06:28] [INFO] Loaded script client_scripts:server_sync_banlist.js in 0.009 s
+[12:06:28] [INFO] Loaded script client_scripts:tooltips.js in 0.005 s
+[12:06:28] [INFO] Loaded 4/4 KubeJS client scripts in 0.037 s with 0 errors and 0 warnings
+[12:06:45] [INFO] Client resource reload complete!
+[12:08:34] [INFO] Loaded Java class 'net.minecraft.world.item.DyeColor'
