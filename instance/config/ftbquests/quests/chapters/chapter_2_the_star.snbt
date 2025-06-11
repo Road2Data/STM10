@@ -13,8 +13,8 @@
 			image: "atm:textures/questpics/industrialforegoing/ether_gas_setup.png"
 			rotation: 0.0d
 			width: 3.4029850746268657d
-			x: 6.0d
-			y: 14.5d
+			x: 5.0d
+			y: -11.5d
 		}
 		{
 			height: 2.0d
@@ -29,16 +29,16 @@
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 7.5d
-			x: -16.0d
-			y: 5.5d
+			x: -8.0d
+			y: 8.0d
 		}
 		{
 			height: 3.0d
 			image: "atm:textures/questpics/mek/sps_cutout.png"
 			rotation: 0.0d
 			width: 3.8063063063063063d
-			x: -13.5d
-			y: 14.0d
+			x: -14.5d
+			y: -3.0d
 		}
 		{
 			height: 3.0d
@@ -61,31 +61,31 @@
 			image: "atm:textures/questpics/gettingstarted/started_pocket4.png"
 			rotation: 0.0d
 			width: 2.9328671328671327d
-			x: -17.0d
-			y: -3.0d
+			x: 12.0d
+			y: -8.5d
 		}
 		{
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_reactor.png"
 			rotation: 0.0d
 			width: 2.644736842105263d
-			x: -15.0d
-			y: -6.0d
+			x: -17.5d
+			y: 6.0d
 		}
 		{
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/started_enchant.png"
 			rotation: 0.0d
 			width: 3.8555555555555556d
-			x: 4.0d
-			y: -14.0d
+			x: 16.0d
+			y: 8.0d
 		}
 		{
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/started_ars.png"
 			rotation: 0.0d
 			width: 3.0594059405940595d
-			x: 6.0d
+			x: 11.5d
 			y: -6.0d
 		}
 		{
@@ -93,8 +93,8 @@
 			image: "atm:textures/questpics/gettingstarted/started_forbidden.png"
 			rotation: 0.0d
 			width: 4.086448598130842d
-			x: 14.0d
-			y: 8.0d
+			x: 17.0d
+			y: 14.5d
 		}
 		{
 			height: 2.0d
@@ -143,6 +143,14 @@
 			width: 19.208791208791208d
 			x: 15.5d
 			y: -12.5d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/pneumaticcraft/pressure_chamber.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: -15.0d
+			y: -6.0d
 		}
 	]
 	order_index: 2
@@ -651,6 +659,11 @@
 			y: -4.0d
 		}
 		{
+			dependencies: [
+				"1EB04FE105ACA4BE"
+				"4CB488E5CF10F3A4"
+				"424E5D02606BCC08"
+			]
 			dependency_requirement: "all_started"
 			hide_dependency_lines: false
 			id: "39B4F361EF611927"
@@ -795,8 +808,8 @@
 					type: "item"
 				}
 			]
-			x: -0.5d
-			y: 6.0d
+			x: -1.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["3AAB71E9BDFD4C1E"]
@@ -823,8 +836,8 @@
 				item: { count: 1, id: "pneumaticcraft:micromissiles" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: 0.0d
+			x: 1.25d
+			y: -6.0d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -974,8 +987,8 @@
 				item: { count: 1, id: "pocketstorage:psu_4" }
 				type: "item"
 			}]
-			x: -12.0d
-			y: -2.0d
+			x: 7.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["11374A3B5BD644F5"]
@@ -1003,11 +1016,12 @@
 				item: { count: 1, id: "industrialforegoing:mycelial_explosive" }
 				type: "item"
 			}]
-			x: 3.125d
-			y: 16.875d
+			x: 4.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["3F5B5D6B788E0A73"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "00AC7CC291A3E590"
 			rewards: [
@@ -1032,40 +1046,12 @@
 				item: { count: 1, id: "evilcraft:lightning_bomb" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["7377C657CED885AC"]
-			hide_dependent_lines: true
-			id: "57F107892FFA1F52"
-			rewards: [
-				{
-					count: 2
-					id: "2318E07F0F0BE4D4"
-					item: {
-						count: 1
-						id: "minecraft:nether_star"
-					}
-					type: "item"
-				}
-				{
-					id: "482141AA100FEEC7"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "34B9EDC0D98175CB"
-				item: { count: 1, id: "mysticalagradditions:nether_star_crux" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: 8.0d
+			x: 1.25d
+			y: -8.75d
 		}
 		{
 			dependencies: ["76C63670624C3C56"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "4CB488E5CF10F3A4"
 			rewards: [
@@ -1097,8 +1083,8 @@
 				item: { count: 1, id: "generatorgalore:netherstar_generator_64x" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 14.0d
+			x: 7.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -1115,8 +1101,8 @@
 				item: { count: 1, id: "mysticalagriculture:witherproof_bricks" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 8.0d
+			x: -5.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["2E88CCBC7B97A1F0"]
@@ -1146,12 +1132,13 @@
 			]
 			size: 1.25d
 			tasks: [{
+				count: 2L
 				id: "4579FF07BB5E1C3C"
 				item: { count: 1, id: "deeperdarker:heart_of_the_deep" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: -4.0d
+			x: 7.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["11374A3B5BD644F5"]
@@ -1179,11 +1166,12 @@
 				item: { count: 1, id: "industrialforegoing:wither_builder" }
 				type: "item"
 			}]
-			x: 1.25d
-			y: 15.0d
+			x: 4.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["76C63670624C3C56"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "263C9A0FC04472AB"
 			rewards: [
@@ -1192,21 +1180,6 @@
 					item: {
 						count: 1
 						id: "generatorgalore:magmatic_generator_8x"
-					}
-					type: "item"
-				}
-				{
-					id: "2A3E7F685CA9AF65"
-					item: {
-						components: {
-							"cyclopscore:capacity": 16000
-							"cyclopscore:fluid_content": {
-								amount: 16000
-								id: "minecraft:lava"
-							}
-						}
-						count: 1
-						id: "evilcraft:dark_tank"
 					}
 					type: "item"
 				}
@@ -1222,8 +1195,8 @@
 				item: { count: 1, id: "generatorgalore:magmatic_generator_64x" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 10.0d
+			x: 7.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -1250,36 +1223,28 @@
 				item: { count: 1, id: "mysticalagriculture:awakened_supremium_ingot_block" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 6.0d
+			x: -3.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["022C38096F79EF07"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "1FCC474860587169"
-			rewards: [
-				{
-					id: "3E70130F23AA1F0B"
-					item: {
-						count: 1
-						id: "forbidden_arcanus:smelter_prism"
-					}
-					type: "item"
-				}
-				{
-					id: "7F8446C0DF91B7FF"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
+			rewards: [{
+				id: "7F8446C0DF91B7FF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			size: 1.25d
 			tasks: [{
+				count: 2L
 				id: "22AA2E15AF0907C2"
 				item: { count: 1, id: "forbidden_arcanus:smelter_prism" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 6.0d
+			x: 11.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -1306,11 +1271,12 @@
 				item: { count: 1, id: "mysticalagradditions:insanium_coal_block" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -5.0d
 			y: 6.0d
 		}
 		{
 			dependencies: ["76C63670624C3C56"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "59EC02C1FBCF14EA"
 			rewards: [
@@ -1335,8 +1301,8 @@
 				item: { count: 1, id: "generatorgalore:ender_generator" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 12.0d
+			x: 9.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["3331EBE1BB4BF64D"]
@@ -1363,8 +1329,8 @@
 				item: { count: 1, id: "bigreactors:insanite_block" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 2.0d
+			x: 7.0d
+			y: 0.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -1390,8 +1356,8 @@
 				item: { count: 1, id: "allthecompressed:diamond_block_5x" }
 				type: "item"
 			}]
-			x: 16.25d
-			y: 5.0d
+			x: 11.0d
+			y: 10.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -1417,8 +1383,8 @@
 				item: { count: 1, id: "allthecompressed:emerald_block_5x" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 5.0d
+			x: 9.0d
+			y: 10.0d
 		}
 		{
 			hide_dependency_lines: false
@@ -1445,11 +1411,12 @@
 				item: { count: 1, id: "allthecompressed:end_stone_5x" }
 				type: "item"
 			}]
-			x: 13.75d
-			y: 5.0d
+			x: 7.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "2D64EF8D803AF9DA"
 			rewards: [
@@ -1473,11 +1440,12 @@
 				item: { count: 1, id: "allthetweaks:mini_exit" }
 				type: "item"
 			}]
-			x: 13.75d
-			y: 3.75d
+			x: 7.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "4D7D4C718837BCA5"
 			rewards: [
@@ -1501,11 +1469,12 @@
 				item: { count: 1, id: "allthetweaks:mini_nether" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.75d
+			x: 9.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "103834774B57D611"
 			rewards: [
@@ -1530,8 +1499,8 @@
 				item: { count: 1, id: "allthetweaks:mini_end" }
 				type: "item"
 			}]
-			x: 16.25d
-			y: 3.75d
+			x: 11.0d
+			y: 8.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -1557,8 +1526,8 @@
 				item: { count: 1, id: "allthecompressed:obsidian_5x" }
 				type: "item"
 			}]
-			x: 16.25d
-			y: 2.5d
+			x: 11.0d
+			y: 6.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -1584,8 +1553,8 @@
 				item: { count: 1, id: "allthecompressed:dirt_5x" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 2.5d
+			x: 9.0d
+			y: 6.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -1611,11 +1580,12 @@
 				item: { count: 1, id: "allthecompressed:netherrack_5x" }
 				type: "item"
 			}]
-			x: 13.75d
-			y: 2.5d
+			x: 7.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["792990DC06DB98F9"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "5A955C0F53AED3ED"
 			rewards: [
@@ -1644,8 +1614,8 @@
 				item: { count: 1, id: "eternal_starlight:chain_of_souls" }
 				type: "item"
 			}]
-			x: -3.75d
-			y: -4.375d
+			x: -6.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["7154D73516548149"]
@@ -1703,8 +1673,8 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 14.0d
+			x: -1.25d
+			y: -11.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -1733,7 +1703,7 @@
 				type: "item"
 			}]
 			x: -1.25d
-			y: -6.25d
+			y: -6.0d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -1765,6 +1735,7 @@
 		}
 		{
 			dependencies: ["372B5BF416CA83A4"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "5869E198DA416346"
 			rewards: [
@@ -1790,11 +1761,12 @@
 				item: { count: 1, id: "mekanism:pellet_antimatter" }
 				type: "item"
 			}]
-			x: -6.25d
-			y: -3.75d
+			x: -9.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["022C38096F79EF07"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "2CECCA9D05D3EF12"
 			rewards: [
@@ -1818,11 +1790,12 @@
 				item: { count: 1, id: "forbidden_arcanus:eternal_stella" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 8.0d
+			x: -7.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["3F5B5D6B788E0A73"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "5A6831E0BD2F6AB5"
 			rewards: [
@@ -1848,11 +1821,12 @@
 				item: { count: 1, id: "evilcraft:piercing_vengeance_focus" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 0.0d
+			x: -16.25d
+			y: 1.875d
 		}
 		{
 			dependencies: ["3F5B5D6B788E0A73"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "73BE1EB3E69814E9"
 			rewards: [
@@ -1877,8 +1851,8 @@
 				item: { count: 1, id: "evilcraft:mace_of_destruction" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -2.0d
+			x: -17.5d
+			y: 1.875d
 		}
 		{
 			dependencies: ["24F3E90C14BFD1B4"]
@@ -1923,8 +1897,8 @@
 				item: { count: 1, id: "aeinfinitybooster:infinity_card" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -6.0d
+			x: -11.25d
+			y: -9.375d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -1957,6 +1931,7 @@
 		}
 		{
 			dependencies: ["372B5BF416CA83A4"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "77F2271C45DB49BA"
 			rewards: [
@@ -1980,8 +1955,8 @@
 				item: { count: 1, id: "mekanism:module_gravitational_modulating_unit" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: 3.0d
+			x: -9.375d
+			y: 4.375d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -2036,8 +2011,8 @@
 				item: { count: 1, id: "powah:player_transmitter_nitro" }
 				type: "item"
 			}]
-			x: -14.0d
-			y: -4.0d
+			x: -12.5d
+			y: 4.375d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -2065,7 +2040,7 @@
 				item: { count: 1, id: "mysticalagradditions:insanium_block" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -7.0d
 			y: 6.0d
 		}
 		{
@@ -2095,8 +2070,8 @@
 				item: { count: 1, id: "mysticalagradditions:insanium_gemstone_block" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 8.0d
+			x: -3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -2124,8 +2099,8 @@
 				item: { count: 1, id: "mysticalagriculture:master_infusion_crystal" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 6.0d
+			x: -3.0d
+			y: 8.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2142,8 +2117,8 @@
 				item: { count: 1, id: "minecraft:green_concrete" }
 				type: "item"
 			}]
-			x: 3.125d
-			y: 10.625d
+			x: 5.0d
+			y: 10.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2160,8 +2135,8 @@
 				item: { count: 8, id: "minecraft:green_concrete_powder" }
 				type: "item"
 			}]
-			x: 1.875d
-			y: 10.625d
+			x: 3.0d
+			y: 10.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2178,8 +2153,8 @@
 				item: { count: 2, id: "minecraft:lime_concrete" }
 				type: "item"
 			}]
-			x: 4.375d
-			y: 10.625d
+			x: 1.0d
+			y: 10.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2196,8 +2171,8 @@
 				item: { count: 17, id: "minecraft:magenta_concrete" }
 				type: "item"
 			}]
-			x: 3.125d
-			y: 9.375d
+			x: 5.0d
+			y: 8.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2214,8 +2189,8 @@
 				item: { count: 8, id: "minecraft:magenta_concrete_powder" }
 				type: "item"
 			}]
-			x: 1.875d
-			y: 9.375d
+			x: 3.0d
+			y: 8.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2232,8 +2207,8 @@
 				item: { count: 11, id: "minecraft:pink_concrete" }
 				type: "item"
 			}]
-			x: 3.125d
-			y: 8.125d
+			x: 5.0d
+			y: 6.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2250,8 +2225,8 @@
 				item: { count: 11, id: "minecraft:pink_concrete_powder" }
 				type: "item"
 			}]
-			x: 1.875d
-			y: 8.125d
+			x: 3.0d
+			y: 6.0d
 		}
 		{
 			icon: {
@@ -2388,7 +2363,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 0.0d
+			y: -6.0d
 		}
 		{
 			id: "11374A3B5BD644F5"
@@ -2415,8 +2390,8 @@
 				item: { count: 1, id: "industrialforegoing:dryrubber" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 17.0d
+			x: 4.5d
+			y: -9.0d
 		}
 		{
 			id: "7377C657CED885AC"
@@ -2442,7 +2417,7 @@
 				item: { count: 1, id: "mysticalagriculture:inferium_essence" }
 				type: "item"
 			}]
-			x: -10.0d
+			x: -5.0d
 			y: 8.0d
 		}
 		{
@@ -2470,8 +2445,8 @@
 				item: { count: 1, id: "ars_nouveau:source_gem" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -8.0d
+			x: 9.0d
+			y: -6.0d
 		}
 		{
 			icon: {
@@ -2500,8 +2475,8 @@
 				item: { count: 1, id: "alltheores:uranium_ingot" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 2.0d
+			x: 9.0d
+			y: 0.0d
 		}
 		{
 			icon: {
@@ -2530,8 +2505,8 @@
 				item: { count: 1, id: "alltheores:steel_ingot" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -6.75d
+			x: -12.0d
+			y: -3.0d
 		}
 		{
 			icon: {
@@ -2561,8 +2536,8 @@
 				item: { count: 1, id: "powah:dielectric_paste" }
 				type: "item"
 			}]
-			x: -18.0d
-			y: -6.0d
+			x: -15.0d
+			y: 5.0d
 		}
 		{
 			icon: {
@@ -2592,8 +2567,8 @@
 				item: { count: 1, id: "minecraft:bookshelf" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 0.0d
+			x: 13.0d
+			y: 8.0d
 		}
 		{
 			icon: {
@@ -2623,7 +2598,7 @@
 				item: { count: 1, id: "evilcraft:dark_gem" }
 				type: "item"
 			}]
-			x: 12.0d
+			x: -20.0d
 			y: 1.0d
 		}
 		{
@@ -2640,8 +2615,8 @@
 				item: { count: 1, id: "eternal_starlight:book" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: -6.0d
+			x: -15.0d
+			y: -10.0d
 		}
 		{
 			icon: {
@@ -2671,8 +2646,8 @@
 				item: { count: 1, id: "minecraft:furnace" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 12.0d
+			x: 9.0d
+			y: -4.0d
 		}
 		{
 			id: "24F3E90C14BFD1B4"
@@ -2787,8 +2762,8 @@
 				item: { count: 1, id: "hostilenetworks:blank_data_model" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 16.0d
+			x: 1.0d
+			y: -11.0d
 		}
 		{
 			id: "2E88CCBC7B97A1F0"
@@ -2815,8 +2790,8 @@
 				item: { count: 1, id: "minecraft:echo_shard" }
 				type: "item"
 			}]
-			x: 18.0d
-			y: -6.0d
+			x: 9.0d
+			y: -2.0d
 		}
 		{
 			icon: {
@@ -2846,8 +2821,8 @@
 				item: { count: 1, id: "forbidden_arcanus:arcane_crystal" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 7.0d
+			x: 13.0d
+			y: 4.0d
 		}
 		{
 			id: "2B57C8D2F98A9279"
@@ -2874,8 +2849,8 @@
 				item: { count: 1, id: "pocketstorage:psu_1" }
 				type: "item"
 			}]
-			x: -14.0d
-			y: -2.0d
+			x: 9.0d
+			y: -8.0d
 		}
 		{
 			icon: {
@@ -3027,7 +3002,7 @@
 				}
 			]
 			x: 0.0d
-			y: 8.0d
+			y: 12.0d
 		}
 		{
 			id: "31B0267C47DB9D98"
@@ -3044,8 +3019,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.0d
-			y: 12.0d
+			x: -3.5d
+			y: 15.5d
 		}
 		{
 			id: "5EC1B868720BF521"
@@ -3212,15 +3187,14 @@
 				item: { count: 1, id: "allthemodium:unobtainium_vibranium_alloy_block" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 6.0d
+			x: 1.0d
+			y: 8.0d
 		}
 		{
 			icon: {
 				id: "create:andesite_alloy"
 			}
 			id: "4B7D387CEFF9667E"
-			optional: true
 			shape: "rsquare"
 			size: 2.0d
 			tasks: [{
@@ -3228,27 +3202,38 @@
 				item: { count: 1, id: "minecraft:andesite" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -6.0d
+			x: 9.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4B7D387CEFF9667E"]
 			dependency_requirement: "one_completed"
 			id: "30CC20E33EFA2EDA"
-			optional: true
-			rewards: [{
-				id: "04B21AD545674E51"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
+			rewards: [
+				{
+					id: "04B21AD545674E51"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 2
+					id: "54898F105FFEA830"
+					item: {
+						count: 1
+						id: "create:blaze_cake"
+					}
+					type: "item"
+				}
+			]
 			size: 1.25d
 			tasks: [{
+				count: 2L
 				id: "63C76BC24DF941C2"
 				item: { count: 1, id: "create:blaze_burner" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -4.0d
+			x: 7.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4B7D387CEFF9667E"]
@@ -3266,8 +3251,8 @@
 				item: { count: 1, id: "create:mechanical_arm" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -4.0d
+			x: 11.25d
+			y: 1.875d
 		}
 		{
 			icon: {
@@ -3282,11 +3267,12 @@
 				id: "43BC5EBC129DCE92"
 				type: "advancement"
 			}]
-			x: 8.0d
-			y: -6.0d
+			x: -12.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["7D359283625C1869"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "2A444F4CCC72545D"
 			size: 1.25d
@@ -3295,12 +3281,12 @@
 				item: { count: 1, id: "cataclysm:abyssal_sacrifice" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -4.0d
+			x: -3.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["7D359283625C1869"]
-			hide_dependent_lines: true
+			hide_dependency_lines: false
 			id: "4BD203AD481DDE8F"
 			size: 1.25d
 			tasks: [{
@@ -3308,12 +3294,11 @@
 				item: { count: 1, id: "cataclysm:meat_shredder" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -4.0d
+			x: -7.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["7D359283625C1869"]
-			hide_dependent_lines: true
 			id: "5B2FD54E425D5C9D"
 			size: 1.25d
 			tasks: [{
@@ -3321,8 +3306,8 @@
 				item: { count: 1, id: "cataclysm:void_forge" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -4.0d
+			x: -7.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -3371,8 +3356,35 @@
 				item: { count: 1, id: "pneumaticcraft:printed_circuit_board" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: -1.25d
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["29D28983E0200A3C"]
+			id: "5AFD7D551DAB0C9F"
+			rewards: [
+				{
+					id: "7BD808829FE291EE"
+					item: {
+						count: 1
+						id: "reliquary:witherless_rose"
+					}
+					type: "item"
+				}
+				{
+					id: "1BD2DFE088479F27"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "424E5D02606BCC08"
+				item: { count: 1, id: "ars_nouveau:glyph_wither" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -6.0d
 		}
 	]
 }

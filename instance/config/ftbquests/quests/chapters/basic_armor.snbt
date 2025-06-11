@@ -14,8 +14,8 @@
 			image: "atm:textures/questpics/basicarmor/armor_title.png"
 			rotation: 0.0d
 			width: 13.30952380952381d
-			x: 4.0d
-			y: -0.5d
+			x: 4.5d
+			y: 0.5d
 		}
 		{
 			height: 1.5d
@@ -47,7 +47,7 @@
 			rotation: 0.0d
 			width: 1.4029850746268657d
 			x: 0.5d
-			y: -10.5d
+			y: -11.5d
 		}
 		{
 			height: 1.0d
@@ -95,7 +95,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -0.5d
-			y: -10.5d
+			y: -11.5d
 		}
 		{
 			height: 1.0d
@@ -301,6 +301,11 @@
 					item: { count: 1, id: "minecraft:chainmail_boots" }
 					type: "item"
 				}
+				{
+					id: "31B5F07C7A460547"
+					item: { count: 1, id: "aether:chainmail_gloves" }
+					type: "item"
+				}
 			]
 			x: -5.0d
 			y: -6.0d
@@ -333,6 +338,11 @@
 				{
 					id: "474E1537C5CA7FB7"
 					item: { count: 1, id: "minecraft:golden_boots" }
+					type: "item"
+				}
+				{
+					id: "1BD6B133BDC5A825"
+					item: { count: 1, id: "aether:golden_gloves" }
 					type: "item"
 				}
 			]
@@ -368,6 +378,11 @@
 					item: { count: 1, id: "minecraft:iron_boots" }
 					type: "item"
 				}
+				{
+					id: "3531D89995A44B91"
+					item: { count: 1, id: "aether:iron_gloves" }
+					type: "item"
+				}
 			]
 			x: 0.0d
 			y: -6.0d
@@ -401,6 +416,11 @@
 					item: { count: 1, id: "minecraft:diamond_boots" }
 					type: "item"
 				}
+				{
+					id: "41E1DF4BEC7ADDFB"
+					item: { count: 1, id: "aether:diamond_gloves" }
+					type: "item"
+				}
 			]
 			x: 6.0d
 			y: -6.0d
@@ -432,6 +452,11 @@
 				{
 					id: "10C12B9DBDE7A276"
 					item: { count: 1, id: "minecraft:netherite_boots" }
+					type: "item"
+				}
+				{
+					id: "1E452E6C9447E222"
+					item: { count: 1, id: "aether:netherite_gloves" }
 					type: "item"
 				}
 			]
@@ -1194,7 +1219,7 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: -0.5d
 			y: -2.5d
 		}
 		{
@@ -1722,8 +1747,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -2.5d
+			x: 6.5d
+			y: -1.5d
 		}
 		{
 			id: "7FABB77A60E7962C"
@@ -3543,6 +3568,196 @@
 			}]
 			x: 20.5d
 			y: 4.75d
+		}
+		{
+			dependencies: ["45044E6A32D731B5"]
+			id: "550F02BDD135B597"
+			rewards: [{
+				id: "002032694636FCD2"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "1F007593AD7B15C6"
+					item: { count: 1, id: "aether:neptune_helmet" }
+					type: "item"
+				}
+				{
+					id: "69EFFF4FC4D926AD"
+					item: { count: 1, id: "aether:neptune_chestplate" }
+					type: "item"
+				}
+				{
+					id: "52D48C2841192D0E"
+					item: { count: 1, id: "aether:neptune_leggings" }
+					type: "item"
+				}
+				{
+					id: "683631916F3E8496"
+					item: { count: 1, id: "aether:neptune_boots" }
+					type: "item"
+				}
+				{
+					id: "6BFCC7E797B28E39"
+					item: { count: 1, id: "aether:neptune_gloves" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["45044E6A32D731B5"]
+			id: "6CE67B9E8079959E"
+			rewards: [{
+				id: "0C187C8615112703"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "635370E4E4E6BBE0"
+					item: { count: 1, id: "aether:phoenix_helmet" }
+					type: "item"
+				}
+				{
+					id: "3F9A94A8B9EF2983"
+					item: { count: 1, id: "aether:phoenix_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2CC53E5A53895713"
+					item: { count: 1, id: "aether:phoenix_leggings" }
+					type: "item"
+				}
+				{
+					id: "3962941E35589703"
+					item: { count: 1, id: "aether:phoenix_boots" }
+					type: "item"
+				}
+				{
+					id: "666CE5D93858EB19"
+					item: { count: 1, id: "aether:phoenix_gloves" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["45044E6A32D731B5"]
+			id: "1FAE2368CCE70905"
+			rewards: [{
+				id: "1C71C7610E807808"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "7F8605892AA64309"
+					item: { count: 1, id: "aether:gravitite_helmet" }
+					type: "item"
+				}
+				{
+					id: "01E0A4DA24C64B7C"
+					item: { count: 1, id: "aether:gravitite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "355423F97892C779"
+					item: { count: 1, id: "aether:gravitite_leggings" }
+					type: "item"
+				}
+				{
+					id: "4C018A9767013AA7"
+					item: { count: 1, id: "aether:gravitite_boots" }
+					type: "item"
+				}
+				{
+					id: "6DD70B243D5E7C60"
+					item: { count: 1, id: "aether:gravitite_gloves" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["45044E6A32D731B5"]
+			id: "50DF1AEA6A82C669"
+			rewards: [{
+				id: "763CA7F72D03355A"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "38B6BA532034C6D5"
+					item: { count: 1, id: "aether:zanite_helmet" }
+					type: "item"
+				}
+				{
+					id: "0271D023EE0A2D35"
+					item: { count: 1, id: "aether:zanite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3F530E446AC82798"
+					item: { count: 1, id: "aether:zanite_leggings" }
+					type: "item"
+				}
+				{
+					id: "025FF1D0F50FDFD8"
+					item: { count: 1, id: "aether:zanite_boots" }
+					type: "item"
+				}
+				{
+					id: "61AB7E796719A42E"
+					item: { count: 1, id: "aether:zanite_gloves" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["45044E6A32D731B5"]
+			id: "28B8AE914150DAB7"
+			tasks: [
+				{
+					id: "6BEE83FFA8D19F21"
+					item: { count: 1, id: "aether:valkyrie_helmet" }
+					type: "item"
+				}
+				{
+					id: "3D6BDDB82701D8E2"
+					item: { count: 1, id: "aether:valkyrie_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3DB18479E23484A9"
+					item: { count: 1, id: "aether:valkyrie_leggings" }
+					type: "item"
+				}
+				{
+					id: "385E571B7B09E3C3"
+					item: { count: 1, id: "aether:valkyrie_boots" }
+					type: "item"
+				}
+				{
+					id: "7B73B423494E0B61"
+					item: { count: 1, id: "aether:valkyrie_gloves" }
+					type: "item"
+				}
+				{
+					id: "5D9757CF6B119294"
+					item: { count: 1, id: "aether:valkyrie_cape" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -1.5d
 		}
 	]
 }

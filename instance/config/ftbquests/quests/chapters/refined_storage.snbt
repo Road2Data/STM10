@@ -8,6 +8,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["74AA5E7713F34F89"]
 			id: "148E823B4CA0AB6E"
 			require_sequential_tasks: true
 			rewards: [
@@ -1211,6 +1212,31 @@
 			}]
 			x: -3.0d
 			y: 1.5d
+		}
+		{
+			id: "74AA5E7713F34F89"
+			rewards: [
+				{
+					id: "3A45505B3FE23142"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "282A881DF82AB56C"
+					item: {
+						count: 1
+						id: "minecraft:slime_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55332F9D31574537"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
 		}
 	]
 }

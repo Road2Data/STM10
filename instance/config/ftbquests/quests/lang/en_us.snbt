@@ -3154,6 +3154,9 @@
 		""
 		"Note: This will also create a byproduct of &7Spent Nuclear Waste&r, which needs to be pumped into a Waste Barrel for storage."
 	]
+	quest.1FAE2368CCE70905.quest_desc: ["&5Gravitite&f can be mined in &l&bThe Aether."]
+	quest.1FAE2368CCE70905.quest_subtitle: "20"
+	quest.1FAE2368CCE70905.title: "Gravitite Armor"
 	quest.1FAFDB20F504688E.quest_desc: ["&5Enchanting&r gets a few changes with &5&lApotheosis&r. \\n\\nTo summarize it, 15 &7Bookshelves&r won't be enough now. \\n\\nThere's new Bookshelves and actions you can do with &5Enchantment Tables&r now and hopefully these quests will help you understand."]
 	quest.1FAFDB20F504688E.title: "&5&lApothic Enchanting"
 	quest.1FC1588A131B6A4A.quest_desc: ["Just like making the &6&lATM Star&r normally, automating it needs to be within the &6&lRunic Star Altar&r! \\n\\nCheck out the Quest in Chapter 3 to learn how to build and use it."]
@@ -4069,7 +4072,7 @@
 		"&o&bappliedenergistics.github.io&f&r."
 	]
 	quest.2893F483C10293E6.quest_subtitle: "Virtual Storage System"
-	quest.2893F483C10293E6.title: "Applied Energistics 2"
+	quest.2893F483C10293E6.title: "&b&lApplied Energistics 2"
 	quest.2894F11A73335179.quest_desc: [
 		"Smelting down Arcane Crystals will give you Arcane Crystal Dust."
 		""
@@ -4080,6 +4083,9 @@
 	quest.289B30DAC960BFF2.quest_subtitle: "End City Chests"
 	quest.28B1787B61BB214B.quest_desc: ["Lets take the Epoxy from the IV tier and make some reinforcements for our next tier Processors!"]
 	quest.28B1787B61BB214B.quest_subtitle: "So many uses for Epoxy!"
+	quest.28B8AE914150DAB7.quest_desc: ["&7Valkyrie Armor&f can be looted from Silver Dungeons in &l&bThe Aether."]
+	quest.28B8AE914150DAB7.quest_subtitle: "20"
+	quest.28B8AE914150DAB7.title: "Valkyrie Armor"
 	quest.28BF66D1B8CD4D44.quest_desc: ["&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush.\\n\\nEach part can be crafted by combing the bare part with certain items to give them specific modifiers. As there are too many modifiers to type out, make sure to check the guide book for more info!\\n\\nTo craft your Broom, simply place each part into the crafting table. The Broom will require Blood to function properly."]
 	quest.28BF66D1B8CD4D44.quest_subtitle: "Broom Broom"
 	quest.28BF66D1B8CD4D44.title: "&cBlood &dBrooms"
@@ -8307,6 +8313,9 @@
 	quest.50C9CB8FB16E453D.title: "&bBurning Arena&r: Home of the &b&lIgnis&r"
 	quest.50DBB87E53017E60.quest_desc: ["&bFluid Valves&r can be used to stop &bPipes&r from moving &bFluid&r. \\n\\nGive them a Rotation, most likely from a &cValve Handle&r, to stop moving &bFluids&r. \\n\\nJust Rotate it again to get the &bFluids&r back!"]
 	quest.50DBB87E53017E60.title: "&bFluid Valve"
+	quest.50DF1AEA6A82C669.quest_desc: ["&9Zanite Gemstones&f can be mined in &l&bThe Aether."]
+	quest.50DF1AEA6A82C669.quest_subtitle: "15"
+	quest.50DF1AEA6A82C669.title: "Zanite Armor"
 	quest.50EEDDDE129D2742.quest_desc: ["{atm9.quest.enchant.desc.hellshelf}"]
 	quest.50EEDDDE129D2742.title: "{atm9.quest.enchant.hellshelf}"
 	quest.50F1C4521D282C60.quest_desc: ["The Bulwark are the heavy units of these militants. \\n\\nThey have 12 Hearts with 18 Armor Points! \\n\\nTheir weapon is the &b&lChemthrower&r with a &8&lHeavy Plated Shield&r in the Offhand. \\n\\nIf you somehow kill one you will get &aEmeralds&r and Masterwork Shader Bags!"]
@@ -8790,6 +8799,9 @@
 		""
 		"This will allow us to smelt higher tier ingots, like HV Superconducting metal!"
 	]
+	quest.550F02BDD135B597.quest_desc: ["&1Neptune Armor&f can be looted from Bronze Dungeons in &l&bThe Aether."]
+	quest.550F02BDD135B597.quest_subtitle: "15"
+	quest.550F02BDD135B597.title: "Neptune Armor"
 	quest.55160BAFFD9E2988.quest_desc: ["The quintessential &9Macaw&r Mod, &9&lMacaw's Furniture&r! \\n\\nIt adds everything you need! Chairs, Tables, Bookshelves, and even Drawers!"]
 	quest.55160BAFFD9E2988.title: "&l&9Macaw's Furniture&r"
 	quest.55186B8602689B66.quest_desc: [
@@ -9017,7 +9029,6 @@
 		"We will need a lot of Naq Alloy, so we can make all of the Naq Alloy Frames needed for the Rotary Hearth."
 	]
 	quest.57D12E37E980FDBB.quest_subtitle: "This is Naq the alloy you were looking for"
-	quest.57F107892FFA1F52.quest_desc: ["To grow Nether Star Seeds you'll need a Crux below the Farmland. Yes growing Nether Stars needed to be made more expensive! \\n\\nTo make the Nether Star Crux you'll need &7Withering Souls&r which have a 1/3 chance drop from &8Withers&r."]
 	quest.57F1B60DEA622275.quest_desc: ["That wafer needs to be cut into chips now, so back to the Cutter with these"]
 	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level is the lowest pickaxe level, needing a pickaxe. Any pickaxe can mine these. Items that are Tier 1 would be like Stone, Furnace, and Coal Ore."]
 	quest.57F47BA495B27F83.title: "&9Harvest Tier 1"
@@ -11220,6 +11231,9 @@
 		""
 		"Each rune gives a bonus of 10% additively."
 	]
+	quest.6CE67B9E8079959E.quest_desc: ["&6Phoenix Armor&f can be looted from Gold Dungeons in &l&bThe Aether."]
+	quest.6CE67B9E8079959E.quest_subtitle: "20"
+	quest.6CE67B9E8079959E.title: "Phoenix Armor"
 	quest.6CE7115DA2B23776.quest_desc: ["Not much better than the Flimsy one... \\n\\nThis can hold a single &3Spell&r more than the Flimsy Journal! That's one more very powerful &3Spell&r at the ready!"]
 	quest.6CE7115DA2B23776.title: "Ironbound Journal"
 	quest.6D082AE4CF9A56DC.quest_desc: [
@@ -12135,6 +12149,9 @@
 	quest.748A01B5607C475B.quest_desc: ["Holds Talismans... not much else. Might also hold your Pants up but haven't tested it yet."]
 	quest.748A01B5607C475B.quest_subtitle: "Found in Mineshafts or Strongholds"
 	quest.748A01B5607C475B.title: "&6Leather Belt"
+	quest.74AA5E7713F34F89.quest_desc: ["&bRefined Storage&f is a mass storage mod for Minecraft that offers the player a network-based, allowing them to store items, fluids, and gasses on a massively expandable device network. "]
+	quest.74AA5E7713F34F89.quest_subtitle: "Virtual Storage that Won't Break the Bank"
+	quest.74AA5E7713F34F89.title: "&l&bRefined Storage"
 	quest.74ACCEB6DC9EF6F7.quest_desc: ["The &dVoid &4Assault Shoulder Weapon &d(V.&4A.S.W.)&r is just like the Wither version but better! \\n\\nNow it only shoots &dVoid &4Howitzers&r which will do more Damage and cause &dVoid Runes&r to come out of the ground, in the area the &4Howitzer&r hit. \\n\\nJust at the cost of the long cooldown, but we've got time to wait. \\n\\nIt can crafted by combining the &4W.A.S.W.&r and a &dVoid Core&r in the &4Mechanical Infusion Anvil&r."]
 	quest.74ACCEB6DC9EF6F7.title: "&dV.&4A.S.W. &d(Void &4Assault Shoulder Weapon)"
 	quest.74AE214747A3DB1A.quest_desc: ["Increases how much pressure things can hold."]

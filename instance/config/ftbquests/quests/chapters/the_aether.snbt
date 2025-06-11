@@ -41,5 +41,55 @@
 			x: -0.5d
 			y: 1.0d
 		}
+		{
+			id: "0EA3C15F95C4D6A7"
+			tasks: [{
+				id: "1DFD529BCCD27BC9"
+				item: { count: 1, id: "aether:skyroot_log" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "7698C8EF7A8C3A09"
+			tasks: [{
+				id: "53A9F58F1A879693"
+				item: { count: 1, id: "aether:holystone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "3438C2165CCDFF5B"
+			tasks: [{
+				id: "5B169EC77B61D871"
+				item: { count: 1, id: "aether:zanite_ore" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			id: "67BE28924A17B63C"
+			tasks: [{
+				id: "09BE067186723FD8"
+				item: { count: 1, id: "aether:ambrosium_ore" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			id: "030306BD2F3F712F"
+			tasks: [{
+				id: "654744DF4F3DD6AD"
+				item: { count: 1, id: "aether:gravitite_ore" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
 	]
 }
