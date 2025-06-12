@@ -141,6 +141,7 @@ key_key.refinedstorage.open_wireless_grid:key.keyboard.unknown
 key_key.refinedstorage.open_portable_grid:key.keyboard.unknown
 key_key.refinedstorage.open_wireless_autocrafting_monitor:key.keyboard.unknown
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
+key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.the_bumblezone.beehemoth_up:key.keyboard.unknown
 key_key.the_bumblezone.beehemoth_down:key.keyboard.unknown
 key_tombstone.message.knowledge_of_death:key.keyboard.unknown
@@ -202,7 +203,7 @@ key_key.inventoryessentials.single_transfer:key.keyboard.unknown
 key_key.inventoryessentials.screen_bulk_drop:key.keyboard.unknown
 key_key.trashslot.toggle:key.keyboard.t
 key_key.trashslot.toggle_lock:key.keyboard.unknown
-key_key.trashslot.delete:key.keyboard.unknown
+key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.delete_all:key.keyboard.unknown
 key_keybind.advancedperipherals.description:key.keyboard.left.control
 key_placebo.toggleTrails:key.keyboard.unknown
@@ -212,10 +213,10 @@ key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.tempad.shortcut:key.keyboard.unknown
 key_key.tempad.macro:key.keyboard.unknown
 key_key.tempad.new_location:key.keyboard.unknown
@@ -246,6 +247,7 @@ key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.scarf_of_invisibility.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_key.toastcontrol.clear:key.keyboard.unknown
+key_key.usetiab:key.keyboard.g
 key_mininggadgets.text.open_gui:key.keyboard.m
 key_key.xycraft_core.modifier_key:key.keyboard.unknown
 key_key.easy_villagers.pick_up:key.keyboard.unknown
@@ -295,7 +297,7 @@ key_key.silentgear.displayItemConstruction:key.keyboard.left.alt
 key_key.silentgear.openItem:key.keyboard.x
 key_key.curios.open.desc:key.keyboard.g
 key_key.apotheosis.toggle_radial_mining:key.keyboard.unknown
-key_key.apotheosis.open_world_tier_select:key.keyboard.unknown
+key_key.apotheosis.open_world_tier_select:key.keyboard.page.up
 key_key.apotheosis.link_item_to_chat:key.keyboard.unknown
 key_key.apotheosis.compare_equipment:key.keyboard.left.shift
 key_crafting_on_a_stick.key.open_curios:key.keyboard.c
@@ -341,8 +343,8 @@ key_key.mekanism.module_tweaker:key.keyboard.unknown
 key_key.mekanism.key_boost:key.keyboard.unknown
 key_key.mekanism.key_hud:key.keyboard.unknown
 key_key.gmut.vertical_speed:key.keyboard.unknown
-key_key.invtweaks_sort_player.desc:key.keyboard.unknown
-key_key.invtweaks_sort_inventory.desc:key.keyboard.unknown
+key_key.invtweaks_sort_player.desc:key.mouse.middle
+key_key.invtweaks_sort_inventory.desc:key.mouse.middle
 key_key.invtweaks_sort_either.desc:key.mouse.middle
 key_pneumaticcraft.armor.options:key.keyboard.unknown
 key_pneumaticcraft.helmet.hack:key.keyboard.unknown
@@ -378,6 +380,9 @@ key_key.ars_nouveau.qc9:key.keyboard.unknown
 key_key.ars_nouveau.qc10:key.keyboard.unknown
 key_key.ars_nouveau.familiar_toggle:key.keyboard.unknown
 key_key.ars_elemental.open_pouch:key.keyboard.j
+key_key.aether.open_accessories.desc:key.keyboard.i
+key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
+key_key.aether.invisibility_toggle.desc:key.keyboard.v
 key_key.relics.active_abilities_list:key.keyboard.unknown
 key_key.relics.research_relic:key.keyboard.left.shift
 key_crashutils.openscreen:key.keyboard.u:CONTROL
@@ -474,13 +479,13 @@ key_key.advanced_ae.quantum_armor_config:key.keyboard.unknown
 key_key.advanced_ae.quantum_magnet_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown
-key_key.modern_industrialization.toggle_3x3:key.keyboard.unknown
 key_key.modern_industrialization.toggle_flight:key.keyboard.unknown
-key_key.extended_industrialization.toggle_helmet_ability:key.keyboard.unknown
-key_key.extended_industrialization.toggle_chestplate_ability:key.keyboard.unknown
+key_key.modern_industrialization.toggle_3x3:key.keyboard.unknown
+key_key.extended_industrialization.toggle_boots_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_leggings_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown
-key_key.extended_industrialization.toggle_boots_ability:key.keyboard.unknown
+key_key.extended_industrialization.toggle_chestplate_ability:key.keyboard.unknown
+key_key.extended_industrialization.toggle_helmet_ability:key.keyboard.unknown
 key_theurgy.key.change_item_mode:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_pneumaticcraft.armor.upgrade.fall_protection:key.keyboard.unknown

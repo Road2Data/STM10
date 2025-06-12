@@ -7,3 +7,15 @@
 /gamemode spectator
 /gamemode creative
 /kubejs errors server
+/locate biome #biomeswevegone:dead
+/tp @s 4056 72 2368
+/gamemode creative
+/locate biome minecraft:plains
+/tp @s 435 97 -51
+/locate structure minecraft:village_plains
+/tp @s -2016 ~ 64
+/gamemode spectator
+/gamemode survival
+/difficulty peaceful
+/spawnpoint
+/kill

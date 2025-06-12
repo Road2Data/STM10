@@ -1,0 +1,44 @@
+{
+	id: "68A337987B5BE391"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "enchanted_books"
+	}
+	loot_size: 1
+	order_index: 42
+	rewards: [
+		{ id: "42B362AAAA87F79B", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:unbreaking": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "69A72645C2BAC886", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:mending": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "4613D251C4DE6758", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:efficiency": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1DFA3AD1C58B7AB1", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fortune": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "4FC487F84603E2CA", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:silk_touch": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6C648BE6F4A785DC", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:looting": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "2EC71AF3FFC6A6C7", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:sharpness": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "523E8EEEE81FA65F", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:smite": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "18AE456C99509B80", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:blast_protection": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6EE7CB111DA28CDB", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fire_protection": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1D23F5556CEE1F05", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:projectile_protection": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6DDACC02FC390F1C", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:protection": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "739CB401A0F01753", item: { components: { "minecraft:stored_enchantments": { levels: { "ars_nouveau:mana_boost": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "249532B21896D827", item: { components: { "minecraft:stored_enchantments": { levels: { "ars_nouveau:mana_regen": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "2EDE8D0457F15F6F", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:sweeping_edge": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1E6D752C4E503983", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:bane_of_arthropods": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "41D72DE809AE246A", item: { components: { "minecraft:stored_enchantments": { levels: { "tombstone:blessing": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "18B9B8E8A4DA305C", item: { components: { "minecraft:stored_enchantments": { levels: { "apothic_spawners:capturing": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "427632C543DAA0AF", item: { components: { "minecraft:stored_enchantments": { levels: { "twilightforest:chill_aura": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "570131E9710D9233", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:efficiency": 5 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "75862CA54C3D1A9E", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:feather_falling": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1516F6E12C0C9E8E", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:feather_falling": 4 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "2A75375EA3BB8DE4", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:density": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "4E0BE07A64640F4D", item: { components: { "minecraft:stored_enchantments": { levels: { "tombstone:decrepitude": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "5039624D74302FBE", item: { components: { "minecraft:stored_enchantments": { levels: { "tombstone:curse_of_bones": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "18755567620F39BE", item: { components: { "minecraft:stored_enchantments": { levels: { "the_bumblezone:comb_cutter": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "733F0DCDFA56347D", item: { components: { "minecraft:stored_enchantments": { levels: { "tombstone:frostbite": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "52DCB19A2A6663F3", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:frost_walker": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+	]
+}

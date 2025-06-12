@@ -53,8 +53,8 @@
 			image: "atm:textures/questpics/allthemodium/all_piglich.png"
 			rotation: 0.0d
 			width: 1.8827258320126785d
-			x: 1.5d
-			y: -17.0d
+			x: -3.5d
+			y: -12.5d
 		}
 		{
 			height: 3.0d
@@ -607,14 +607,9 @@
 		}
 		{
 			dependencies: [
-				"3C7C9EE57AD00A76"
-				"038812A14456236C"
 				"6877F33323910716"
-				"6D1E8399AD39FFC8"
-				"4195800B4D7631E2"
-				"4B12425E74C5E511"
-				"00AC7CC291A3E590"
-				"486B5A605D79EA10"
+				"13BB75A7E1973488"
+				"0848056FDD3F9BDA"
 			]
 			id: "1CE7B24E7E62C25B"
 			rewards: [
@@ -812,62 +807,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["3AAB71E9BDFD4C1E"]
-			hide_dependent_lines: true
-			id: "3C7C9EE57AD00A76"
-			rewards: [
-				{
-					id: "774C3ADCACE6B30D"
-					item: {
-						count: 1
-						id: "pneumaticcraft:micromissiles"
-					}
-					type: "item"
-				}
-				{
-					id: "62C4205FD240B934"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "5CEAEBB4379E764F"
-				item: { count: 1, id: "pneumaticcraft:micromissiles" }
-				type: "item"
-			}]
-			x: 1.25d
-			y: -6.0d
-		}
-		{
-			dependencies: ["4485C4ABD57874EB"]
-			hide_dependent_lines: true
-			id: "038812A14456236C"
-			rewards: [
-				{
-					id: "29E6F3A82DB43EB8"
-					item: {
-						count: 1
-						id: "ae2:inscriber"
-					}
-					type: "item"
-				}
-				{
-					id: "04E14D593E97F760"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "22B9E008F13DF933"
-				item: { count: 1, id: "ae2:quantum_ring" }
-				type: "item"
-			}]
-			x: -3.75d
-			y: -9.375d
-		}
-		{
 			dependencies: ["340CDF4357E22A43"]
 			hide_dependent_lines: true
 			id: "486B5A605D79EA10"
@@ -1018,36 +957,6 @@
 			}]
 			x: 4.5d
 			y: -4.0d
-		}
-		{
-			dependencies: ["3F5B5D6B788E0A73"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			id: "00AC7CC291A3E590"
-			rewards: [
-				{
-					count: 3
-					id: "06BC8229172DFBC9"
-					item: {
-						count: 1
-						id: "evilcraft:lightning_grenade"
-					}
-					type: "item"
-				}
-				{
-					id: "0696C63DF38690BA"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "6A6A11C94DE3BA18"
-				item: { count: 1, id: "evilcraft:lightning_bomb" }
-				type: "item"
-			}]
-			x: 1.25d
-			y: -8.75d
 		}
 		{
 			dependencies: ["76C63670624C3C56"]
@@ -1643,8 +1552,8 @@
 				item: { count: 1, id: "allthemodium:piglich_heart_block" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -16.0d
+			x: -3.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["7A579E233C69871F"]
@@ -1674,7 +1583,7 @@
 				type: "item"
 			}]
 			x: -1.25d
-			y: -11.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -2702,8 +2611,8 @@
 				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -19.0d
+			x: -3.5d
+			y: -10.0d
 		}
 		{
 			icon: {
@@ -2762,8 +2671,8 @@
 				item: { count: 1, id: "hostilenetworks:blank_data_model" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -11.0d
+			x: -1.25d
+			y: -10.0d
 		}
 		{
 			id: "2E88CCBC7B97A1F0"
@@ -3328,7 +3237,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(modern_industrialization:large_advanced_motor)item(create:mechanical_arm))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -7.0d
 			y: 4.0d
 		}
 		{

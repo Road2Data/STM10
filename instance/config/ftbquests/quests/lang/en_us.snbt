@@ -123,8 +123,6 @@
 	quest.00A6020BC979947F.quest_desc: ["With your freshly summoned &9Marid Crusher&r, you can break down an Echo Shard and an Iesnium Ingot, which when combined with a Glow Ink Sac creates Cyan Chalk."]
 	quest.00A6020BC979947F.title: "&3Cyan Chalk"
 	quest.00A91BD731486644.quest_subtitle: "Ceylon Ebony + Sour Cherry"
-	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \\n\\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \\n\\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
-	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
 	quest.00B7DD3AFC94B037.quest_subtitle: "Beech + Alder"
 	quest.00BF4E98A328801D.quest_desc: [
 		"Give that dust an acid bath with &bHydrochloric Acid&r in the &eChemical Bath&r to make this"
@@ -371,7 +369,6 @@
 	quest.037E0DAA5ECC5AB8.quest_desc: ["Hit 24 different Mobs with &ePollen Puffs&r. \\n&6B&8e&6e&8s&r are the most fun to hit with them!"]
 	quest.037E566ACC83FE07.quest_desc: ["Pro Tip: You can enchant these with &9Capacity&r to increase the storage!"]
 	quest.037E566ACC83FE07.title: "Storing Power"
-	quest.038812A14456236C.quest_desc: ["By combining some Processors, an Energy Cell, and any Dense Cable we get the ME Quantum Ring. \\n\\nUsually we'd use it to connect our ME system across Dimensions but we only care about the &6&lATM Star&r!"]
 	quest.039DBFD0172076AB.quest_desc: [
 		"This question has been asked previously, but it will be asked again..."
 		""
@@ -6056,8 +6053,6 @@
 	quest.3C63C8B60306B739.quest_subtitle: "Cables are what link your RS devices to each other. "
 	quest.3C63C8B60306B739.title: "Cables, Oh My!"
 	quest.3C74DAE7EC844A98.quest_desc: ["The Lunar Berries are an excellent Food Source, plus very easy to get! \\n\\nThey spawn growing down from Lunar Tree Leaves, you can pluck the Berries off the Vines like Glow Berries. \\nJust these give much more Food Points and Saturation!"]
-	quest.3C7C9EE57AD00A76.quest_desc: ["You can craft these?!?!?! I've always just looted for them. \\n\\nYou can change if they home in on targets or fly straight. When homing you can change between the settings of &cSpeed&r, &6Damage&r, and &aTurn Speed&r."]
-	quest.3C7C9EE57AD00A76.title: "&cMicromissiles"
 	quest.3C84D684B3A5D7B6.quest_desc: ["Using Mana, the &2Terra Truncator&r will feel entire trees in one fell swoop."]
 	quest.3C8724C3A9459507.quest_desc: ["Yeti Armor can be crafted with Alpha Yeti Fur."]
 	quest.3C8724C3A9459507.title: "Yeti Armor"
@@ -13311,6 +13306,7 @@
 	reward_table.63E11953DD289422.title: "Mekanism: Rewards"
 	reward_table.64E6D6A658988648.title: "MA: Tier 3 Seed Bag"
 	reward_table.67D8094B10FAA687.title: "EvilCraft: Rewards"
+	reward_table.68A337987B5BE391.title: "Enchanted Books"
 	reward_table.73E94318B401E916.title: "IF: Advanced Rewards"
 	reward_table.74164DBBE7919A3B.title: "Mekanism Reactors: Rewards"
 	reward_table.7609CF2A167B45C8.title: "Theurgy: Salt"

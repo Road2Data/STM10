@@ -82,15 +82,12 @@ allthemods.shaped('allthetweaks:oblivion_shard', [' AB', 'ECF', 'BG '], {
 
 
 // Pulsating Black Hole
-allthemods.shaped('allthetweaks:pulsating_black_hole', ['ABC', 'DEF', ' HI'], {
-  A: 'irons_spellbooks:fire_upgrade_orb',
-  B: 'ae2:quantum_ring'  ,
-  C: 'pneumaticcraft:micromissiles' ,
-  D: 'justdirethings:paradoxmachine',
-  E: 'pocketstorage:psu_4',
-  F: 'occultism:stable_wormhole',
-  H: 'industrialforegoing:mycelial_explosive',
-  I: 'evilcraft:lightning_bomb'
+// Recipe Modified 2025.06.11-19:04 CST
+allthemods.shaped('allthetweaks:pulsating_black_hole', ['TUT', 'EQE', 'TUT'], {
+  E: 'enderio:sentient_ender',
+  Q: 'ae2:quantum_entangled_singularity',
+  T: 'eternal_starlight:tenacious_petal',
+  U: 'pocketstorage:psu_4'
 }).id('allthemods:pressure/allthetweaks/pulsating_black_hole')
 
   // Creative Essence

@@ -1,14 +1,14 @@
-[12:27:44] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[12:27:44] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[12:27:44] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 2.0.0-SNAPSHOT
-[12:27:44] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.api.client.impl.ClientAPI
-[12:27:44] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.core.compatibility.journeymap.JourneymapPlugin
-[12:27:44] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
-[12:27:44] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
-[12:27:44] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
-[12:27:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[12:27:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[12:27:44] [Render thread/INFO] [?] Version: JourneyMap 1.21.1-6.0.0-beta.47, built with neoforge 21.1.55
+[10:13:00] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[10:13:00] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[10:13:00] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 2.0.0-SNAPSHOT
+[10:13:00] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.api.client.impl.ClientAPI
+[10:13:00] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.core.compatibility.journeymap.JourneymapPlugin
+[10:13:00] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[10:13:00] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[10:13:00] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
+[10:13:00] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[10:13:00] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[10:13:00] [Render thread/INFO] [?] Version: JourneyMap 1.21.1-6.0.0-beta.47, built with neoforge 21.1.55
 neoforge: 21.1.174
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -26,123 +26,463 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=6.0
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=6.0.0-beta.47, autoRemoveDeathpointDistance=2, showPlayers=false, dateFormat=MM-dd-yyyy, autoHideIconAngle=5, autoRemoveDeathpoints=false, autoHideIcon=false, autoHideLabelAngle=5, renderWaypointsWorld=true, showDeleteConfirmation=true, managerDimensionFocus=false, fullscreenDoubleClickToCreate=true, minDistance=4, coordinatesFormat=XZY, boldLabel=false, disableShare=false, showDeathpointlabel=true, textureSmall=true, useActionsButton=false, beaconEnabled=true, createDeathpoints=true, disableStrikeThrough=false, renderWaypointsMap=true, showName=true, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/execute in {dim} run tp {name} {x} {y} {z}, showStaticBeam=true, renderWaypoints=true, wholeNumberTeleportCoords=false, timeFormat=HH:mm:ss, shaderBeacon=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=6.0.0-beta.47, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=6.0.0-beta.47, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, maxAmbientCreaturesData=32, optionsManagerViewed=null, announceMod=true, ignoreSnow=false, colorPassive=#bbbbbb, colorPassiveLabel=#bbbbbb, mapShadows=true, mapBlendWater=true, playerIconFade=true, renderDistanceSurfaceMax=0, seedId=false, colorPetLabel=#0077ff, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, initialSortOrder=Name, colorPlayerLabel=#ffffff, revealShape=jm.minimap.shape_circle, mapBiome=true, caveShader=jm.common.map_filter.default, mipmapLevels=5, colorVillagerLabel=#88e188, alwaysMapSurface=false, biomeShader=jm.common.map_filter.default, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, sortDescending=true, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, dayShader=jm.common.map_filter.default, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, colorHostileLabel=#ff0000, mapBlendFoliage=true, topoMax=0, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=true, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, caveModeThreshold=2, legacyIcons=false, netherShader=jm.common.map_filter.default, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, mapOnlyPlayerChunk=false, nightShader=jm.common.map_filter.default, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, topoShader=jm.common.map_filter.default, allowMiniMapBehindScreens=true, cacheAnimalsData=3100, ignoreHeightmaps=false, themeName=Purist, mapCaveLighting=true, renderDelay=2, mobIconFade=true, serverIp=false, glErrorChecking=false, autoMapPoll=2000}
-[12:27:44] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 161.33ms
-[12:27:48] [Render thread/INFO] [JourneymapClientNeoForge] Journeymap PostInit
-[12:27:48] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
-[12:27:48] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
-[12:27:48] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/victorian_ destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\victorian_ overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/flat destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\flat overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/vault_flat destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\vault_flat overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/vault destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\vault overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
-[12:27:48] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[12:27:48] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 627.18ms
-[12:27:49] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not parse download info: 1.21.1-6.0.0-beta.45
-java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
-	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.common.version.VersionCheck.lambda$checkVersion$0(VersionCheck.java:146) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23807!/:1.21.1-6.0.0-beta.47]
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:?]
-	at java.base/java.util.concurrent.FutureTask.run(Unknown Source) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
-	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
-[12:27:53] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: Default Palette
-[12:30:38] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
-[12:30:38] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
-[12:30:38] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
-[12:30:38] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
-[12:30:38] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
-[12:30:38] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
-[12:30:38] [Server thread/INFO] [NeoForgeConfig] Loading JourneyMap Forge Configs
-[12:30:58] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[12:30:58] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[12:30:58] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
-[12:30:58] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
-[12:30:58] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
-[12:30:58] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
-[12:30:58] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\colorpalette.json
-[12:30:58] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\sp\Test World\colorpalette.json
-[12:30:58] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\sp\Test World\overworld. Memory: 6424MB total, 2150MB free 
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
-[12:31:35] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
-[12:31:36] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
-[12:31:41] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
-[12:31:41] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[12:31:41] [Render thread/ERROR] [ModPropertyEnum] Error reflecting PropertyEnum on %s.%s: %s
-[12:31:41] [Render thread/ERROR] [ModPropertyEnum] Error reflecting PropertyEnum on %s.%s: %s
-[12:31:41] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
-[12:31:42] [Render thread/INFO] [ChatLog] JourneyMap: Press [NOT BOUND]
-[14:35:19] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
-[14:35:19] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
-[14:35:20] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
-[14:35:20] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
-[14:35:20] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
-[14:35:20] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
-[14:35:20] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\mp\offline\minecraft:overworld
-[14:35:24] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
-[14:35:24] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
-[14:35:24] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
-[14:35:24] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
-[14:35:24] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
-[14:35:24] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[10:13:00] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 184.87ms
+[10:13:04] [Render thread/INFO] [JourneymapClientNeoForge] Journeymap PostInit
+[10:13:04] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[10:13:04] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
+[10:13:04] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:04] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/victorian_ destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\victorian_ overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:04] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:04] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/flat destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\flat overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:04] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:04] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/vault_flat destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\vault_flat overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:05] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM%20Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:05] [Render thread/DEBUG] [FileHandler] ZipFilePath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar zipEntryName:assets/journeymap/theme/vault destDir:C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\icon\theme\vault overWrite:true fromPath:C:/Users/alexs/AppData/Roaming/gdlauncher_carbon/data/instances/STM Test/instance/mods/journeymap-neoforge-1.21.1-6.0.0-beta.47.jar
+[10:13:05] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[10:13:05] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 660.59ms
+[10:13:09] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: Default Palette
+[10:16:49] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[10:16:49] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[10:16:49] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[10:16:49] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[10:16:49] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[10:16:49] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[10:16:50] [Server thread/INFO] [NeoForgeConfig] Loading JourneyMap Forge Configs
+[10:17:23] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[10:17:23] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[10:17:23] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[10:17:23] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[10:17:23] [Render thread/INFO] [WaypointGroupStore] Loaded 0 waypoint groups from disk.
+[10:17:23] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[10:17:23] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\colorpalette.json
+[10:17:23] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\sp\Test World 2\colorpalette.json
+[10:17:23] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\sp\Test World 2\overworld. Memory: 5824MB total, 2187MB free 
+[10:17:23] [Render thread/ERROR] [MapRenderer] Error rendering map: 
+java.lang.NullPointerException: Cannot read field "x" because "regionBounds" is null
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.render.map.GridLines.draw(GridLines.java:35) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.render.map.MapRenderer.render(MapRenderer.java:242) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.ui.minimap.MiniMap.drawMap(MiniMap.java:332) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.event.handlers.ScreenEventHandler.onScreenPreRender(ScreenEventHandler.java:66) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.client.ClientHooks.handler$gbn000$journeymap$preLayerScreenEvent(ClientHooks.java:2703) ~[neoforge-21.1.174-universal.jar%23616!/:?]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.client.ClientHooks.drawScreen(ClientHooks.java) ~[neoforge-21.1.174-universal.jar%23616!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$drawScreen$263(GameRenderer.java) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.wrapOperation$cnm000$konkrete$wrapRenderScreen_Konkrete(GameRenderer.java:6796) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:1092) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1195) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:807) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonClientLaunchHandler.runService(CommonClientLaunchHandler.java:32) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.4.jar%23142!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[10:17:23] [Render thread/ERROR] [MapRenderer] Error rendering map: 
+java.lang.NullPointerException: Cannot read field "x" because "regionBounds" is null
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.render.map.GridLines.draw(GridLines.java:35) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.render.map.MapRenderer.render(MapRenderer.java:242) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.ui.minimap.MiniMap.drawMap(MiniMap.java:332) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.event.handlers.ScreenEventHandler.onScreenPreRender(ScreenEventHandler.java:66) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.client.ClientHooks.handler$gbn000$journeymap$preLayerScreenEvent(ClientHooks.java:2703) ~[neoforge-21.1.174-universal.jar%23616!/:?]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.client.ClientHooks.drawScreen(ClientHooks.java) ~[neoforge-21.1.174-universal.jar%23616!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$drawScreen$263(GameRenderer.java) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.wrapOperation$cnm000$konkrete$wrapRenderScreen_Konkrete(GameRenderer.java:6796) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:1092) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1195) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:807) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonClientLaunchHandler.runService(CommonClientLaunchHandler.java:32) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.4.jar%23142!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[10:17:23] [Render thread/ERROR] [MapRenderer] Error rendering map: 
+java.lang.NullPointerException: Cannot read field "x" because "regionBounds" is null
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.render.map.GridLines.draw(GridLines.java:35) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.render.map.MapRenderer.render(MapRenderer.java:242) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.ui.minimap.MiniMap.drawMap(MiniMap.java:332) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/journeymap@1.21.1-6.0.0-beta.47/journeymap.client.event.handlers.ScreenEventHandler.onScreenPreRender(ScreenEventHandler.java:66) ~[journeymap-neoforge-1.21.1-6.0.0-beta.47.jar%23819!/:1.21.1-6.0.0-beta.47]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.client.ClientHooks.handler$gbn000$journeymap$preLayerScreenEvent(ClientHooks.java:2703) ~[neoforge-21.1.174-universal.jar%23616!/:?]
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.client.ClientHooks.drawScreen(ClientHooks.java) ~[neoforge-21.1.174-universal.jar%23616!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$drawScreen$263(GameRenderer.java) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.wrapOperation$cnm000$konkrete$wrapRenderScreen_Konkrete(GameRenderer.java:6796) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:1092) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1195) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:807) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[client-1.21.1-20240808.144430-srg.jar%23615!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonClientLaunchHandler.runService(CommonClientLaunchHandler.java:32) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.39.jar%23135!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.4.jar%23142!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.4.jar%23142!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[10:18:10] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[10:18:11] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[10:18:17] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[10:18:17] [Render thread/INFO] [ChatLog] JourneyMap: Press [NOT BOUND]
+[10:18:18] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[10:18:18] [Render thread/ERROR] [ModPropertyEnum] Error reflecting PropertyEnum on %s.%s: %s
+[10:18:18] [Render thread/ERROR] [ModPropertyEnum] Error reflecting PropertyEnum on %s.%s: %s
+[10:18:18] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[10:18:18] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/mason/bee.png
+[10:18:35] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/mason/bee_nectar.png
+[10:19:41] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:20:56] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/yellow_black_carpenter/bee.png
+[10:21:25] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/yellow_black_carpenter/bee_nectar.png
+[10:21:34] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/green_carpenter/bee.png
+[10:22:06] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/green_carpenter/bee_nectar.png
+[10:38:45] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/reed/bee.png
+[10:39:03] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/mason/bee.png
+[10:39:03] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/reed/bee.png
+[10:39:03] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/digger/bee.png
+[10:39:48] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/mason/bee_nectar.png
+[10:40:55] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/reed/bee_nectar.png
+[10:42:30] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:42:45] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/chocolate_mining/bee.png
+[10:43:30] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/chocolate_mining/bee_nectar.png
+[10:46:14] [Render thread/WARN] [JMLogger] Image is null: endermanoverhaul:textures/entity_icon/default/default_enderman.png
+[10:47:37] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/digger/bee_nectar.png
+[10:48:58] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[10:48:58] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[10:48:59] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[10:48:59] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[10:48:59] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[10:48:59] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[10:48:59] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\mp\offline\minecraft:overworld
+[10:51:33] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[10:51:33] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[10:51:33] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[10:51:33] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[10:51:33] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[10:51:33] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[10:51:33] [Server thread/INFO] [NeoForgeConfig] Loading JourneyMap Forge Configs
+[10:52:00] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[10:52:00] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[10:52:00] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[10:52:00] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[10:52:00] [Render thread/INFO] [WaypointGroupStore] Loaded 0 waypoint groups from disk.
+[10:52:00] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[10:52:00] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\colorpalette.json
+[10:52:00] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\sp\The Grand Test\colorpalette.json
+[10:52:00] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\sp\The Grand Test\overworld. Memory: 12288MB total, 4552MB free 
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[10:52:44] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[10:52:53] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[10:52:57] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:52:58] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:52:58] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:01] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:01] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:04] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:04] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:07] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:07] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:09] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:09] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:12] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:12] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:15] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:15] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:18] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:18] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:21] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:21] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:23] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:23] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:26] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:26] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:29] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:29] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:32] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:32] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:35] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:35] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:37] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:37] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:40] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:40] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:43] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:43] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:46] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:46] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:49] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:49] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:51] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:51] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:54] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:54] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:53:57] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:53:57] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:00] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:00] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:02] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:02] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:05] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:05] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:08] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:08] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:11] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:11] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:14] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:14] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:16] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:16] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:19] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:19] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:22] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:22] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:25] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:25] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:28] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:28] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:30] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:30] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:33] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:33] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:36] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:36] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:39] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:39] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:41] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:41] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:44] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:44] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:47] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:47] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:50] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:50] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:53] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:53] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:55] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:55] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:54:58] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[10:54:58] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/flamingo/flamingo.png
+[10:59:05] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/yellow_black_carpenter/bee.png
+[10:59:09] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/green_carpenter/bee.png
+[10:59:12] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/owl/owl_brown.png
+[10:59:56] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/crab/crab_red.png
+[11:00:02] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/crab/crab_white.png
+[11:00:02] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/snail/snail_body_1.png
+[11:00:22] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/digger/bee_nectar.png
+[11:01:56] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/reed/bee.png
+[11:02:06] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/reed/bee.png
+[11:02:13] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/snail/snail_body_1.png
+[11:02:13] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/raccoon/raccoon.png
+[11:02:16] [Render thread/WARN] [JMLogger] Image is null: creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[11:06:15] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/monkey/monkey.png
+[11:07:02] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/raccoon/raccoon.png
+[11:07:54] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/snail/snail_body_1.png
+[11:08:16] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/crab/crab_white.png
+[11:08:48] [Render thread/WARN] [JMLogger] Image is null: productivebees:textures/entity_icon/bee/bumble/bee.png
+[11:09:03] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/crab/crab_red.png
+[11:13:56] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/snail/snail_body_1.png
+[11:13:56] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/raccoon/raccoon.png
+[11:22:02] [Render thread/WARN] [JMLogger] Image is null: livingthings:textures/entity_icon/mantaray/mantaray_brown.png
+[11:38:54] [Render thread/WARN] [JMLogger] Image is null: artifacts:textures/entity_icon/mimic.png
+[11:45:56] [Render thread/INFO] [DeathPointHandler] TheyAnon died at BlockPos{x=-1923, y=-48, z=-38}. Deathpoints enabled: true. Deathpoint created: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[11:45:56] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[11:54:47] [Server thread/INFO] [JourneyMapTeleport] TheyAnon teleported to -1922.5 -48.0 -37.5 minecraft:overworld
+[12:00:27] [Render thread/WARN] [JMLogger] Image is null: artifacts:textures/entity_icon/mimic.png
+[12:02:53] [Render thread/INFO] [DeathPointHandler] TheyAnon died at BlockPos{x=-1979, y=-39, z=21}. Deathpoints enabled: true. Deathpoint created: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow rightClickTeleport options: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[12:02:53] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[12:05:39] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[12:05:39] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[12:05:39] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[12:05:39] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[12:05:39] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[12:05:39] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[12:05:39] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\alexs\AppData\Roaming\gdlauncher_carbon\data\instances\STM Test\instance\journeymap\data\mp\offline\minecraft:overworld
+[12:05:46] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[12:05:46] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[12:05:46] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[12:05:46] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[12:05:46] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[12:05:46] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
