@@ -71,13 +71,14 @@ ServerEvents.recipes(allthemods => {
 }).id('allthemods:allthetweaks/nexium_emitter')
 
 // Oblivion Shard
-allthemods.shaped('allthetweaks:oblivion_shard', [' AB', 'ECF', 'BG '], {
-  A: 'forbidden_arcanus:eternal_stella',
-  C: 'evilcraft:mace_of_destruction[cyclopscore:fluid_content={amount:4000,id:"evilcraft:blood"}]',
-  B: 'evilcraft:piercing_vengeance_focus',
-  E: 'cataclysm:meat_shredder',
-  G: 'twilightforest:snow_queen_trophy',
-  F: 'cataclysm:void_forge'
+// Recipe Modified 2025.06.12-14:50 CST
+allthemods.shaped('allthetweaks:oblivion_shard', [' BE', 'SLH', 'EM '], {
+  B: 'mahoutsukai:morgan',
+  E: 'forbidden_arcanus:eternal_stella',
+  H: 'cataclysm:infernal_forge',
+  L: 'evilcraft:lightning_bomb',
+  M: 'allthemodium:unobtainium_mace',
+  S: 'cataclysm:meat_shredder'
 }).id('allthemods:allthetweaks/oblivion_shard')
 
 
