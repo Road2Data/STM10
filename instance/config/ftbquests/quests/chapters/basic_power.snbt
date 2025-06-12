@@ -125,7 +125,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0F7D7AE91E20F778"
-				item: { components: { "ftbfiltersystem:filter": "or(item(actuallyadditions:coal_generator)item(justdirethings:generatort1)item(rftoolspower:coalgenerator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:generatort1)item(rftoolspower:coalgenerator))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -2.5d
