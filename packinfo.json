@@ -2273,10 +2273,6 @@
       "sha512": "d790e3810bbd9ba8f991cce0294edfb4f7aa31645b8f4b873ecadb1f4bad1742910d69f6ea8c5a591aa769a072c549454a6068035de8cf6a05ae4b1ef46f6352",
       "md5": "89eb0ed7a06f86ef566081257fab3b32"
     },
-    "/mods/trophymanager-1.21.1-2.2.8.jar": {
-      "sha512": "fbe2709c59c7176a9f0197b226511c01eb43c0c4d0443d1cfc9e93b850442430aad16c6e05e79681aa7fef12033edc08d3fcb6565513b96b36b71dc4b9215e4c",
-      "md5": "d1f369cfb5aa86a4e7f841f116305486"
-    },
     "/kubejs/data/alltheores/worldgen/configured_feature/ore_lead.json": {
       "sha512": "7beffe8ec71b456f1ac078b8b1bfc8688220fd62b1f5bf1ac789842cd576c27b9a166bc6e4fb7ed9e97d3401320262ff76169d75e54b9e9012a63db853e2856f",
       "md5": "4dbc13d04edfe83269d24ae78536401f"
@@ -3124,10 +3120,6 @@
     "/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.3.13.jar": {
       "sha512": "2a695f9602c13eae76118f14370e1e15e576e95f3bb2b23419ae72e61beec713374839df745c4a5eae72b060d0d4188fd06ffb2b3d316795c125289f233e5e12",
       "md5": "8388b307d6324fd3f9044ae4b102f522"
-    },
-    "/config/trophymanager-server.toml": {
-      "sha512": "b352bb9ca450966b1bfaf47f66f9268ea93742b4cf9e4be37384f099cad439b86cd5a3b16c9423433e87811588dffb12a101e7b100931f53d65567c8c22f9cee",
-      "md5": "c996d5d66b7a7018f8d9a5562817539b"
     },
     "/config/ftbquests/quests/chapters/undergarden.snbt": {
       "sha512": "717b70dbd24bf1b19fcaf07228824a5664da4b38f747d69c8a230cea7d3c4fb9553a5b35ecf833f6166af1c16edf30d54a8f6a106e624db628ea1f99532793ac",

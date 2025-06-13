@@ -281,7 +281,6 @@ Files created:
  - instance\config\tombstone-client.toml
  - instance\config\tombstone-common.toml
  - instance\config\tombstone-server.toml
- - instance\config\trophymanager-server.toml
  - instance\config\twilightforest-common.toml
  - instance\config\utilitarian-common.toml
  - instance\config\waystones-common.toml
@@ -2175,7 +2174,6 @@ Files created:
  - instance\mods\trashcans-1.0.18c-neoforge-mc1.21.jar
  - instance\mods\trashslot-neoforge-1.21.1-21.1.4.jar
  - instance\mods\treetap-1.21.1-0.4.3.jar
- - instance\mods\trophymanager-1.21.1-2.2.8.jar
  - instance\mods\twilightforest-1.21.1-4.7.3196-universal.jar
  - instance\mods\t_and_t-neoforge-fabric-1.13.2.jar
  - instance\mods\UndergroundVillages-neoforge-1.21.1-4.0.2.jar
