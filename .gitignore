@@ -2,6 +2,7 @@
 *.tmp
 
 # Ignore all .log files
+logs/
 *.log
 
 # Ignore backup files
@@ -12,7 +13,9 @@ instance/crash-reports
 
 # Ignore Private info
 instance/usercache.json
-instance/usernamecache.json
+instance/usernamecash.json
 
 # Other
-instance/TrashSlotSave.json
+instance/TrashSlotSaveState.json
+instance/shaderpacks/
+instance/downloads/
