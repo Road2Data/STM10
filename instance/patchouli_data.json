@@ -1,5 +1,13 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "allthemodium:allthemodium_book": {
+      "viewedEntries": [
+        "allthemodium:ore/allthemodium"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

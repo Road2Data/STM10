@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","moonlight:mods_dynamic_assets","mod/towntalk:respack","modern_industrialization/generated","file/Sus Sand 1.21.2-1.21.3.zip"]
+incompatibleResourcePacks:["file/Sus Sand 1.21.2-1.21.3.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -212,11 +212,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.tempad.shortcut:key.keyboard.unknown
 key_key.tempad.macro:key.keyboard.unknown
 key_key.tempad.new_location:key.keyboard.unknown
@@ -481,11 +481,11 @@ key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown
 key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown
 key_key.modern_industrialization.toggle_flight:key.keyboard.unknown
 key_key.modern_industrialization.toggle_3x3:key.keyboard.unknown
-key_key.extended_industrialization.toggle_boots_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_leggings_ability:key.keyboard.unknown
-key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_chestplate_ability:key.keyboard.unknown
 key_key.extended_industrialization.toggle_helmet_ability:key.keyboard.unknown
+key_key.extended_industrialization.toggle_boots_ability:key.keyboard.unknown
+key_key.extended_industrialization.toggle_main_hand_ability:key.keyboard.unknown
 key_theurgy.key.change_item_mode:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_pneumaticcraft.armor.upgrade.fall_protection:key.keyboard.unknown

@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# Ignore backup files
+instance/simplebackups/
+
+# Ignore crash-reports
+instance/crash-reports

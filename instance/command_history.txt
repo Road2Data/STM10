@@ -1,21 +1,50 @@
-/give @p ars_scalaes:glyph_resize
-/give @p reliquary:fertile_lily_pad
-/kubejs help
-/kubejs errors client
-/kubejs errors startup
-/kubejs errors server
-/gamemode spectator
-/gamemode creative
-/kubejs errors server
-/locate biome #biomeswevegone:dead
-/tp @s 4056 72 2368
-/gamemode creative
-/locate biome minecraft:plains
-/tp @s 435 97 -51
-/locate structure minecraft:village_plains
-/tp @s -2016 ~ 64
-/gamemode spectator
-/gamemode survival
 /difficulty peaceful
 /spawnpoint
 /kill
+/give @p apotheosis:salvaging_table
+/gamemode creative
+/gamemode survival
+/give @p dirt 10
+/time set day
+/locate structure minecraft:fortress
+/locate structure betterfortresses:fortress
+/tp @s -816 ~ -912
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give @p minecraft:birch_boat
+/give @p diamond 4
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/give @p apotheosis:gem_dust 128
+/gamemode survival
+/locate structure minecraft:bastion_remnant
+/tp @s -944 ~ -1200\
+/tp @s -944 ~ -1200
+/gamemode spectator
+/give @p minecraft:brush
+/gamemode survival
+/give @p minecraft:netherrack 4
+/gamemode creative
+/gamemode survival
+/give @p minecraft:netherite_ingot 10
+/gamemode spectator
+/locate structure minecraft:ancient_city
+/tp @s -960 ~ 480
+/gamemode survival
+/give @p minecraft:netherrack 5
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/locate structure minecraft:ancient_city
+/tp @s -960 ~ 480
+/gamemode spectator
+/gamemode survival
+/give @p apotheosis:epic_material 10
+/gamemode creative
+/gamemode survival
