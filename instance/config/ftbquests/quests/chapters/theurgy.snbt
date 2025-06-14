@@ -397,30 +397,6 @@
 			y: 2.5d
 		}
 		{
-			icon: {
-				id: "occultism:divination_rod"
-			}
-			id: "0460DDEEFDEB0AAF"
-			rewards: [{
-				count: 10
-				id: "3F9A3E2F866320C0"
-				item: {
-					count: 1
-					id: "minecraft:glass"
-				}
-				type: "item"
-			}]
-			shape: "octagon"
-			size: 1.3d
-			tasks: [{
-				id: "3ABECD22D09DEEFB"
-				item: { count: 1, id: "minecraft:stick" }
-				type: "item"
-			}]
-			x: -6.5d
-			y: -2.0d
-		}
-		{
 			hide_dependent_lines: true
 			icon: {
 				id: "theurgy:alchemical_sulfur_sulfur"

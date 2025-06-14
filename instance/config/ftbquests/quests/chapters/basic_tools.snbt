@@ -898,23 +898,6 @@
 		}
 		{
 			dependencies: ["5151CDD8FCDE7A07"]
-			id: "275D97BF0CE9DCD4"
-			optional: true
-			rewards: [{
-				id: "355ACD985F95A356"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "485E17B9E80D5DFF"
-				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:infused_pickaxe)item(occultism:iesnium_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: -3.0d
-		}
-		{
-			dependencies: ["5151CDD8FCDE7A07"]
 			id: "01046CFBD7411AA6"
 			optional: true
 			rewards: [{

@@ -37,7 +37,6 @@
 	chapter.48410B67C276ED1F.title: "The Bumblezone"
 	chapter.48DB721214AA88E0.title: "Implosion Power"
 	chapter.4B9D26E0087CD163.title: "Basic Tools"
-	chapter.4C507C004144BFEE.title: "Occultism"
 	chapter.4EAAE0CEB26378A6.title: "Just Dire Things"
 	chapter.4EBB2171D5A3AAAC.title: "Forbidden \\& Arcanus"
 	chapter.5103E2D95685ADFF.title: "&aChapter 3&r: &6The ATM Star"
@@ -2809,17 +2808,6 @@
 	quest.1BCE8D02CDD13838.quest_desc: ["Can Create \"Liquid\" Potions that can be bottled into Potions."]
 	quest.1BD5B25B80EC0F97.quest_desc: ["Also makes those magnetic iron rods for just some energy - save your redstone!"]
 	quest.1BD5B25B80EC0F97.quest_subtitle: "Magnetizing!"
-	quest.1BDB369FD243D4C6.quest_desc: [
-		"Arguably the most useful item that you can create in Occultism, the &bIesnium Anvil&r is a super-powerful version of the Vanilla Anvil."
-		""
-		"Created using &9Uphyxes' Inverted Tower&r, it:"
-		""
-		"- Is unbreakable."
-		"- Increases the maximum level of all enchants for anything combined on it by one level."
-		"- Costs half as much xp as the estimate says (rounded down, so if it says 25, it'll cost 12)."
-		"- Has a smaller experience requirement increase for repeated edits on the same item."
-		"- Increases the maximum xp level at which you can edit items (the point at which it says \"Too Expensive!\")."
-	]
 	quest.1BE26A00A420DAE3.quest_desc: ["In this mod, you'll need &aFlux Cores&r and &aFlux Blocks&r to craft the core parts of your network. Make a few of each!"]
 	quest.1BE26A00A420DAE3.quest_subtitle: "Of Cores you need these"
 	quest.1BE26A00A420DAE3.title: "The \"Core\" Crafting Materials"
@@ -3218,7 +3206,7 @@
 	quest.2007EF64F0406090.quest_subtitle: "&f24 &cAttack Damage"
 	quest.200ECDC70E97D254.quest_desc: ["Fuel Canister is a tank that can fill containers with the fluid it contains.\\n\\nThe Fuel Canister has three fill modes:\\n\\n - None\\n - Any\\n - Just Dire Things"]
 	quest.201EE3566D4D3123.quest_desc: [
-		"To mine &6Allthemodium&r you'll need a Pickaxe that is &cNetherite&r Tier or higher! \\n\\nOnce you finally get the Ore (first I recommend processing it either with Fortune, Occultism, or Mekanism to get more) then you can get a few choices of what to do with it. \\n\\nI recommend making 2 Teleport Pads with the &6Nuggets&r! You can use those to get to the &7&lMining Dimension&r to find more &6Allthemodium&r or &b&lThe Other&r to find other adventures. \\n\\nAfter that I recommend upgrading your Pickaxe so you can Mine &3Vibranium&r. The rest is all up to you!"
+		"To mine &6Allthemodium&r you'll need a Pickaxe that is &cNetherite&r Tier or higher! \\n\\nOnce you finally get the Ore (first I recommend processing it either with Fortune or Mekanism to get more) then you can get a few choices of what to do with it. \\n\\nI recommend making 2 Teleport Pads with the &6Nuggets&r! You can use those to get to the &7&lMining Dimension&r to find more &6Allthemodium&r or &b&lThe Other&r to find other adventures. \\n\\nAfter that I recommend upgrading your Pickaxe so you can Mine &3Vibranium&r. The rest is all up to you!"
 		"{image:atm:textures/questpics/allthemodium/all_1.png width:100 height:100 align:center}"
 	]
 	quest.201EE3566D4D3123.title: "&6Allthemodium Ingot"
@@ -3363,8 +3351,6 @@
 		"Note: Tablets will not despawn."
 	]
 	quest.2162EA0216E27D68.title: "Transferring Mana from Pools"
-	quest.216DA9782EBDFF34.quest_desc: ["I think this Mod is unrealistic. I don't care what Books or Items you have, I don't think the Demonic will follow your every command and work as a slave for you. \\n\\nRegardless you can follow the Quests to do so."]
-	quest.216DA9782EBDFF34.title: "&b&lOccultism"
 	quest.21770049843DD275.quest_subtitle: "Part 2 of 2"
 	quest.217DB12EA32E1724.quest_desc: ["The &bInfusion Crystal&r is need in order to \"tier up\" seeds. For example if you combine the crystal with 4 Inferium Essence you will get 1 Prudentium Essence.\\n\\nLater on you will be able to craft an Infusion Crystal that doesn't break."]
 	quest.217DB12EA32E1724.title: "&bInfusion Crystal"
@@ -3660,14 +3646,6 @@
 	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
 	quest.243008D4DCD789D0.quest_subtitle: "Jungle Temples"
 	quest.243008D4DCD789D0.title: "Wild Armor Trim"
-	quest.2435B6D970F48DF8.quest_desc: [
-		"Do you need some Demon friends? &dOccultism&r offers just that! "
-		""
-		"In your Demonic journey, you'll summon some new friends to help you create the powerful items needed to create the Star."
-		""
-		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"4C507C004144BFEE\"}, \"text\": \"Click here to check out the Occultism questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
-	]
-	quest.2435B6D970F48DF8.title: "&dOccultism&r"
 	quest.24391162F4FF0587.quest_desc: ["With the 15 &bSeashelves&r around the &5Enchanting Table&r, we can &d&lInfuse&r our last &bSeashelf&r! \\n\\n&bInfused Seashelves&r give more &aEterna&r at 5 with a max of &a60&r. Also more &5Arcana&r at &55%&r. \\n\\nThese can be Crafted into different &7Bookshelves&r, the ones we're looking for, for &6Max Enchanting&r is the &bCrystalline Seashelf&r. \\n\\nWe'll need 12 of those, so we'll need 12 &bInfused Seashelves&r. Craft 8 and I'll reward you the rest!"]
 	quest.24391162F4FF0587.title: "&bInfused Seashelf"
 	quest.244220A5D9F4C702.quest_desc: ["3 chunks apart, in case you didn't know that already"]
@@ -4154,16 +4132,6 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_purple2.png width:200 height:100 align:center}"
 	]
 	quest.29C78845B488EDF8.title: "&5Purple Sempiternal Sanctum"
-	quest.29C83B00AC4AFC23.quest_desc: [
-		"Now that you've come this far, you may be asking yourself, what's next? Well, there are so many more things to explore in Occultism! "
-		""
-		"You can see a comprehensive list of every single ritual and item in your &6Dictionary of Spirits&r, you could try going through all the rituals' outcomes to see if you can find something that piques your interest!"
-		""
-		"If you haven't already, you could lay out and decorate three separate ritual areas, one for Summons, one for Possessions, and one for Infusions."
-		""
-		"There's always new ways to use each and every seemingly mundane feature to maximize your experience with the modpack. Happy ritual crafting!"
-	]
-	quest.29C83B00AC4AFC23.title: "What's Next?"
 	quest.29C9F8719DA63D8D.quest_desc: ["The &2&lBuzzsaw&r works similar to the &4&lMining Drill&r, just for &2Trees&r! \\n\\nIt requires &2Bio-Diesel&r as Fuel, which I won't explain how to get here either! \\n\\nAnd some sort of &8Sawblade&r. Which you can attach via the Top Slot in the &6Engineer's Workbench&r. \\n\\nSimply break Logs on a &2Tree&r and every Log, Leaf, and Birds Nest will come down with it! You can hold Shift to not break everything attached. \\n\\nThe &2&lBuzzsaw&r also does 10 Damage! Dang, why even use a Sword? Oh yeah &8Saws&r have Durability and it needs &2Bio-Diesel&r. \\n\\nThe &2&lBuzzsaw&r can hold 1 &8Blade&r or &8Disk&r and 2 Upgrades."]
 	quest.29C9F8719DA63D8D.title: "&2&lBuzzsaw"
 	quest.29CD5C0A253425D5.quest_desc: [
@@ -4554,13 +4522,6 @@
 	quest.2CF11A70229000AB.title: "Getting Create-ive."
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranium&r combined with &5Unobtainium&r!"]
 	quest.2CF6EA138B53CE1B.title: "&5Unobtainium&r - &3Vibranium&r Alloy Ingot"
-	quest.2CF96A264EB5522C.quest_desc: [
-		"&9Uphyxes' Inverted Tower&r is the maximum tier of &6Infusion Rituals&r. It doesn't have as many uses as the other three tiers, but it's still nessecary for the \"endgame\" of Occultism. "
-		""
-		"Mainly, it's used to create Dragonyst Dust, which is the main ingredient for Magenta Chalk."
-	]
-	quest.2CF96A264EB5522C.quest_subtitle: "Maximum Infusion"
-	quest.2CF96A264EB5522C.title: "&9Uphyxes' Inverted Tower"
 	quest.2CFEE04BA574921E.quest_desc: [
 		"This interface will place the designated block in the direction it is pointed. "
 		""
@@ -5165,20 +5126,6 @@
 	quest.32FE0C0475BB45C6.quest_desc: ["Lets take the Osmiridium  you made and process it into some Fine Wires. This plus the Magnetized Samarium Long Rods will net us some important progress!"]
 	quest.32FE0C0475BB45C6.quest_subtitle: "Dang, Osmiridium lookin' Fine"
 	quest.3302A9306CAD659A.quest_desc: ["One &6Copper Ingot&r and four &cRedstone Dust&r in the &eAlloy Smelter&r creates this lovely ingot"]
-	quest.33106E24A3B5DDD8.quest_desc: [
-		"The next step in your journey will be to find &eIesnium Ore&r in the Nether."
-		""
-		"Without the effects of the &3Third Eye&r, this will look just like Netherrack. Make sure to have your &dOtherworld Goggles&r equipped!"
-		""
-		"To locate the ore, try using a &aDivination Rod&r. You'll need to attune it to Netherrack first, then hold down right click to use it. After a few seconds, you will see a particle shoot out in the direction of the nearest Iesnium Ore. You can only mine the ore using the &dInfused Pickaxe&r!"
-		""
-		"Since you can't break this ore down into double the dusts using the standard methods, try using your Foliot Crusher to double your ingots per raw ore!"
-		""
-		"Note: If you don't see the particle, make sure your particle settings are turned on!"
-		""
-		"{image:atm:textures/questpics/occultism/iesniumexample.png width:200 height:175 align:1}"
-	]
-	quest.33106E24A3B5DDD8.title: "&cIesnium: Ore of the Otherworld"
 	quest.3314FBC4FEAE1D08.quest_desc: ["&6Deployer&r is a very fun &6Machine&r for poking! \\n\\nBy poking, I mostly mean &eItem Interactions&r that we can preform. Place an &eItem&r into the &6Deployer Hand&r, and then give it &dRotational Power&r. It will then place the &eItem&r into the Block on a &eDepot&f or &eBelt&r below. \\n\\nThis will mimick many actions that we can do, like adding &6Wax&r to &cCopper&r. \\n\\nYou'll most likely use it for &8Andesite&r/&cCopper&r/&eBrass&r Casings and &4Polished Rose Quartz&r."]
 	quest.3314FBC4FEAE1D08.quest_subtitle: "Poke"
 	quest.3314FBC4FEAE1D08.title: "&6Deployer"
@@ -6773,18 +6720,6 @@
 		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"2A6EBEEBAB882679\"}, \"text\": \"Click here to check out the Powah questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
 	quest.42E5B5C27799DD93.title: "&dPowah&r"
-	quest.42F50CE7FE715583.quest_desc: [
-		"To upgrade the amount of stacks your magical storage can hold, you'll need to make &dStorage Stabilizers&r."
-		""
-		"Once made, these must point directly at the Dimensional Matrix part of your Storage Actuator, not the base. These can be up to 5 blocks away, but must have a clear line of sight to the Matrix."
-		""
-		"Whenever you want to upgrade to a higher tier Stabilizer, breaking it won't destroy the items inside. However, you will not be able to add any more items to your storage until it is either replaced or upgraded."
-		""
-		"Below is an example of a simple setup!"
-		""
-		"{image:atm:textures/questpics/occultism/storageupgradeexample.png width:200 height:150 align:1}"
-	]
-	quest.42F50CE7FE715583.title: "&aUpgrading Our Magical Storage"
 	quest.42FD79CEB3426861.quest_desc: [
 		"There are many ways to make lubricant"
 		""
@@ -8007,7 +7942,7 @@
 	quest.4E4C4C962753B6AB.title: "Bronze Machine Casing"
 	quest.4E4C8BCD45766F03.quest_desc: ["This Drawer will auto convert the item placed inside it into it's compacted form."]
 	quest.4E4C8BCD45766F03.quest_subtitle: "Auto Compacts/Decompacts"
-	quest.4E5238F00CEED8B2.quest_desc: ["Smelting down raw ores in the beginning is necessary, but you are missing out on extra resources!\\n\\nThere are several ways to double your output per raw ore, but one of the easiest ways is by creating and using an &eOre Hammer&r.\\n\\nThese will break down 1 raw ore into 2 dusts which can be smelting into ingots, effectively doubling your ingot output!\\n\\nWant more per raw ore? Check out the mod &5Occultism&r!"]
+	quest.4E5238F00CEED8B2.quest_desc: ["Smelting down raw ores in the beginning is necessary, but you are missing out on extra resources!\\n\\nThere are several ways to double your output per raw ore, but one of the easiest ways is by creating and using an &eOre Hammer&r.\\n\\nThese will break down 1 raw ore into 2 dusts which can be smelting into ingots, effectively doubling your ingot output!"]
 	quest.4E5238F00CEED8B2.title: "&eBasic Ore Doubling"
 	quest.4E55A1169742B901.quest_desc: ["Eventually you'll want more steam than the single block boilers can provide. When that happens, make way for the Large Bronze Boiler!"]
 	quest.4E55A1169742B901.quest_subtitle: "Steam producing Multiblock"
@@ -8126,25 +8061,6 @@
 	quest.4F1C04C0F6769825.quest_subtitle: "Turns 3 Raw Ore into 8 Ore Shards"
 	quest.4F1FFC02F4EAA2E6.title: "Tier: &4Nitro"
 	quest.4F2BBB75E5B5EAD8.title: "Salts Vein"
-	quest.4F35D04721DFC9FF.quest_desc: [
-		"The first type of ritual we'll be performing is the &9Summoning Ritual&r. These rituals are used to summon different types of useful Demons to assist you in crushing, smelting, and more as you get to higher tiers of rituals."
-		""
-		"For our first ritual, we want to summon a &aFoliot Crusher&r Demon. This Demon will crush items for us, which is something we'll need to make some of the higher level Chalks!"
-		""
-		"To start with, combine your Unbound Book with your &aDictionary of Spirits&r in a crafting grid. This will bind a Demon to the Book, which is what we'll need for the ritual."
-		""
-		"Speaking about your Dictionary of Spirits, it's time to open it up! On the left, click on the &dPentacles&r tab and click on &bAviar's Circle&r. You might have to advance through it by reading a little bit. There is also a way to click \\\"Mark All As Read\\\" so it unlocks everything in the Book."
-		""
-		"This is what we're going to use to summon our new friend. On the right side, you can click the eye in the bottom-left corner of the image to build an outline of the ritual for you in the world. This is super helpful!"
-		""
-		"Once you've completed the multi-block ritual, place down 4 (or more for future rituals) Sacrificial Bowls anywhere within 8 block horizontal radius from the center Sacrificial Bowl and use the required items on them. Once you place your Bound Book in the Golden Sacrificial Bowl, the ritual will start!"
-		""
-		"This is what the ritual will look like."
-		""
-		"{image:atm:textures/questpics/occultism/aviarcircle_v2.png width:200 height:200 align:1}"
-	]
-	quest.4F35D04721DFC9FF.quest_subtitle: "Aviar's Circle"
-	quest.4F35D04721DFC9FF.title: "&bOur First &dRitual"
 	quest.4F3B4990BE6C2A4A.quest_desc: [
 		"&7Scintlings&r are little innocent Slugs found everywhere in the &2&lUndergarden&r. \\n\\nThey act like Snow Golems as in they leave a trail wherever they walk. Just this one is more Gooey... \\n\\nOn death they drop Scintling Goo, but you can just farm it from their trails, so why kill them!"
 		"{image:atm:textures/questpics/undergarden/undergarden_scintling.png width:150 height:100 align:center}"
@@ -8547,8 +8463,6 @@
 		"{image:atm:textures/questpics/cataclysm/cataclysm_monstrosity.png width:100 height:100 align:center}"
 	]
 	quest.53154550397E9704.title: "&c&lNetherite Monstrosity&r"
-	quest.5316DF321B45D2CA.quest_desc: ["Welcome to &dOccultism&r!\\n\\nThis mod aimes to help the player in many different ways by enlisting the help of &c&mDemons&r &bSpirits&r! Don't worry, most of them are friendly. &oMost&r.\\n\\nTo get started, you'll need to get some &aDemon's Fruit Seeds&r."]
-	quest.5316DF321B45D2CA.title: "&dDreaming of &cDemons"
 	quest.531E3FF1F2865C67.quest_subtitle: "For Transferring Heat"
 	quest.532229D285CA4858.quest_desc: [
 		"The &9Importer&r is used to pull items from a connected block. "
@@ -11140,14 +11054,6 @@
 	quest.6C163E005351FF6D.title: "&cTrack Kit&r Whistle"
 	quest.6C16670D16113DE9.quest_desc: ["In order to automate &6&lATM Star&r crafting, we'll need &6Star Shards&r. In order to get &6Star Shards&r we'll need &6Starry Bees&r. \\n\\nAnd of course, to get &6Starry Bees&r we'll need &dPatrick &aBees&r! You can rarely get &dPatrick &aBees&r by fishing in Warm Oceans! \\nIf you don't wish to convert them, you can also farm &dPatrick &aStars&r with them."]
 	quest.6C16670D16113DE9.title: "&dPatrick &aStar&r... Bee?"
-	quest.6C1BBA559963B3DF.quest_desc: [
-		"The &aDictionary Of Spirits&r serves as the Guide Book for &dOccultism&r. You'll absolutely need to make this if you want to continue with the mod!"
-		""
-		"The Dictionary has a quest-style guide inside of it if you'd rather read it instead of doing these quests!"
-		""
-		"You'll also need the book to craft several things in the pack, so you kind of have to make it. :)"
-	]
-	quest.6C1BBA559963B3DF.title: "Little Book o' &cDemons"
 	quest.6C25D42C36175BF4.quest_desc: ["This machine \"Purifies\" our ores. It turns 1 Raw Ore into 2 \"Clumps\", which can then be sent through a Crusher to be turned to dirty dusts, then through an Enrichment Chamber to get clean dust, then through a smelter to be turned to an ingot.\\n\\nThis will double your ingot output.\\n\\nThis machine requires &aOxygen&r to run, which is created by pumping water into an &6Electrolytic Separator&r."]
 	quest.6C25D42C36175BF4.quest_subtitle: "It makes Clumps."
 	quest.6C2C135B9B7B9402.quest_desc: ["&d&lInfusion&r is a special version of &5Enchanting&r which ironically is used for better &5Enchantments&r. \\n\\nWhen the right amount of &aEterna&r, &cQuanta&r, and &5Arcana&r is reached the &5Enchantments&r will offer &d&lInfusion&r. \\n\\n(To know the Levels needed you can check EMI or follow these Quests)"]
@@ -13196,14 +13102,6 @@
 	quest.7F4963FCAE5337EC.title: "&bBurning Ashes"
 	quest.7F4B734CFB0F0306.quest_desc: ["These new &7Carts&r are similar to the special &2Vanilla&r &7Carts&r. The &7Minecart with a Tank&r will hold and move any Liquid held in it. The &7Minecart with an Energy cell&r will instead hold and move Energy!"]
 	quest.7F4B734CFB0F0306.title: "New Carts"
-	quest.7F59941D62E672B0.quest_desc: [
-		"Occultism provides more than just Demons to crush your ores!"
-		""
-		"There are Demons that can move stuff for you, chop down wood, and more!!"
-		""
-		"There are also ways to summon cool friends known as &dFamiliars&r that give special buffs and even fight for you! Make sure to check out the &dFamiliar Rituals&r in your guide book!"
-	]
-	quest.7F59941D62E672B0.title: "&dFamiliars"
 	quest.7F5DAB3EDB6E9592.quest_desc: [
 		"There is going to be a lot of Trinaquah being made."
 		""
@@ -13681,7 +13579,6 @@
 	task.47D34EA29A06AACD.title: "Understanding this page"
 	task.484375E0BC0F9177.title: "Builds from our friends"
 	task.4851C74261B5FA25.title: "AllRightsReserved"
-	task.485E17B9E80D5DFF.title: "Occultism Pickaxes"
 	task.4892144C32DCEB55.title: "Painted Planks"
 	task.489419C982E77CD2.title: "Pickaxe Heads"
 	task.48A30B08A090BD75.title: "Wrenches"
