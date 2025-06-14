@@ -1,3 +1,6 @@
+# Ignore all .tmp files
+*.tmp
+
 # Ignore all .log files
 *.log
 
@@ -6,3 +9,10 @@ instance/simplebackups/
 
 # Ignore crash-reports
 instance/crash-reports
+
+# Ignore Private info
+instance/usercache.json
+instance/usernamecache.json
+
+# Other
+instance/TrashSlotSave.json
